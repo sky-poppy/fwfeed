@@ -7,7 +7,7 @@ I was always interested to know if the popular blocklists were actually effectiv
 
 
 
-blocklist_honeypot_ip4_all.txt - The honeypot all file is plain txt for any purpose, mainly used as a blocklist for incoming connection for public hosts or open port forwards.
+blocklist_honeypot_ip4_all.txt - The honeypot is plain txt for any purpose, mainly used as a blocklist for incoming connection for public hosts or open port forwards.
 
 blocklist_honeypot_firewall_stats.txt - Honeypot report showing bad actor trends and has a overlap section against other popular blocklists to ask the question - Is this list unique or simply the same as other blocklists  ie why bother, or yes we need it.
 
