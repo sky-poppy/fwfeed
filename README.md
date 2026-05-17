@@ -4,9 +4,7 @@ Firewall ip blocklist
 Our honeypot loggers are based in New Zealand, the blocklist is self grown from real ngnix and firewall logging of bad actor IP content using dynamic public IPs that are renewed weekly.
 
 I was always interested to know if the popular blocklists were actually effective or just statistics for sales purposes, thats even before we know if they are up to date so this was created to measure blocklist effectiveness.
-
-
-
+=
 blocklist_honeypot_ip4_all.txt - The honeypot is plain txt for any purpose, mainly used as a blocklist for incoming connection for public hosts or open port forwards.
 
 blocklist_honeypot_firewall_stats.txt - Honeypot report showing bad actor trends and has a overlap section against other popular blocklists to ask the question - Is this list unique or simply the same as other blocklists  ie why bother, or yes we need it.
@@ -15,6 +13,9 @@ abuse_ba_404_list.txt - 404 report showing some attempts on webhost.
 
 abuse_asn_log_cidr_5plus_ip.txt - ASN abuse report to show trends.
 
+
+WHITELIST A IP ADDRESS
+See link https://doesnotcompute.supportu.nz/ip-address-lookup-honeypot
 
 PREDICTIVE BLOCKLISTS
 I do have service for predictive blocklists based on patterns detected to prevent zero day compromises.
