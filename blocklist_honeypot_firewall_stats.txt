@@ -264,16 +264,16 @@ HONEYPOT STATS, UNIQUE IP COUNT
 Bad actor IP count all: 167060
 
 HONEYPOT STATS, LAST 24 HOURS
-Repeating Honeypot IP: 6380
-Predicted Honeypot IP: 583
-External Blocklist IP: 42
-Unknown/New IP: 1588
+Repeating Honeypot IP: 3860
+Predicted Honeypot IP: 314
+External Blocklist IP: 17
+Unknown/New IP: 728
 
 HONEYPOT STATS, LAST 14 DAYS
-Repeating Honeypot IP: 16609
+Repeating Honeypot IP: 16310
 Predicted Honeypot IP: 4709
 External Blocklist IP: 339
-Unknown/New IP: 11775
+Unknown/New IP: 10885
 
 HONEYPOT STATS, NEW AND REPEAT TIMELINE (Added May2026, awaiting stats accumulation)
 This is a measurement of what activity level is found across the dataset over time as the honeypot dataset grows.
@@ -324,19 +324,19 @@ Last 14 days 203
 LIST RATED: TOLERANT
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 12
-Last 14 days 214
+Last 14 days 194
 
 25 OR MORE IPs EXIST PER /24 CIDR: 569
 LIST RATED: AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 14
-Last 14 days 325
+Last 14 days 293
 
 5 OR MORE IPs EXIST PER /24 CIDR: 1466
 LIST RATED: EXTREMELY AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 58
-Last 14 days 755
+Last 24 hrs 29
+Last 14 days 690
 
 
 ASN ABUSE FOUND VS HONEYPOT DATASET
@@ -358,16 +358,16 @@ HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using hosted compute services, Azure, AWS, others.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 440
-Last 14 days 2927
+Last 24 hrs 237
+Last 14 days 2760
 
 
 HOSTED VPN IP COUNT, WHITELIST YOUR OWN VPN SERVICE PROVIDER IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using a VPN service.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 41
-Last 14 days 668
+Last 24 hrs 21
+Last 14 days 556
 
 
 HONEYPOT IP COMPARISON - OVERLAP COUNT
@@ -408,4 +408,4 @@ Honeypot has 9107 IPs that overlap in Opendbl ipsum blocklist 19686 IPs.
 Honeypot has 12 IPs that overlap in Greynoise blocklist 4252 IPs.
 
 
-Created on: 20260518231744
+Created on: 20260518232523
