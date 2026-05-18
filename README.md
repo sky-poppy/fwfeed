@@ -1,7 +1,7 @@
 # fwfeed
 Firewall ip blocklist 
 
-Our honeypot loggers are based in New Zealand, the blocklist is self grown from real ngnix and firewall logging of bad actor IP content using dynamic public IPs that are renewed weekly.
+Our honeypot loggers are based in New Zealand, the blocklist is self grown from real nginx and firewall logging of bad actor IP content using dynamic public IPs that are renewed weekly.
 
 I was always interested to know if the popular blocklists were actually effective or just statistics for sales purposes, thats even before we know if they are up to date so this was created to measure blocklist effectiveness.
 
