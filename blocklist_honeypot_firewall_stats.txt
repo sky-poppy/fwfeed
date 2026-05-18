@@ -280,32 +280,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 1.204%
-25-48 hrs: 0.937%
-Day 2-3: 0.613%
-Day 3-4: 0.792%
-Day 4-5: 0.793%
-Day 5-6: 0.888%
-Day 6-7: 0.890%
-Day 7-8: 0.766%
-8-14 days: 9.545%
-15-30 days: 83.572%
+<= 24 hrs: 1.140%
+25-48 hrs: 1.015%
+Day 2-3: 0.595%
+Day 3-4: 0.692%
+Day 4-5: 0.883%
+Day 5-6: 0.826%
+Day 6-7: 0.903%
+Day 7-8: 0.756%
+8-14 days: 9.597%
+15-30 days: 83.593%
 31-60 days: 0.000%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 21.103%
-25-48 hrs: 11.341%
-Day 2-3: 7.645%
-Day 3-4: 6.555%
-Day 4-5: 2.164%
-Day 5-6: 2.432%
-Day 6-7: 2.275%
-Day 7-8: 2.290%
-8-14 days: 26.315%
-15-30 days: 12.557%
-31-60 days: 5.323%
+<= 24 hrs: 21.213%
+25-48 hrs: 11.439%
+Day 2-3: 7.370%
+Day 3-4: 6.678%
+Day 4-5: 0.786%
+Day 5-6: 2.137%
+Day 6-7: 2.388%
+Day 7-8: 2.247%
+8-14 days: 24.984%
+15-30 days: 15.493%
+31-60 days: 5.264%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -408,4 +408,4 @@ Honeypot has 9110 IPs that overlap in Opendbl ipsum blocklist 19686 IPs.
 Honeypot has 12 IPs that overlap in Greynoise blocklist 4252 IPs.
 
 
-Created on: 20260519003024
+Created on: 20260519010526
