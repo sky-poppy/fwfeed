@@ -279,32 +279,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.977%
-25-48 hrs: 1.068%
-Day 2-3: 0.805%
-Day 3-4: 0.605%
-Day 4-5: 0.891%
-Day 5-6: 0.696%
-Day 6-7: 0.964%
-Day 7-8: 1.054%
-8-14 days: 9.416%
-15-30 days: 83.525%
+<= 24 hrs: 0.980%
+25-48 hrs: 1.116%
+Day 2-3: 0.873%
+Day 3-4: 0.583%
+Day 4-5: 0.830%
+Day 5-6: 0.748%
+Day 6-7: 0.898%
+Day 7-8: 0.862%
+8-14 days: 9.635%
+15-30 days: 83.475%
 31-60 days: 0.000%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 21.192%
-25-48 hrs: 10.681%
-Day 2-3: 8.072%
-Day 3-4: 6.498%
-Day 4-5: 3.442%
-Day 5-6: 2.037%
-Day 6-7: 2.300%
-Day 7-8: 2.192%
-8-14 days: 23.815%
-15-30 days: 14.786%
-31-60 days: 4.985%
+<= 24 hrs: 22.251%
+25-48 hrs: 9.828%
+Day 2-3: 8.077%
+Day 3-4: 5.958%
+Day 4-5: 4.622%
+Day 5-6: 2.027%
+Day 6-7: 2.257%
+Day 7-8: 2.135%
+8-14 days: 23.342%
+15-30 days: 14.558%
+31-60 days: 4.945%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -379,7 +379,8 @@ Bad actor IPs looking at firewall appliance has logged IP information when firew
 External lists have their own overlap quantity but the lists can be used for different security requirements for any
 administrative purposes. We use these external lists as measurement tools to evaluate the performance of the honeypot.
 
-Note: We have flattened the IP lists and also removed private networks from the external lists so the qty of IP found are internet IPs and not millions of privately addressed IPs.
+Note: Any lists with CIDR will be flattened and private networks removed from the external lists so the qty of IP found are internet IPs and not millions of privately addressed IPs.
+Many of these lists are sandwiched with the IP ingredients from other lists to try and simplify blocklist use. Examples: Firehol, Bitwire, Romainmarcoux lists.
 
 
 HONEYPOT COUNT UNIQUE IPs: 167640
@@ -405,6 +406,10 @@ Honeypot has 0 IPs that overlap in AbuseIPDB 90Day blocklist 268461 IPs.
 Honeypot has 185 IPs that overlap in IdleAdmin Tor Exit blocklist 1269 IPs.
 Honeypot has 9228 IPs that overlap in Opendbl ipsum blocklist 19840 IPs.
 Honeypot has 10 IPs that overlap in Greynoise blocklist 4871 IPs.
+Honeypot has 46889 IPs that overlap in Romainmarcoux 300k aa blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 13811 IPs that overlap in Romainmarcoux 300k ab blocklist 235102 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 0 IPs that overlap in Romainmarcoux 300k ac blocklist 0 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 0 IPs that overlap in Romainmarcoux 300k ad blocklist 0 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260519164024
+Created on: 20260519170524
