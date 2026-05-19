@@ -381,7 +381,8 @@ administrative purposes. We use these external lists as measurement tools to eva
 
 Note: Any lists with CIDR will be flattened and private networks removed from the external lists so the qty of IP found are internet IPs and not millions of privately addressed IPs.
 Many of these lists are sandwiched with the IP ingredients from other lists to try and simplify blocklist use. Examples: Firehol, Bitwire, Romainmarcoux lists.
-The re-use of IP information across various blocklists is not providing good protection as the seeding of new IP information is not as active compared to reporting of existing list information.
+The re-use of IP information across various blocklists is not providing good protection, the amount of energy spend on reporting and tracking for existing lists far
+exceeds the energy or effort used to collect new bad actor IP information.
 
 HONEYPOT COUNT UNIQUE IPs: 167660
 Honeypot has 4177 IPs that overlap in Firehol 1 blocklist 40304395 IPs. - https://iplists.firehol.org/?ipset=firehol_level1
@@ -415,4 +416,4 @@ Honeypot has 14784 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2902 IPs that overlap in Romainmarcoux ab outbound blocklist 64991 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260519171813
+Created on: 20260519175525
