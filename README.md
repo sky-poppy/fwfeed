@@ -11,13 +11,13 @@ blocklist_honeypot_ip4_all.txt - The blocklist is plain txt for any purpose, mai
 
 blocklist_honeypot_ip4_cidr_agg.txt - CIDR aggregation file, updated less frequently, same content as all.txt file.
 
-abuse_ba_404_list.txt - 404 report showing some attempts on webhost.
+abuse_ba_404_list.txt - 404 report showing some invalid file trends on webhosts.
 
 abuse_asn_log_cidr_5plus_ip.txt - ASN abuse report to show trends.
 
 asn_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on webhosts. These IPs are not whitelisted automatically without human checks. This is to verify genuine "purposeful" web crawlers vs junk or pretend crawlers showing as "GoogleBot" or "BingBot" in log files.
 
-allow_letsencrypt_ip.txt - Lets Encrypt IPs found in nginx logs, automatically excluded from blocklist).
+allow_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
 
 
 WHITELIST A IP ADDRESS
