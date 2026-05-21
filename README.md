@@ -28,7 +28,7 @@ Cloudflare, bingbot, googlebot and a few others like openai, these items have be
 
 PREDICTIVE BLOCKLISTS
 I do have service for predictive blocklists based on patterns detected to prevent zero day compromises.
-reach out to datatwolimited@gmail.com, MSPs and security focused individuals see report https://github.com/sky-poppy/fwfeed/blob/main/blocklist_honeypot_firewall_stats.txt
+reach out to datatwolimited@gmail.com, MSPs and security focused individuals see report https://github.com/sky-poppy/fwfeed/blob/main/blocklist_honeypot_firewall_stats.txt - See predictive lines within the stats file.
 
 PUBLIC REQUEST
 To the large scale service hosting providers like Microsoft, Google, Cloudflare, Let's Encrypt (and other AI and research entities).
