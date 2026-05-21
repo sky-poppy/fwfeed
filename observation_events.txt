@@ -1,8 +1,9 @@
 # Weird Stuff
 
 # 2026-05-21 
-# Flood of connections for port 4790 UDP from NZ based IP connections, possible these are compromised hosts used within in the region.
-# Acquired new DHCP Public IP, logging for 4790 from hosts stopped after change (Expected).
+# Consistent connections for port 4790 UDP from NZ based IP connections, possible these are compromised hosts used within in the region.
+# 4790 - Virtual eXtensible Local Area Network VXLAN [RFC7348]
+# Acquired new DHCP Public IP, logging for 4790 from hosts stopped after change (Expected, repeat ip already logged). Would not classify as a full DDOS, to small.
 #
 AS4648     IP: 122.56.103.138    PREFIX: 122.56.103.0/24      CC: NZ  DESC: SPARK-NZ Global-Gateway Internet, NZ
 AS4648     IP: 122.56.106.226    PREFIX: 122.56.106.0/24      CC: NZ  DESC: SPARK-NZ Global-Gateway Internet, NZ
@@ -73,7 +74,7 @@ AS14593    IP: 206.83.102.255    PREFIX: 206.83.96.0/21       CC: US  DESC: SPAC
 AS14593    IP: 206.83.103.117    PREFIX: 206.83.96.0/21       CC: US  DESC: SPACEX-STARLINK - Space Exploration Technologies Corporation, US
 AS14593    IP: 206.83.103.251    PREFIX: 206.83.96.0/21       CC: US  DESC: SPACEX-STARLINK - Space Exploration Technologies Corporation, US
 
-### IP over longer time over month of may to port 4790
+### IP over longer time over month of may 2026 to port 4790
 AS174      IP: 207.90.244.17     PREFIX: 207.90.244.0/24      CC: US  DESC: COGENT-174 - Cogent Communications, LLC, US
 AS4648     IP: 122.56.103.138    PREFIX: 122.56.103.0/24      CC: NZ  DESC: SPARK-NZ Global-Gateway Internet, NZ
 AS4648     IP: 122.56.106.226    PREFIX: 122.56.106.0/24      CC: NZ  DESC: SPARK-NZ Global-Gateway Internet, NZ
