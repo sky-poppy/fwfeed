@@ -317,7 +317,7 @@ You might choose to use an aggressive IP policy when multiple patterns are spott
 LIST RATED: CONSERVATIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 7
-Last 14 days 192
+Last 14 days 185
 
 50 OR MORE IPs EXIST PER /24 CIDR: 431
 LIST RATED: TOLERANT
@@ -334,8 +334,8 @@ Last 14 days 247
 5 OR MORE IPs EXIST PER /24 CIDR: 1488
 LIST RATED: EXTREMELY AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 63
-Last 14 days 569
+Last 24 hrs 32
+Last 14 days 517
 
 
 ASN ABUSE FOUND VS HONEYPOT DATASET
@@ -357,16 +357,16 @@ HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using hosted compute services, Azure, AWS, others.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 392
-Last 14 days 3343
+Last 24 hrs 182
+Last 14 days 3178
 
 
 HOSTED VPN IP COUNT, WHITELIST YOUR OWN VPN SERVICE PROVIDER IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using a VPN service.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 40
-Last 14 days 347
+Last 24 hrs 17
+Last 14 days 289
 
 
 HONEYPOT IP COMPARISON - OVERLAP COUNT
@@ -416,4 +416,4 @@ Honeypot has 15126 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2937 IPs that overlap in Romainmarcoux ab outbound blocklist 64764 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260523231801
+Created on: 20260523232024
