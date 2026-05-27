@@ -278,32 +278,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.709%
-25-48 hrs: 0.743%
-Day 2-3: 0.907%
-Day 3-4: 0.851%
-Day 4-5: 0.802%
-Day 5-6: 0.647%
-Day 6-7: 0.741%
-Day 7-8: 0.732%
-8-14 days: 5.354%
-15-30 days: 88.513%
+<= 24 hrs: 0.661%
+25-48 hrs: 0.742%
+Day 2-3: 0.846%
+Day 3-4: 0.921%
+Day 4-5: 0.822%
+Day 5-6: 0.662%
+Day 6-7: 0.695%
+Day 7-8: 0.764%
+8-14 days: 5.326%
+15-30 days: 88.560%
 31-60 days: 0.001%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 17.629%
-25-48 hrs: 8.745%
-Day 2-3: 7.195%
-Day 3-4: 5.242%
-Day 4-5: 5.255%
-Day 5-6: 2.256%
-Day 6-7: 5.557%
-Day 7-8: 3.818%
-8-14 days: 16.671%
-15-30 days: 20.123%
-31-60 days: 7.510%
+<= 24 hrs: 17.576%
+25-48 hrs: 9.027%
+Day 2-3: 6.814%
+Day 3-4: 5.532%
+Day 4-5: 4.891%
+Day 5-6: 2.628%
+Day 6-7: 5.054%
+Day 7-8: 3.998%
+8-14 days: 17.035%
+15-30 days: 19.977%
+31-60 days: 7.468%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -415,4 +415,4 @@ Honeypot has 14661 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2936 IPs that overlap in Romainmarcoux ab outbound blocklist 62544 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260527201821
+Created on: 20260527210024
