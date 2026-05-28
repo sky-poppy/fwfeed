@@ -279,32 +279,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.693%
-25-48 hrs: 0.643%
-Day 2-3: 0.701%
-Day 3-4: 0.842%
-Day 4-5: 0.944%
-Day 5-6: 0.768%
-Day 6-7: 0.767%
-Day 7-8: 0.579%
-8-14 days: 5.276%
-15-30 days: 88.708%
+<= 24 hrs: 0.681%
+25-48 hrs: 0.634%
+Day 2-3: 0.684%
+Day 3-4: 0.849%
+Day 4-5: 0.969%
+Day 5-6: 0.753%
+Day 6-7: 0.827%
+Day 7-8: 0.524%
+8-14 days: 5.283%
+15-30 days: 88.717%
 31-60 days: 0.078%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 15.877%
-25-48 hrs: 9.639%
-Day 2-3: 7.355%
-Day 3-4: 5.280%
-Day 4-5: 4.568%
-Day 5-6: 4.556%
-Day 6-7: 2.849%
-Day 7-8: 3.831%
-8-14 days: 17.178%
-15-30 days: 21.316%
-31-60 days: 7.515%
+<= 24 hrs: 15.724%
+25-48 hrs: 9.564%
+Day 2-3: 7.580%
+Day 3-4: 5.045%
+Day 4-5: 4.837%
+Day 5-6: 4.372%
+Day 6-7: 3.233%
+Day 7-8: 3.159%
+8-14 days: 17.744%
+15-30 days: 21.259%
+31-60 days: 7.482%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -341,16 +341,6 @@ Last 14 days 470
 ASN ABUSE FOUND VS HONEYPOT DATASET
 5+ IP PER /24 CIDR EXPORT LINK: https://github.com/sky-poppy/fwfeed/blob/main/abuse_asn_log_cidr_5plus_ip.txt
 ASN ABUSE TOP 10
-HONEYPOT IP:18128    AS53107    access_provider business        BR    EVEO S.A.
-HONEYPOT IP:12071    AS14061    access_provider hosting         US    DigitalOcean LLC
-HONEYPOT IP:7653     AS16276    major_transit   hosting         FR    OVH SAS
-HONEYPOT IP:6618     AS396982   stub            hosting         US    Google LLC
-HONEYPOT IP:6472     AS8075     access_provider hosting         US    Microsoft Corporation
-HONEYPOT IP:4944     AS4134     major_transit   isp             CN    China Telecom
-HONEYPOT IP:4470     AS17222    major_transit   isp             BR    MUNDIVOX DO BRASIL LTDA
-HONEYPOT IP:4291     AS45102    access_provider hosting         US    Alibaba (China) Technology Co. Ltd.
-HONEYPOT IP:3566     AS4837     major_transit   isp             CN    CHINA UNICOM China169 Backbone
-HONEYPOT IP:3513     AS16509    midsize_transit hosting         US    Amazon.com Inc.
 
 
 HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
@@ -416,4 +406,4 @@ Honeypot has 14927 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2642 IPs that overlap in Romainmarcoux ab outbound blocklist 62564 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260529041755
+Created on: 20260529045531
