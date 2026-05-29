@@ -277,32 +277,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.635%
-25-48 hrs: 0.662%
-Day 2-3: 0.626%
-Day 3-4: 0.692%
-Day 4-5: 0.834%
-Day 5-6: 0.934%
-Day 6-7: 0.756%
-Day 7-8: 0.756%
-8-14 days: 5.022%
-15-30 days: 89.000%
+<= 24 hrs: 0.648%
+25-48 hrs: 0.654%
+Day 2-3: 0.614%
+Day 3-4: 0.672%
+Day 4-5: 0.842%
+Day 5-6: 0.958%
+Day 6-7: 0.743%
+Day 7-8: 0.814%
+8-14 days: 4.940%
+15-30 days: 89.035%
 31-60 days: 0.080%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 15.183%
-25-48 hrs: 8.367%
-Day 2-3: 7.555%
-Day 3-4: 6.248%
-Day 4-5: 4.419%
-Day 5-6: 3.620%
-Day 6-7: 3.935%
-Day 7-8: 2.712%
-8-14 days: 19.663%
-15-30 days: 20.862%
-31-60 days: 7.434%
+<= 24 hrs: 15.051%
+25-48 hrs: 8.413%
+Day 2-3: 7.520%
+Day 3-4: 6.421%
+Day 4-5: 4.237%
+Day 5-6: 3.899%
+Day 6-7: 3.766%
+Day 7-8: 3.042%
+8-14 days: 19.215%
+15-30 days: 21.038%
+31-60 days: 7.399%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -311,17 +311,17 @@ See AS category files here https://github.com/sky-poppy/fwfeed/tree/main/ASN_CAT
 NEW IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  50.000%   51.752%  isp
-  43.750%   39.979%  hosting
-   7.904%   10.416%  business
-   2.022%    1.378%  business_subcat_net_or_isp
-   0.000%    0.316%  education_research
-   0.000%    0.147%  government_admin
-   0.000%    0.137%  education_research_subcat_institute
-   0.000%    0.105%  uncategorized
-   0.000%    0.074%  education_research_subcat_university
-   0.000%    0.032%  business_subcat_fin
-   0.000%    0.011%  government_admin_subcat_mil
+  52.756%   51.917%  isp
+  41.260%   39.850%  hosting
+   7.874%   10.390%  business
+   1.890%    1.376%  business_subcat_net_or_isp
+   0.000%    0.313%  education_research
+   0.000%    0.146%  government_admin
+   0.000%    0.135%  education_research_subcat_institute
+   0.000%    0.104%  uncategorized
+   0.000%    0.073%  education_research_subcat_university
+   0.000%    0.031%  business_subcat_fin
+   0.000%    0.010%  government_admin_subcat_mil
    0.000%    0.000%  education_research_subcat_science
    0.000%    0.000%  government_admin_subcat_infra
 
@@ -329,16 +329,16 @@ NEW IPs
 REPEATING IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  75.150%   71.330%  hosting
-  17.684%   17.512%  business
-   8.206%   12.212%  isp
-   3.722%    2.757%  business_subcat_net_or_isp
-   0.254%    0.527%  education_research
-   0.162%    0.386%  education_research_subcat_institute
-   0.116%    0.098%  education_research_subcat_university
-   0.231%    0.074%  business_subcat_fin
-   0.046%    0.031%  government_admin
-   0.023%    0.025%  uncategorized
+  75.141%   71.244%  hosting
+  17.589%   17.532%  business
+   8.252%   12.267%  isp
+   3.510%    2.757%  business_subcat_net_or_isp
+   0.272%    0.531%  education_research
+   0.167%    0.384%  education_research_subcat_institute
+   0.104%    0.098%  education_research_subcat_university
+   0.209%    0.073%  business_subcat_fin
+   0.042%    0.031%  government_admin
+   0.021%    0.024%  uncategorized
    0.000%    0.000%  education_research_subcat_science
    0.000%    0.000%  government_admin_subcat_infra
    0.000%    0.000%  government_admin_subcat_mil
@@ -346,10 +346,10 @@ REPEATING IPs
 
 ALL DATASET IPs  
 ------------------------------------------------
-  39.632%  hosting
-  37.636%  isp
-  21.359%  business
-   1.117%  government_admin
+  39.626%  hosting
+  37.651%  isp
+  21.352%  business
+   1.116%  government_admin
    1.095%  business_subcat_net_or_isp
    0.908%  government_admin_subcat_mil
    0.795%  education_research
@@ -364,16 +364,6 @@ ALL DATASET IPs
 ASN ABUSE FOUND VS HONEYPOT DATASET
 5+ IP PER /24 CIDR EXPORT LINK: https://github.com/sky-poppy/fwfeed/blob/main/abuse_asn_log_cidr_5plus_ip.txt
 ASN ABUSE TOP 10
-HONEYPOT IP:18128    AS53107    access_provider business        BR    EVEO S.A.
-HONEYPOT IP:12158    AS14061    access_provider hosting         US    DigitalOcean LLC
-HONEYPOT IP:7657     AS16276    major_transit   hosting         FR    OVH SAS
-HONEYPOT IP:6654     AS396982   stub            hosting         US    Google LLC
-HONEYPOT IP:6488     AS8075     access_provider hosting         US    Microsoft Corporation
-HONEYPOT IP:5003     AS4134     major_transit   isp             CN    China Telecom
-HONEYPOT IP:4470     AS17222    major_transit   isp             BR    MUNDIVOX DO BRASIL LTDA
-HONEYPOT IP:4300     AS45102    access_provider hosting         US    Alibaba (China) Technology Co. Ltd.
-HONEYPOT IP:3588     AS4837     major_transit   isp             CN    CHINA UNICOM China169 Backbone
-HONEYPOT IP:3518     AS16509    midsize_transit hosting         US    Amazon.com Inc.
 
 
 HONEYPOT PREDICTIVE CIDR LISTS
@@ -466,4 +456,4 @@ Honeypot has 14853 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2735 IPs that overlap in Romainmarcoux ab outbound blocklist 61045 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260530043025
+Created on: 20260530045533
