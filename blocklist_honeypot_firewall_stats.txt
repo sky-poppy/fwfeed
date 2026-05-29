@@ -355,6 +355,21 @@ ALL DATASET IPs
    0.008%  government_admin_subcat_infra
 
 
+ASN ABUSE FOUND VS HONEYPOT DATASET
+5+ IP PER /24 CIDR EXPORT LINK: https://github.com/sky-poppy/fwfeed/blob/main/abuse_asn_log_cidr_5plus_ip.txt
+ASN ABUSE TOP 10
+HONEYPOT IP:18128    AS53107    access_provider business        BR    EVEO S.A.
+HONEYPOT IP:12158    AS14061    access_provider hosting         US    DigitalOcean LLC
+HONEYPOT IP:7657     AS16276    major_transit   hosting         FR    OVH SAS
+HONEYPOT IP:6654     AS396982   stub            hosting         US    Google LLC
+HONEYPOT IP:6488     AS8075     access_provider hosting         US    Microsoft Corporation
+HONEYPOT IP:5003     AS4134     major_transit   isp             CN    China Telecom
+HONEYPOT IP:4470     AS17222    major_transit   isp             BR    MUNDIVOX DO BRASIL LTDA
+HONEYPOT IP:4300     AS45102    access_provider hosting         US    Alibaba (China) Technology Co. Ltd.
+HONEYPOT IP:3588     AS4837     major_transit   isp             CN    CHINA UNICOM China169 Backbone
+HONEYPOT IP:3518     AS16509    midsize_transit hosting         US    Amazon.com Inc.
+
+
 HONEYPOT PREDICTIVE CIDR LISTS
 This is where a higher frequency of bad actor IPs show up in a IP CIDR range 255.255.255.0 /24.
 You might choose to use an aggressive IP policy when multiple patterns are spotted.
@@ -382,21 +397,6 @@ LIST RATED: EXTREMELY AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 70
 Last 14 days 454
-
-
-ASN ABUSE FOUND VS HONEYPOT DATASET
-5+ IP PER /24 CIDR EXPORT LINK: https://github.com/sky-poppy/fwfeed/blob/main/abuse_asn_log_cidr_5plus_ip.txt
-ASN ABUSE TOP 10
-HONEYPOT IP:18128    AS53107    access_provider business        BR    EVEO S.A.
-HONEYPOT IP:12158    AS14061    access_provider hosting         US    DigitalOcean LLC
-HONEYPOT IP:7657     AS16276    major_transit   hosting         FR    OVH SAS
-HONEYPOT IP:6654     AS396982   stub            hosting         US    Google LLC
-HONEYPOT IP:6488     AS8075     access_provider hosting         US    Microsoft Corporation
-HONEYPOT IP:5003     AS4134     major_transit   isp             CN    China Telecom
-HONEYPOT IP:4470     AS17222    major_transit   isp             BR    MUNDIVOX DO BRASIL LTDA
-HONEYPOT IP:4300     AS45102    access_provider hosting         US    Alibaba (China) Technology Co. Ltd.
-HONEYPOT IP:3588     AS4837     major_transit   isp             CN    CHINA UNICOM China169 Backbone
-HONEYPOT IP:3518     AS16509    midsize_transit hosting         US    Amazon.com Inc.
 
 
 HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
@@ -460,4 +460,4 @@ Honeypot has 14967 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2652 IPs that overlap in Romainmarcoux ab outbound blocklist 62564 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260529171751
+Created on: 20260529175525
