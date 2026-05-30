@@ -277,32 +277,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.579%
-25-48 hrs: 0.627%
-Day 2-3: 0.642%
-Day 3-4: 0.603%
-Day 4-5: 0.659%
-Day 5-6: 0.835%
-Day 6-7: 0.949%
-Day 7-8: 0.736%
-8-14 days: 5.129%
-15-30 days: 89.161%
+<= 24 hrs: 0.572%
+25-48 hrs: 0.628%
+Day 2-3: 0.608%
+Day 3-4: 0.624%
+Day 4-5: 0.637%
+Day 5-6: 0.817%
+Day 6-7: 0.988%
+Day 7-8: 0.720%
+8-14 days: 5.153%
+15-30 days: 89.172%
 31-60 days: 0.080%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 15.453%
-25-48 hrs: 7.733%
-Day 2-3: 6.438%
-Day 3-4: 5.975%
-Day 4-5: 5.464%
-Day 5-6: 3.563%
-Day 6-7: 3.528%
-Day 7-8: 3.397%
-8-14 days: 18.720%
-15-30 days: 22.509%
-31-60 days: 7.222%
+<= 24 hrs: 15.584%
+25-48 hrs: 7.324%
+Day 2-3: 6.838%
+Day 3-4: 5.783%
+Day 4-5: 5.523%
+Day 5-6: 3.674%
+Day 6-7: 3.567%
+Day 7-8: 3.164%
+8-14 days: 18.666%
+15-30 days: 22.683%
+31-60 days: 7.194%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -311,16 +311,16 @@ See AS category files here https://github.com/sky-poppy/fwfeed/tree/main/ASN_CAT
 NEW IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  55.987%   52.206%  isp
-  35.599%   39.912%  hosting
-   9.709%    9.973%  business
-   1.456%    1.380%  business_subcat_net_or_isp
-   0.485%    0.345%  education_research
-   0.324%    0.157%  government_admin
-   0.162%    0.146%  education_research_subcat_institute
-   0.000%    0.105%  uncategorized
-   0.324%    0.094%  education_research_subcat_university
-   0.162%    0.042%  business_subcat_fin
+  56.105%   52.242%  isp
+  35.465%   39.871%  hosting
+   9.593%    9.963%  business
+   1.453%    1.380%  business_subcat_net_or_isp
+   0.436%    0.342%  education_research
+   0.291%    0.156%  government_admin
+   0.145%    0.145%  education_research_subcat_institute
+   0.000%    0.104%  uncategorized
+   0.291%    0.093%  education_research_subcat_university
+   0.145%    0.042%  business_subcat_fin
    0.000%    0.010%  government_admin_subcat_mil
    0.000%    0.000%  education_research_subcat_science
    0.000%    0.000%  government_admin_subcat_infra
@@ -329,26 +329,26 @@ NEW IPs
 REPEATING IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  77.443%   71.100%  hosting
-  14.903%   17.551%  business
-   8.510%   12.409%  isp
-   1.753%    2.723%  business_subcat_net_or_isp
-   0.406%    0.542%  education_research
-   0.171%    0.390%  education_research_subcat_institute
-   0.192%    0.097%  education_research_subcat_university
-   0.214%    0.079%  business_subcat_fin
-   0.021%    0.037%  government_admin
-   0.043%    0.030%  uncategorized
-   0.021%    0.006%  government_admin_subcat_infra
+  77.578%   71.073%  hosting
+  14.682%   17.524%  business
+   8.618%   12.466%  isp
+   1.735%    2.720%  business_subcat_net_or_isp
+   0.379%    0.540%  education_research
+   0.160%    0.389%  education_research_subcat_institute
+   0.180%    0.097%  education_research_subcat_university
+   0.199%    0.079%  business_subcat_fin
+   0.020%    0.036%  government_admin
+   0.040%    0.030%  uncategorized
+   0.020%    0.006%  government_admin_subcat_infra
    0.000%    0.000%  education_research_subcat_science
    0.000%    0.000%  government_admin_subcat_mil
 
 
 ALL DATASET IPs  
 ------------------------------------------------
-  39.616%  hosting
-  37.700%  isp
-  21.319%  business
+  39.615%  hosting
+  37.708%  isp
+  21.314%  business
    1.114%  government_admin
    1.069%  business_subcat_net_or_isp
    0.905%  government_admin_subcat_mil
@@ -466,4 +466,4 @@ Honeypot has 15100 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2750 IPs that overlap in Romainmarcoux ab outbound blocklist 60837 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260531082525
+Created on: 20260531090025
