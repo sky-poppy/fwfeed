@@ -94,6 +94,7 @@ AS714        17.246.15.25       17.128.0.0/9           US       APPLE-ENGINEERIN
 AS714        17.246.15.65       17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.246.15.133      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.246.15.167      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
+AS714        17.246.15.172      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.246.15.188      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.246.15.217      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.246.15.227      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
@@ -501,6 +502,7 @@ AS9808       120.240.178.224    120.240.178.0/24       CN       CHINAMOBILE-CN -
 AS9808       120.240.178.226    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  UBrowser                 
 AS9808       120.240.178.228    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  UBrowser                 
 AS9808       120.240.178.229    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  BrowserAgent             
+AS9808       120.240.178.232    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  QIHU                     
 AS9808       120.240.178.234    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  QIHU                     
 AS9808       120.240.178.237    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  BrowserAgent             
 AS9808       120.240.178.238    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  MetaSr                   
@@ -582,7 +584,7 @@ AS13238      213.180.203.249    213.180.192.0/19       RU       YANDEX - YANDEX 
 AS13335      104.22.56.194      104.22.56.0/24         US       CLOUDFLARENET - Cloudflare, Inc., US                         OAI-SearchBot            
 AS13335      172.71.190.234     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         BrowserAgent             
 AS13335      172.71.190.235     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
-AS14593      143.105.147.238    143.105.147.0/24       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
+AS14593      143.105.147.238    143.105.146.0/23       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
 AS14618      3.82.232.43        3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      3.90.154.246       3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      3.93.128.70        3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
@@ -916,6 +918,7 @@ AS16509      47.128.35.179      47.128.0.0/14          US       AMAZON-02 - Amaz
 AS16509      47.128.38.2        47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.38.15       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.38.19       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
+AS16509      47.128.38.183      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.38.188      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.38.202      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.38.207      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
@@ -924,6 +927,7 @@ AS16509      47.128.38.226      47.128.0.0/14          US       AMAZON-02 - Amaz
 AS16509      47.128.39.7        47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.53       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.55       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
+AS16509      47.128.39.58       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.62       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.70       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.83       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
@@ -1043,10 +1047,12 @@ AS16509      216.73.217.20      216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.217.22      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.24      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.25      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.217.33      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.34      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.46      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.47      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.50      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.217.51      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.55      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.60      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.61      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1068,6 +1074,7 @@ AS16509      216.73.217.129     216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.217.130     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.145     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.150     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.217.169     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.176     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.178     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.179     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1261,6 +1268,7 @@ AS32934      173.252.82.23      173.252.64.0/19        US       FACEBOOK - Faceb
 AS32934      173.252.82.25      173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.82.26      173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.82.27      173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
+AS32934      173.252.82.29      173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.82.30      173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.82.112     173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.82.114     173.252.64.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
@@ -1329,6 +1337,7 @@ AS45102      47.82.11.142       47.82.10.0/23          US       ALIBABA-CN-NET -
 AS45102      47.82.11.149       47.82.10.0/23          US       ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN       BrowserAgent             
 AS45117      45.113.153.218     45.113.153.0/24        IN       INPL-IN-AP - Ishan_s Network, IN                             BrowserAgent             
 AS45609      106.219.216.26     106.219.216.0/23       IN       BHARTI-MOBILITY-AS-AP - Bharti Airtel Ltd. AS for GPRS Service, IN  BrowserAgent             
+AS45899      14.166.136.6       14.166.128.0/20        VN       VNPT-AS-VN - VNPT Corp, VN                                   BrowserAgent             
 AS45899      14.167.75.98       14.167.64.0/20         VN       VNPT-AS-VN - VNPT Corp, VN                                   BrowserAgent             
 AS45899      14.167.96.29       14.167.96.0/20         VN       VNPT-AS-VN - VNPT Corp, VN                                   BrowserAgent             
 AS45899      14.171.178.90      14.171.176.0/20        VN       VNPT-AS-VN - VNPT Corp, VN                                   BrowserAgent             
@@ -1601,4 +1610,4 @@ AS396982     136.114.78.68      136.114.0.0/16         US       GOOGLE-CLOUD-PLA
 AS400810     151.243.143.47     151.243.143.0/24       AE       BREEZETECH - BreezeHost, US                                  YandexBot                
 AS401401     23.191.200.14      23.191.200.0/24        US       UNREDACTED-NOISENET - Unredacted Inc, US                     BrowserAgent             
 
-Created on: 20260531021214
+Created on: 20260601021218
