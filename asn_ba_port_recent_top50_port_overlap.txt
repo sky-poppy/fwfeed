@@ -41,6 +41,7 @@
 82.147.85.34     #AS211860   22 ports   10000,10001,123,1433,21,3000,3306,3389,443,5000,53,5432,5555,5900,7777,80,8000,8080,8081,8181,8888,9000 VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
 5.61.209.224     #AS206264   19 ports   10000,3000,443,5000,5001,80,8000,8001,8008,8080,8081,8090,81,8443,88,8888,9000,9090,9443 AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 130.211.98.26    #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
+13.219.1.233     #AS14618    18 ports   1433,161,162,22,2375,27017,3306,389,443,445,53,5900,6443,8000,8081,8181,8443,9200 AMAZON-AES - Amazon.com, Inc., US
 136.110.118.209  #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 136.118.178.146  #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 176.32.193.16    #AS197834   18 ports   1433,161,22,2222,23,2375,27017,3000,3306,3389,443,4500,5001,53,6379,80,8080,9200 INTERACTIVE - Ucom CJSC, AM
@@ -132,8 +133,6 @@
 35.252.16.211    #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 8.230.105.228    #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 8.231.48.63      #AS396982   18 ports   3000,443,5000,5001,6443,7001,80,8000,8001,8008,8080,8181,8443,8888,9000,9090,9200,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
-13.219.1.233     #AS14618    17 ports   1433,161,162,22,2375,27017,3306,389,443,445,53,6443,8000,8081,8181,8443,9200 AMAZON-AES - Amazon.com, Inc., US
-160.119.76.65    #AS49870    17 ports   10000,10001,123,1433,21,3306,443,53,5432,5555,5900,7777,80,8080,8181,8888,9000 #AS49870-BV - Alsycon B.V., NL
 185.224.128.136  #AS49870    17 ports   10000,443,445,500,5001,5555,6443,7777,80,8001,8080,8081,8090,8181,8443,8888,9443 #AS49870-BV - Alsycon B.V., NL
 45.142.193.12    #AS214295   17 ports   10001,1001,2222,23,3000,389,4500,500,5001,8000,8001,8008,81,8181,88,8888,9443 SKYNET - SKYNET NETWORK LTD, GB
 45.142.193.8     #AS214295   17 ports   10000,10001,3000,3306,4500,5000,5001,5060,5555,5900,7001,7777,8001,8080,8090,81,9000 SKYNET - SKYNET NETWORK LTD, GB
@@ -228,8 +227,6 @@
 91.224.92.32     #AS209605    8 ports   10001,3000,5000,5555,7777,80,8008,81 hostbaltic - UAB Host Baltic, LT
 95.215.0.144     #AS44050     8 ports   23,2375,27017,3306,3389,443,4500,8888 PIN-AS - Petersburg Internet Network ltd., RU
 124.164.251.88   #AS4837      7 ports   22,2222,443,8000,8080,81,8443 CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-147.185.132.55   #AS396982    7 ports   443,445,5000,5001,5060,5900,6443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.64   #AS396982    7 ports   161,389,5001,5060,8443,88,9200 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 167.94.145.18    #AS398705    7 ports   10001,2375,25565,3306,445,6379,80 CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.25    #AS398705    7 ports   10000,22,389,80,8090,81,8443 CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.28    #AS398705    7 ports   22,25565,5060,5900,6443,9000,9090 CENSYS-ARIN-02 - Censys, Inc., US
@@ -253,6 +250,8 @@
 79.124.58.142    #AS50360     7 ports   10001,443,445,4500,5000,8008,9200 TAMATIYA-AS - Tamatiya EOOD, BG
 91.196.152.89    #AS213412    7 ports   2222,3000,3389,443,81,8443,8888 ONYPHE - ONYPHE SAS, FR
 141.98.83.48     #AS209588    6 ports   123,161,22,443,53,80      FLYSERVERS-ASN - Flyservers S.A., PA
+147.185.132.55   #AS396982    6 ports   443,5000,5001,5060,5900,6443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
+147.185.132.64   #AS396982    6 ports   161,5001,5060,8443,88,9200 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.78   #AS396982    6 ports   21,3389,443,53,6443,8000  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.9    #AS396982    6 ports   3389,443,445,5432,8000,8443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 152.32.226.205   #AS135377    6 ports   22,2222,23,2375,443,80    UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
@@ -309,6 +308,7 @@
 147.185.132.180  #AS396982    5 ports   3306,500,5060,5555,80     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.28   #AS396982    5 ports   10000,3306,5060,8080,8888 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.31   #AS396982    5 ports   21,27015,5060,68,7001     GOOGLE-CLOUD-PLATFORM - Google LLC, US
+147.185.132.36   #AS396982    5 ports   10001,22,27017,3000,3306  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.48   #AS396982    5 ports   10001,23,8081,8443,88     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.58   #AS396982    5 ports   10000,27015,3000,445,8888 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.67   #AS396982    5 ports   123,139,161,6443,8081     GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -339,7 +339,6 @@
 195.230.103.244  #AS211607    5 ports   3389,5000,8080,8081,8888  RECORDEDFUTURE - Securitytrails, LLC, US
 195.26.18.82     #AS212617    5 ports   22,2222,23,2375,80        ALDEN-AS - Lynnyk Olexii, UA
 198.235.24.109   #AS396982    5 ports   10001,139,23,443,5432     GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.110   #AS396982    5 ports   1433,3389,5000,8080,8888  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.169   #AS396982    5 ports   10000,3389,443,5000,6443  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.197   #AS396982    5 ports   4500,68,7001,8080,8081    GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.201   #AS396982    5 ports   10001,27015,4500,8080,8888 GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -347,7 +346,6 @@
 198.235.24.248   #AS396982    5 ports   161,21,4500,6379,8080     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.249   #AS396982    5 ports   10001,22,3389,5001,8090   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.52    #AS396982    5 ports   10000,10001,4500,8080,9443 GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.54    #AS396982    5 ports   139,161,21,3000,9000      GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.68    #AS396982    5 ports   22,443,6379,8000,88       GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.77    #AS396982    5 ports   10001,21,3389,53,8443     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.80    #AS396982    5 ports   21,22,23,8080,8443        GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -362,6 +360,7 @@
 205.210.31.215   #AS396982    5 ports   21,23,5000,53,88          GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.216   #AS396982    5 ports   22,3389,443,80,8081       GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.233   #AS396982    5 ports   161,445,5060,7001,8081    GOOGLE-CLOUD-PLATFORM - Google LLC, US
+205.210.31.54    #AS396982    5 ports   10000,123,3000,53,9000    GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.56    #AS396982    5 ports   10001,21,23,3389,8888     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.25.89.104    #AS396982    5 ports   123,139,161,3389,8090     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.25.89.113    #AS396982    5 ports   10000,23,53,8000,8888     GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -416,7 +415,6 @@
 147.185.132.159  #AS396982    4 ports   443,6443,7001,8888        GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.222  #AS396982    4 ports   21,22,3000,443            GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.252  #AS396982    4 ports   445,8000,81,9000          GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.36   #AS396982    4 ports   10001,22,27017,3306       GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.37   #AS396982    4 ports   1433,8080,88,9443         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.42   #AS396982    4 ports   22,3306,3389,500          GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.49   #AS396982    4 ports   445,500,5060,8008         GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -430,7 +428,6 @@
 165.245.176.51   #AS14061     4 ports   22,3389,8080,8888         DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.94.145.24    #AS398705    4 ports   443,80,8000,8090          CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.30    #AS398705    4 ports   3306,3389,5000,9090       CENSYS-ARIN-02 - Censys, Inc., US
-167.99.220.150   #AS14061     4 ports   443,5001,80,8081          DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.99.98.50     #AS14061     4 ports   443,5555,8080,8443        DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.104.30.66    #AS63949     4 ports   21,3389,443,8443          AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.233.243.117  #AS63949     4 ports   3000,80,8000,8080         AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -463,6 +460,7 @@
 195.230.103.242  #AS211607    4 ports   1433,53,7777,8008         RECORDEDFUTURE - Securitytrails, LLC, US
 195.230.103.248  #AS211607    4 ports   443,5000,81,88            RECORDEDFUTURE - Securitytrails, LLC, US
 198.235.24.103   #AS396982    4 ports   3389,4500,5000,8080       GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.110   #AS396982    4 ports   1433,3389,8080,8888       GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.111   #AS396982    4 ports   4500,5001,88,9200         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.113   #AS396982    4 ports   27017,389,6379,8888       GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.119   #AS396982    4 ports   1433,5060,88,8888         GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -479,6 +477,7 @@
 198.235.24.254   #AS396982    4 ports   22,389,500,88             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.36    #AS396982    4 ports   10001,123,8081,81         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.38    #AS396982    4 ports   139,161,22,8080           GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.54    #AS396982    4 ports   139,161,21,9000           GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.60    #AS396982    4 ports   53,80,8090,8443           GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.74    #AS396982    4 ports   10001,21,3389,500         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.158   #AS398722    4 ports   21,5021,5900,80           CENSYS-ARIN-03 - Censys, Inc., US
@@ -511,7 +510,6 @@
 205.210.31.241   #AS396982    4 ports   10001,3389,80,8090        GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.243   #AS396982    4 ports   22,4500,80,88             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.49    #AS396982    4 ports   10001,22,8008,8080        GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.54    #AS396982    4 ports   10000,123,3000,53         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.57    #AS396982    4 ports   22,3306,8080,8443         GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.65    #AS396982    4 ports   3389,80,8080,88           GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.70    #AS396982    4 ports   10001,22,5060,7001        GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -546,6 +544,7 @@
 45.33.46.249     #AS63949     4 ports   3389,500,53,80            AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.104.47     #AS63949     4 ports   10000,17000,80,8443       AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.153.72     #AS63949     4 ports   2222,23,8443,88           AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+45.79.191.178    #AS63949     4 ports   2375,3000,5900,8000       AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 47.77.182.54     #AS45102     4 ports   2222,23,2375,443          ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 5.188.206.194    #AS200391    4 ports   443,5000,6443,9443        KREZ999AS - KREZ 999 EOOD, BG
 64.62.156.102    #AS6939      4 ports   22,3000,3389,8090         HURRICANE - Hurricane Electric LLC, US
@@ -613,7 +612,6 @@
 94.231.206.9     #AS213412    4 ports   2222,3306,443,9443        ONYPHE - ONYPHE SAS, FR
 94.249.230.136   #AS49581     4 ports   2222,23,443,80            TUBE-HOSTING - Ferdinand Zink trading as Tube-Hosting, DE
 97.107.131.17    #AS63949     4 ports   21,3389,443,8443          AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-98.84.188.17     #AS14618     4 ports   3000,3389,80,8443         AMAZON-AES - Amazon.com, Inc., US
 100.29.192.62    #AS14618     3 ports   139,7777,8090             AMAZON-AES - Amazon.com, Inc., US
 101.96.200.105   #AS137718    3 ports   22,443,80                 VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN
 103.137.14.42    #AS137409    3 ports   22,2222,23                GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU
@@ -668,7 +666,6 @@
 147.185.132.153  #AS396982    3 ports   389,5001,7777             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.162  #AS396982    3 ports   1433,8000,8443            GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.16   #AS396982    3 ports   5060,53,88                GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.177  #AS396982    3 ports   21,2222,3389              GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.195  #AS396982    3 ports   6379,8090,8888            GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.204  #AS396982    3 ports   139,3389,8000             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.210  #AS396982    3 ports   3306,389,88               GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -688,7 +685,6 @@
 148.153.56.174   #AS63199     3 ports   123,1433,3000             CDSC-AS1 - CDS Global Cloud Co., Ltd, US
 148.223.224.70   #AS8151      3 ports   443,80,9200               #AS8151 - UNINET, MX
 151.185.42.72    #AS132420    3 ports   2375,443,80               E2E-NETWORKS-IN - 282, Sector 19, IN
-151.245.121.62   #AS399486    3 ports   443,80,8080               VIRTUO - 12651980 CANADA INC., CA
 151.80.25.165    #AS16276     3 ports   443,80,9200               OVH - OVH SAS, FR
 152.32.132.28    #AS135377    3 ports   22,2222,2375              UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 152.32.151.39    #AS135377    3 ports   3306,500,53               UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
@@ -809,7 +805,6 @@
 198.235.24.252   #AS396982    3 ports   5060,68,88                GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.40    #AS396982    3 ports   22,500,8888               GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.41    #AS396982    3 ports   3389,80,8081              GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.42    #AS396982    3 ports   23,80,88                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.43    #AS396982    3 ports   161,443,8888              GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.49    #AS396982    3 ports   3000,445,8888             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.56    #AS396982    3 ports   3306,389,8080             GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -833,6 +828,7 @@
 202.91.30.243    #AS152069    3 ports   443,80,9200               IDNIC-NSC-AS-ID - PT Nusantara Star Connect, ID
 203.55.131.3     #AS32475     3 ports   53,8008,9090              SINGLEHOP-LLC - Internap Holding LLC, US
 203.55.131.5     #AS32475     3 ports   2375,445,4500             SINGLEHOP-LLC - Internap Holding LLC, US
+205.185.127.50   #AS53667     3 ports   443,5060,8080             PONYNET - FranTech Solutions, US
 205.210.31.102   #AS396982    3 ports   10000,8080,88             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.106   #AS396982    3 ports   10001,8443,88             GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.164   #AS396982    3 ports   443,6379,8888             GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -886,7 +882,6 @@
 207.154.228.110  #AS14061     3 ports   123,443,8080              DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 20.80.72.203     #AS8075      3 ports   443,8000,9200             MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.81.46.143     #AS8075      3 ports   389,8081,88               MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.83.165.36     #AS8075      3 ports   161,80,8081               MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.167.33     #AS8075      3 ports   2375,8001,8443            MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.185.81     #AS8075      3 ports   22,81,9200                MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.61.38      #AS8075      3 ports   443,8443,8888             MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -911,7 +906,6 @@
 3.15.140.104     #AS16509     3 ports   443,80,9200               AMAZON-02 - Amazon.com, Inc., US
 34.116.147.212   #AS396982    3 ports   27017,5432,9200           GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.177.101.205   #AS396982    3 ports   443,80,9200               GOOGLE-CLOUD-PLATFORM - Google LLC, US
-34.226.195.14    #AS14618     3 ports   443,9200,9443             AMAZON-AES - Amazon.com, Inc., US
 34.50.121.164    #AS396982    3 ports   443,80,9200               GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.216.172.131   #AS15169     3 ports   22,27017,3389             GOOGLE - Google LLC, US
 35.216.195.77    #AS15169     3 ports   21,445,9200               GOOGLE - Google LLC, US
@@ -938,7 +932,6 @@
 45.227.254.152   #AS267784    3 ports   22,443,8080               #AS267784 - Flyservers S.A., PA
 45.74.0.188      #AS212238    3 ports   5060,8000,8081            CDNEXT - Datacamp Limited, GB
 45.79.109.193    #AS63949     3 ports   2375,8181,9090            AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-45.79.191.178    #AS63949     3 ports   2375,3000,8000            AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.67.140     #AS63949     3 ports   21,443,8080               AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.82.76.120     #AS212512    3 ports   8001,8181,8728            DETAI - Detai Prosperous Technologies Limited, GB
 46.105.132.32    #AS16276     3 ports   27017,445,9200            OVH - OVH SAS, FR
@@ -1026,7 +1019,6 @@
 66.132.186.179   #AS398324    3 ports   5021,80,9443              CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.208   #AS398324    3 ports   3306,3389,443             CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.213   #AS398324    3 ports   10000,2222,8443           CENSYS-ARIN-01 - Censys, Inc., US
-66.132.186.252   #AS398324    3 ports   389,6443,8081             CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.126   #AS398324    3 ports   22,5021,80                CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.16    #AS398324    3 ports   500,8090,9090             CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.21    #AS398324    3 ports   10001,25565,443           CENSYS-ARIN-01 - Censys, Inc., US
@@ -1086,6 +1078,7 @@
 91.238.181.96    #AS49434     3 ports   5021,8081,8443            FBWNETWORKS - FBW NETWORKS SAS, FR
 93.174.95.106    #AS202425    3 ports   5555,7001,8008            INT-NETWORK - IP Volume inc, SC
 94.231.206.255   #AS213412    3 ports   3306,443,9443             ONYPHE - ONYPHE SAS, FR
+98.84.188.17     #AS14618     3 ports   3389,80,8443              AMAZON-AES - Amazon.com, Inc., US
 100.24.47.223    #AS14618     2 ports   443,9200                  AMAZON-AES - Amazon.com, Inc., US
 100.27.192.197   #AS14618     2 ports   443,9443                  AMAZON-AES - Amazon.com, Inc., US
 100.29.192.12    #AS14618     2 ports   80,9000                   AMAZON-AES - Amazon.com, Inc., US
@@ -1254,6 +1247,7 @@
 147.185.132.141  #AS396982    2 ports   80,8888                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.156  #AS396982    2 ports   5001,88                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.168  #AS396982    2 ports   10001,7777                GOOGLE-CLOUD-PLATFORM - Google LLC, US
+147.185.132.177  #AS396982    2 ports   21,3389                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.183  #AS396982    2 ports   123,3000                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.207  #AS396982    2 ports   5001,5060                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.234  #AS396982    2 ports   3389,5432                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -1263,7 +1257,6 @@
 147.185.132.40   #AS396982    2 ports   5900,80                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.52   #AS396982    2 ports   443,80                    GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.57   #AS396982    2 ports   443,7001                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.63   #AS396982    2 ports   6443,7777                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.66   #AS396982    2 ports   10000,21                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.72   #AS396982    2 ports   88,9443                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.84   #AS396982    2 ports   22,3389                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -1369,6 +1362,7 @@
 172.245.43.228   #AS36352     2 ports   5060,8081                 #AS-COLOCROSSING - HostPapa, US
 172.94.9.79      #AS213790    2 ports   443,80                    LimitedNetwork-AS - Limited Network LTD, GB
 173.255.221.22   #AS63949     2 ports   8080,9200                 AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+173.255.223.103  #AS63949     2 ports   21,5900                   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.255.242.196  #AS63949     2 ports   80,9200                   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 174.129.71.167   #AS14618     2 ports   443,9200                  AMAZON-AES - Amazon.com, Inc., US
 174.138.73.32    #AS14061     2 ports   8080,8888                 DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -1379,6 +1373,7 @@
 176.65.139.116   #AS214472    2 ports   23,8080                   STORMINDUSTRIES - Offshore LC, US
 176.65.139.119   #AS214472    2 ports   5555,8080                 STORMINDUSTRIES - Offshore LC, US
 176.65.139.140   #AS214472    2 ports   5555,80                   STORMINDUSTRIES - Offshore LC, US
+176.65.139.151   #AS214472    2 ports   22,23                     STORMINDUSTRIES - Offshore LC, US
 176.65.139.155   #AS214472    2 ports   23,8080                   STORMINDUSTRIES - Offshore LC, US
 176.65.139.174   #AS214472    2 ports   23,5555                   STORMINDUSTRIES - Offshore LC, US
 176.65.139.182   #AS214472    2 ports   23,5555                   STORMINDUSTRIES - Offshore LC, US
@@ -1400,7 +1395,6 @@
 177.124.88.216   #AS52602     2 ports   443,80                    #AS52602 - SKORPION SISTEMA DE TELECOMUNICACOES LTDA, BR
 177.136.254.165  #AS53107     2 ports   443,80                    #AS53107 - EVEO S.A., BR
 178.105.173.224  #AS24940     2 ports   2222,23                   HETZNER-AS - Hetzner Online GmbH, DE
-178.128.250.218  #AS14061     2 ports   445,81                    DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 178.16.55.146    #AS202412    2 ports   3389,5900                 OMEGATECH-AS - Omegatech LTD, SC
 178.214.76.172   #AS51336     2 ports   443,80                    Gemzo - Gemzo information technology Private Joint-Stock company, PS
 178.32.238.114   #AS16276     2 ports   1433,445                  OVH - OVH SAS, FR
@@ -1616,11 +1610,11 @@
 198.235.24.238   #AS396982    2 ports   21,80                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.239   #AS396982    2 ports   500,5555                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.240   #AS396982    2 ports   3389,88                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.244   #AS396982    2 ports   161,22                    GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.247   #AS396982    2 ports   22,8080                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.27    #AS396982    2 ports   22,8080                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.31    #AS396982    2 ports   139,8081                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.37    #AS396982    2 ports   6443,8080                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.42    #AS396982    2 ports   23,88                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.44    #AS396982    2 ports   22,88                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.46    #AS396982    2 ports   445,6443                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.55    #AS396982    2 ports   10000,21                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -1634,6 +1628,7 @@
 198.235.24.78    #AS396982    2 ports   21,5060                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.79    #AS396982    2 ports   7001,8008                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.88    #AS396982    2 ports   21,500                    GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.93    #AS396982    2 ports   5001,81                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.94    #AS396982    2 ports   80,9200                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.95    #AS396982    2 ports   4500,6443                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.58.122.23    #AS63949     2 ports   8000,8080                 AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -1657,7 +1652,6 @@
 20.115.90.228    #AS8075      2 ports   88,9200                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.209.32    #AS8075      2 ports   3389,8080                 MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.225.19    #AS8075      2 ports   445,8090                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.119.75.60     #AS8075      2 ports   161,443                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.119.86.71     #AS8075      2 ports   443,9200                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.119.99.184    #AS8075      2 ports   3389,6443                 MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.12.240.178    #AS8075      2 ports   443,8443                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -1724,7 +1718,6 @@
 20.38.43.85      #AS8075      2 ports   5432,80                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.38.5.218      #AS8075      2 ports   80,9200                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.42.115.228    #AS8075      2 ports   161,3389                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-205.185.127.50   #AS53667     2 ports   443,5060                  PONYNET - FranTech Solutions, US
 205.210.31.100   #AS396982    2 ports   3000,5000                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.101   #AS396982    2 ports   443,8081                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.104   #AS396982    2 ports   7777,8090                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -1845,7 +1838,7 @@
 20.65.219.43     #AS8075      2 ports   53,9200                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.105.17     #AS8075      2 ports   3389,443                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.82.220     #AS8075      2 ports   21,389                    MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.80.88.247     #AS8075      2 ports   443,8090                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.83.165.36     #AS8075      2 ports   80,8081                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.49.78      #AS8075      2 ports   161,8181                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.144.171    #AS8075      2 ports   21,2375                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.166.43     #AS8075      2 ports   21,5060                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -1854,7 +1847,6 @@
 209.141.43.51    #AS53667     2 ports   443,80                    PONYNET - FranTech Solutions, US
 209.141.51.29    #AS53667     2 ports   8000,8080                 PONYNET - FranTech Solutions, US
 209.182.233.12   #AS29802     2 ports   443,80                    HVC-AS - HIVELOCITY, Inc., US
-209.38.104.176   #AS14061     2 ports   8080,9000                 DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 209.38.82.73     #AS14061     2 ports   443,80                    DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 20.98.128.111    #AS8075      2 ports   443,8443                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.98.136.63     #AS8075      2 ports   3306,389                  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -1917,8 +1909,8 @@
 34.150.66.111    #AS396982    2 ports   80,9200                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.156.202.213   #AS396982    2 ports   21,23                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.173.87.191    #AS396982    2 ports   5060,8080                 GOOGLE-CLOUD-PLATFORM - Google LLC, US
-34.204.10.19     #AS14618     2 ports   3389,8443                 AMAZON-AES - Amazon.com, Inc., US
 34.207.209.130   #AS14618     2 ports   8443,9200                 AMAZON-AES - Amazon.com, Inc., US
+34.226.195.14    #AS14618     2 ports   443,9200                  AMAZON-AES - Amazon.com, Inc., US
 34.238.176.206   #AS14618     2 ports   3389,80                   AMAZON-AES - Amazon.com, Inc., US
 34.238.240.3     #AS14618     2 ports   21,8443                   AMAZON-AES - Amazon.com, Inc., US
 34.38.210.113    #AS396982    2 ports   21,23                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -1926,7 +1918,6 @@
 34.64.110.181    #AS396982    2 ports   21,5432                   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.77.247.136    #AS396982    2 ports   21,23                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.88.123.22     #AS396982    2 ports   21,27017                  GOOGLE-CLOUD-PLATFORM - Google LLC, US
-35.171.19.100    #AS14618     2 ports   22,443                    AMAZON-AES - Amazon.com, Inc., US
 35.195.65.51     #AS396982    2 ports   21,23                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.203.210.196   #AS396982    2 ports   10000,5900                GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.205.60.209    #AS396982    2 ports   21,23                     GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -2056,7 +2047,6 @@
 5.226.140.43     #AS25369     2 ports   8001,8008                 BANDWIDTH-AS - Hydra Communications Ltd, GB
 5.226.140.54     #AS25369     2 ports   5900,8888                 BANDWIDTH-AS - Hydra Communications Ltd, GB
 5.226.140.58     #AS25369     2 ports   10001,1433                BANDWIDTH-AS - Hydra Communications Ltd, GB
-52.90.148.15     #AS14618     2 ports   80,8443                   AMAZON-AES - Amazon.com, Inc., US
 52.90.76.255     #AS14618     2 ports   22,3389                   AMAZON-AES - Amazon.com, Inc., US
 52.91.15.149     #AS14618     2 ports   21,8080                   AMAZON-AES - Amazon.com, Inc., US
 5.39.19.135      #AS16276     2 ports   443,80                    OVH - OVH SAS, FR
@@ -2065,7 +2055,6 @@
 54.174.208.37    #AS14618     2 ports   22,80                     AMAZON-AES - Amazon.com, Inc., US
 54.175.197.35    #AS14618     2 ports   8443,9443                 AMAZON-AES - Amazon.com, Inc., US
 54.224.113.78    #AS14618     2 ports   8080,8443                 AMAZON-AES - Amazon.com, Inc., US
-54.236.228.135   #AS14618     2 ports   8080,8443                 AMAZON-AES - Amazon.com, Inc., US
 57.151.105.130   #AS8075      2 ports   23,3389                   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 57.151.106.164   #AS8075      2 ports   443,53                    MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 57.152.33.247    #AS8075      2 ports   3306,5060                 MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -2257,6 +2246,7 @@
 66.132.186.196   #AS398324    2 ports   5021,80                   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.215   #AS398324    2 ports   5060,8443                 CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.241   #AS398324    2 ports   6443,9090                 CENSYS-ARIN-01 - Censys, Inc., US
+66.132.186.252   #AS398324    2 ports   389,6443                  CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.254   #AS398324    2 ports   6443,8888                 CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.109   #AS398324    2 ports   5021,9443                 CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.115   #AS398324    2 ports   22,8081                   CENSYS-ARIN-01 - Censys, Inc., US
