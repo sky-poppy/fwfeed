@@ -19,9 +19,9 @@ asn_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on 
 
 allow_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
 
-ASN_BA_EXPORTS folder - Lists of ASN IP grouped by port number logged where more than 5 IPs per /24 CIDR found.
+ASN_BA_EXPORTS folder - Lists of IP found by port number.
 
-ASN_CAT_EXPORTS folder - Lists of ASN by entity type with prefix, BGP private, non-routable and reserved ASNs retained in list using prisoner.iana.org IP 192.175.48.1/32 - Cats include Mil, Gov, Edu, Org, Tech, Hosting, Net, Systems Reserved, Misc = Catch-all for everything else not so easy to put into a specific category ie business name "ABC inc".
+ASN_CAT_EXPORTS folder - Lists of ASN by entity type with prefix, BGP private, non-routable and reserved ASNs retained in list using prisoner.iana.org IP 192.175.48.1/32.
 
 ASN_GEO_EXPORTS folder - Lists of ASN by country code with prefix.
 
