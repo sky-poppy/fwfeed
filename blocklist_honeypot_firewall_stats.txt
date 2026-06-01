@@ -262,15 +262,15 @@ HONEYPOT STATS, UNIQUE IP COUNT
 Bad actor IP count all: 176554
 
 HONEYPOT STATS, LAST 24 HOURS
-Repeating Honeypot IP: 6694
-Predicted Honeypot IP: 577
-Unknown/New IP: 1141
+Repeating Honeypot IP: 4032
+Predicted Honeypot IP: 343
+Unknown/New IP: 612
 
 
 HONEYPOT STATS, LAST 14 DAYS
-Repeating Honeypot IP: 16745
-Predicted Honeypot IP: 4327
-Unknown/New IP: 9742
+Repeating Honeypot IP: 16317
+Predicted Honeypot IP: 4016
+Unknown/New IP: 9019
 
 HONEYPOT STATS, % NEW AND REPEATING IP OVER TIME
 This is a measurement of what activity level is found across the dataset over time as the honeypot dataset grows.
@@ -384,7 +384,7 @@ You might choose to use an aggressive IP policy when multiple patterns are spott
 LIST RATED: CONSERVATIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 6
-Last 14 days 111
+Last 14 days 109
 
 50 OR MORE IPs EXIST PER /24 CIDR: 434
 LIST RATED: TOLERANT
@@ -395,30 +395,30 @@ Last 14 days 132
 25 OR MORE IPs EXIST PER /24 CIDR: 576
 LIST RATED: AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 17
+Last 24 hrs 9
 Last 14 days 129
 
 5 OR MORE IPs EXIST PER /24 CIDR: 1557
 LIST RATED: EXTREMELY AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
 Last 24 hrs 22
-Last 14 days 451
+Last 14 days 422
 
 
 HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using hosted compute services, Azure, AWS, others.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 468
-Last 14 days 3176
+Last 24 hrs 290
+Last 14 days 2942
 
 
 HOSTED VPN IP COUNT, WHITELIST YOUR OWN VPN SERVICE PROVIDER IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using a VPN service.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 31
-Last 14 days 295
+Last 24 hrs 13
+Last 14 days 275
 
 
 HONEYPOT IP COMPARISON - OVERLAP COUNT
@@ -466,4 +466,4 @@ Honeypot has 15250 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2673 IPs that overlap in Romainmarcoux ab outbound blocklist 59911 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260601231752
+Created on: 20260601233025
