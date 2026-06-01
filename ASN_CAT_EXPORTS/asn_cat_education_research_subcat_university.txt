@@ -379,7 +379,6 @@
 155.43.0.0/16 #AS25691 CTSTATEU Connecticut State Colleges & Universities Connecticut State University System, US
 139.86.0.0/16 #AS45213 USQNET-AS-AP University of Southern Queensland, AU
 170.78.184.0/24 #AS264785 UNIVERSIDAD-NACIONAL-LANUS UNIVERSIDAD NACIONAL DE LANUS, AR
-170.210.84.0/24 #AS264785 UNIVERSIDAD-NACIONAL-LANUS UNIVERSIDAD NACIONAL DE LANUS, AR
 130.85.0.0/16 #AS11131 UMBC-AS University of Maryland Baltimore County (UMBC), US
 136.160.0.0/18 #AS11131 UMBC-AS University of Maryland Baltimore County (UMBC), US
 199.201.245.0/24 #AS11131 UMBC-AS University of Maryland Baltimore County (UMBC), US
@@ -844,10 +843,11 @@
 193.138.93.0/24 #AS28830 BTSAU-ISP-AS Bilotcerkivskiy National Agrarian University, UA
 200.124.112.0/21 #AS52378 UNIVERSIDAD-NACIONAL-VILLA UNIVERSIDAD NACIONAL DE VILLA MARIA, AR
 148.137.0.0/16 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
-151.161.255.0/24 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
-157.62.255.0/24 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
+151.161.0.0/16 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
+157.62.0.0/16 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
 192.149.243.0/24 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
 204.108.180.0/23 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
+204.108.184.0/22 #AS7150 CUPANET-BLM-AS Commonwealth University of Pennsylvania, US
 158.217.0.0/16 #AS18276 KAISER Kansai University, JP
 103.53.58.0/23 #AS23862 DILNET-AS-AP University of the Philippines, PH
 202.92.128.0/22 #AS23862 DILNET-AS-AP University of the Philippines, PH
@@ -1158,7 +1158,6 @@
 140.114.0.0/16 #AS18047 NTHU-TW National Tsing-Hua University, TW
 200.23.115.0/24 #AS264693 INSTITUCION-UNIVERSITARIA-VISION INSTITUCION UNIVERSITARIA VISION DE LAS AMERICAS, CO
 103.185.232.0/23 #AS149087 HANU-AS-VN Hanoi University, VN
-202.92.157.0/24 #AS132794 UPMIN-AS-AP University of the Philippines Mindanao Campus, PH
 200.2.8.0/21 #AS7965 UNIVERSIDAD-CATOLICA-ANDRES Universidad Catolica Andres Bello, VE
 186.217.0.0/16 #AS53166 UNIVERSIDADE-ESTADUAL-PAULISTA UNIVERSIDADE ESTADUAL PAULISTA, BR
 200.145.0.0/16 #AS53166 UNIVERSIDADE-ESTADUAL-PAULISTA UNIVERSIDADE ESTADUAL PAULISTA, BR
@@ -1180,6 +1179,7 @@
 103.92.232.0/23 #AS136112 IDNIC-UTY-AS-ID Universitas Teknologi Yogyakarta, ID
 200.126.50.0/23 #AS263214 UNIVERSIDAD-SANTO-TOMAS UNIVERSIDAD SANTO TOMAS, CL
 136.242.0.0/19 #AS186 CUA-AS The Catholic University of America, US
+192.31.193.0/24 #AS186 CUA-AS The Catholic University of America, US
 129.63.0.0/16 #AS46905 UMASS-LOWELL University of Massachusetts - Lowell, US
 158.250.36.0/24 #AS213761 MSU-RCC Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University, RU
 144.74.0.0/16 #AS25978 RUSH-EXTERNAL Rush University Medical Center, US
@@ -1365,7 +1365,7 @@
 199.223.240.0/21 #AS46379 SIENA-COLLEGE Siena University, US
 128.148.0.0/16 #AS11078 BROWN Brown University, US
 192.91.235.0/24 #AS11078 BROWN Brown University, US
-138.36.64.0/24 #AS52467 UNIVERSIDAD-IBAGUE Universidad de Ibague, CO
+138.36.64.0/23 #AS52467 UNIVERSIDAD-IBAGUE Universidad de Ibague, CO
 138.36.66.0/24 #AS52467 UNIVERSIDAD-IBAGUE Universidad de Ibague, CO
 179.0.10.0/24 #AS52467 UNIVERSIDAD-IBAGUE Universidad de Ibague, CO
 193.255.56.0/23 #AS210690 AREL-UNIVERSITY-AS Istanbul Arel Universitesi, TR
@@ -1388,7 +1388,9 @@
 192.100.77.0/24 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
 202.12.73.0/24 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
 202.12.74.0/24 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
-202.29.144.0/21 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
+202.29.144.0/24 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
+202.29.146.0/23 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
+202.29.148.0/22 #AS9464 PSU-TH-AS-AP Prince of Songkla University, TH
 185.150.42.0/24 #AS44358 DOMREG-ANY-AS Kauno Technologijos Universitetas, LT
 194.0.3.0/24 #AS44358 DOMREG-ANY-AS Kauno Technologijos Universitetas, LT
 194.0.18.0/23 #AS44358 DOMREG-ANY-AS Kauno Technologijos Universitetas, LT
@@ -1680,6 +1682,7 @@
 45.168.144.0/22 #AS268118 UNIVERSIDADE-FEDERAL-SANTA UNIVERSIDADE FEDERAL DE SANTA MARIA, BR
 200.18.32.0/20 #AS268118 UNIVERSIDADE-FEDERAL-SANTA UNIVERSIDADE FEDERAL DE SANTA MARIA, BR
 92.63.64.0/20 #AS8510 TOMSK-STATE-UNIVERSITY Tomsk State University, RU
+35.11.80.0/20 #AS400066 FRIB-01 Michigan State University, US
 185.53.96.0/22 #AS60158 PL-PPNT-DC-AS FUNDACJA UNIWERSYTETU IM. ADAMA MICKIEWICZA W POZNANIU, PL
 173.198.49.0/24 #AS54690 CLU California Lutheran University, US
 192.153.159.0/24 #AS54690 CLU California Lutheran University, US
@@ -1759,6 +1762,7 @@
 198.72.72.0/22 #AS3479 PEACHNET-AS3479 Board of Regents of the University System of Georgia, US
 198.72.76.0/23 #AS3479 PEACHNET-AS3479 Board of Regents of the University System of Georgia, US
 192.43.254.0/24 #AS397734 RAD-ROANOKE Radford University, US
+131.221.8.0/24 #AS263690 UNIVERSIDAD-NACIONAL-AUTONOMA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS, HN
 50.150.217.0/24 #AS40497 BETHEL-ASN1 Bethel University, US
 140.88.0.0/16 #AS40497 BETHEL-ASN1 Bethel University, US
 85.143.238.0/24 #AS210276 MSAL-AS FEDERAL STATE BUDGET EDUCATIONAL ESTABLISHMENT OF HIGHER EDUCATION MOSCOW STATE LAW UNIVERSITY NAMED AFTER O.E KUTAFIN (MSLA), RU
@@ -1875,8 +1879,6 @@
 134.121.184.0/24 #AS394345 WSU-SEA-AS Washington State University, US
 192.138.182.0/24 #AS394345 WSU-SEA-AS Washington State University, US
 103.151.208.0/23 #AS140118 IITBHU-AS-IN Indian Institute Of Technology Banaras Hindu University, IN
-170.210.170.0/24 #AS28068 UNIVERSIDAD-NACIONAL-SAN-LUIS Universidad Nacional de San Luis, AR
-170.210.172.0/22 #AS28068 UNIVERSIDAD-NACIONAL-SAN-LUIS Universidad Nacional de San Luis, AR
 190.122.224.0/20 #AS28068 UNIVERSIDAD-NACIONAL-SAN-LUIS Universidad Nacional de San Luis, AR
 162.250.136.0/22 #AS4901 CAAREN The George Washington University, US
 103.177.140.0/23 #AS147157 IDNIC-UNMER-AS-ID Universitas Merdeka Malang, ID
@@ -1934,7 +1936,6 @@
 103.23.244.0/24 #AS18394 UPI-AS-ID Universitas Pendidikan Indonesia, ID
 160.22.212.0/24 #AS18394 UPI-AS-ID Universitas Pendidikan Indonesia, ID
 103.98.176.0/23 #AS136827 IDNIC-UPGRIS-AS-ID Universitas PGRI Semarang, ID
-65.39.232.0/22 #AS397766 FDU-CA Fairleigh Dickinson University, US
 81.28.144.0/20 #AS397766 FDU-CA Fairleigh Dickinson University, US
 131.232.3.0/24 #AS16580 ATHABASCA-U Athabasca University, CA
 131.232.4.0/22 #AS16580 ATHABASCA-U Athabasca University, CA
@@ -2236,13 +2237,9 @@
 192.198.4.0/22 #AS395421 OKSTATE Oklahoma State University, US
 198.183.248.0/23 #AS395421 OKSTATE Oklahoma State University, US
 198.246.186.0/24 #AS46150 SNHU Southern New Hampshire University, US
-185.113.112.0/22 #AS16286 UOKASHAN University of Kashan, IR
 195.19.116.0/23 #AS5553 TAMBOVMAN-AS Federal State Budgetary Educational Institution of Higher Education Tambov State Technical University, RU
 195.3.188.0/22 #AS42506 PPU-AS Palestine Polytechnic University (PPU), PS
 185.211.88.0/22 #AS59794 AKU-ASN Amirkabir University of Technology, IR
-76.78.10.0/24 #AS14351 SOUTHWESTERN-EDU Southwestern University, US
-161.13.0.0/19 #AS14351 SOUTHWESTERN-EDU Southwestern University, US
-161.13.64.0/18 #AS14351 SOUTHWESTERN-EDU Southwestern University, US
 64.247.64.0/18 #AS17135 OHIOU Ohio University, US
 132.235.0.0/16 #AS17135 OHIOU Ohio University, US
 198.30.13.0/24 #AS17135 OHIOU Ohio University, US
@@ -2470,6 +2467,7 @@
 102.134.130.0/23 #AS328353 METHODISTUNIVERSITY-AS Methodist University College Ghana, GH
 103.31.47.0/24 #AS135481 IDNIC-UNM-AS-ID Universitas Negeri Makassar, ID
 103.76.50.0/24 #AS135481 IDNIC-UNM-AS-ID Universitas Negeri Makassar, ID
+137.36.0.0/16 #AS401917 SUNY-COBLESKILL The State University of New York College of Agriculture and Technology at Cobleskill, US
 72.166.192.0/20 #AS54536 ADAMSSTATE Adams State University, US
 162.220.120.0/21 #AS54536 ADAMSSTATE Adams State University, US
 192.156.134.0/24 #AS54536 ADAMSSTATE Adams State University, US
@@ -2510,7 +2508,6 @@
 193.140.172.0/22 #AS31689 EMU-AS Eastern Mediterranean University, TR
 194.27.73.0/24 #AS31689 EMU-AS Eastern Mediterranean University, TR
 194.27.76.0/22 #AS31689 EMU-AS Eastern Mediterranean University, TR
-114.119.204.0/22 #AS59089 CLOUDVSP NO.18 Building University of Technology, CN
 136.224.0.0/16 #AS22174 NET-SUC-TECH-ALF State University of New York College of Technology at Alfred, US
 67.158.55.0/24 #AS53843 SEU-MAIN SOUTHEASTERN UNIVERSITY INC., US
 69.55.210.0/24 #AS393392 PNWUPRIMARYPUBLIC Pacific Northwest University of Health Sciences, US
@@ -2797,7 +2794,6 @@
 200.107.208.0/22 #AS27912 UNIVERSIDAD-TECNOLOGICA-CENTROAMERICANA UNIVERSIDAD TECNOLOGICA CENTROAMERICANA, HN
 200.107.212.0/23 #AS27912 UNIVERSIDAD-TECNOLOGICA-CENTROAMERICANA UNIVERSIDAD TECNOLOGICA CENTROAMERICANA, HN
 200.107.215.0/24 #AS27912 UNIVERSIDAD-TECNOLOGICA-CENTROAMERICANA UNIVERSIDAD TECNOLOGICA CENTROAMERICANA, HN
-74.200.140.0/24 #AS397289 PARKER-UNIVERSITY Parker University, US
 198.180.229.0/24 #AS22851 NSU-SD Northern State University, US
 206.176.20.0/23 #AS22851 NSU-SD Northern State University, US
 206.176.54.0/24 #AS22851 NSU-SD Northern State University, US
@@ -2955,6 +2951,7 @@
 128.9.128.0/17 #AS4 ISI-AS University of Southern California, US
 165.140.12.0/23 #AS4 ISI-AS University of Southern California, US
 165.140.14.0/24 #AS4 ISI-AS University of Southern California, US
+168.90.73.0/24 #AS4 ISI-AS University of Southern California, US
 170.79.218.0/23 #AS4 ISI-AS University of Southern California, US
 196.13.137.0/24 #AS4 ISI-AS University of Southern California, US
 198.32.16.0/24 #AS4 ISI-AS University of Southern California, US
@@ -3029,6 +3026,7 @@
 200.238.0.0/18 #AS2716 UNIVERSIDADE-FEDERAL-RIO Universidade Federal do Rio Grande do Sul, BR
 62.108.184.0/21 #AS28797 KOSMAN-COM-AS Technical University of Koszalin, PL
 103.78.195.0/24 #AS64303 IDNIC-UNISBA-AS-ID Universitas Islam Bandung, ID
+102.223.173.0/24 #AS328648 KUMASHI-TECHNICAL-UNI-AS KUMASI TECHNICAL UNIVERSITY, GH
 202.29.6.0/24 #AS131246 LRU-AS-AP LOEI university network LOEI Thailand, TH
 91.220.155.0/24 #AS51869 SPBMAPO-NET Federal State Educational Institution of Higher Education Northwest State Medical University named after II Mechnikov of the Russian Federation Ministry of Health, RU
 216.249.131.0/24 #AS54341 ULPHYSICIANS1 University of Louisville Physicians Inc., US
@@ -3084,7 +3082,8 @@
 207.23.252.0/24 #AS393249 UBC University of British Columbia, CA
 209.87.16.0/23 #AS393249 UBC University of British Columbia, CA
 102.211.52.0/23 #AS329326 ACCRA-TECHNICAL-UNIVERSITY Accra Technical University, GH
-131.123.0.0/16 #AS11050 KENT-STATE Kent State University, US
+131.123.64.0/18 #AS11050 KENT-STATE Kent State University, US
+131.123.128.0/17 #AS11050 KENT-STATE Kent State University, US
 103.139.174.0/24 #AS138864 IDNIC-UMKUDUS-AS-ID UNIVERSITAS MUHAMMADIYAH KUDUS, ID
 103.139.186.0/24 #AS138864 IDNIC-UMKUDUS-AS-ID UNIVERSITAS MUHAMMADIYAH KUDUS, ID
 200.24.16.0/20 #AS273027 UNIVERSIDAD-ANTIOQUIA UNIVERSIDAD DE ANTIOQUIA, CO
@@ -3260,8 +3259,6 @@
 81.6.176.0/20 #AS24848 KIELMAN-EDU-AS Kielce University of Technology, PL
 81.26.0.0/19 #AS24848 KIELMAN-EDU-AS Kielce University of Technology, PL
 103.140.38.0/23 #AS135978 HAUI-AS-VN Hanoi University of Industry, VN
-170.210.8.0/21 #AS27993 UNIVERSIDAD-NACIONAL-LITORAL Universidad Nacional del Litoral, AR
-170.210.36.0/22 #AS27993 UNIVERSIDAD-NACIONAL-LITORAL Universidad Nacional del Litoral, AR
 190.122.240.0/20 #AS27993 UNIVERSIDAD-NACIONAL-LITORAL Universidad Nacional del Litoral, AR
 202.31.128.0/20 #AS17603 KUMOH-AS Kum oh National University of Technology (KNUT), KR
 202.31.192.0/20 #AS17603 KUMOH-AS Kum oh National University of Technology (KNUT), KR
@@ -3310,7 +3307,6 @@
 205.153.52.0/22 #AS12118 WVU West Virginia University, US
 178.250.248.0/21 #AS51182 UAEU The United Arab Emirates University, AE
 194.69.1.0/24 #AS51182 UAEU The United Arab Emirates University, AE
-103.123.108.0/24 #AS138066 IDNIC-UNIMA-AS-ID Universitas Negeri Manado, ID
 23.130.108.0/24 #AS401459 AS-UADA Division of Agriculture of the University of Arkansas, US
 142.248.188.0/24 #AS401459 AS-UADA Division of Agriculture of the University of Arkansas, US
 140.136.128.0/17 #AS38845 FJU-AS-TW Fu Jen Catholic University, TW
@@ -3374,6 +3370,7 @@
 192.65.143.0/24 #AS2902 WN-WY-AS University of Wyoming, US
 192.84.113.0/24 #AS2902 WN-WY-AS University of Wyoming, US
 198.59.192.0/18 #AS2902 WN-WY-AS University of Wyoming, US
+207.229.108.0/24 #AS400452 UC-DAVIS-HEALTH University of California Davis Medical Center, US
 185.78.234.0/24 #AS206351 AUCA Institution American University of Central Asia, KG
 91.238.228.0/22 #AS58042 BONCH State Educational Institution of Higher Vocational Education The Bonch-Bruevich Saint-Petersburg State University of Telecommunications, RU
 74.119.168.0/22 #AS11297 LIPSCOMB Lipscomb University, US
@@ -3712,10 +3709,7 @@
 217.197.0.0/20 #AS5495 ASN-SPBGU Saint Petersburg State University, RU
 2.189.80.0/22 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
 81.31.160.0/19 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
-94.184.128.0/21 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
 152.89.12.0/22 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
-194.225.32.0/20 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
-194.225.80.0/21 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
 213.233.160.0/19 #AS12660 SHARIF-EDU-NET Sharif University Of Technology, IR
 38.127.129.0/24 #AS395436 HUH-ASN-01 Howard University Hospital, US
 138.238.11.0/24 #AS395436 HUH-ASN-01 Howard University Hospital, US
@@ -3751,7 +3745,6 @@
 194.226.28.0/24 #AS211532 MTUCI-AS Moscow Technical University of Telecommunications and Informatics, RU
 200.235.128.0/17 #AS271640 UNIVERSIDADE-FEDERAL-VICOSA UNIVERSIDADE FEDERAL DE VICOSA, BR
 131.161.88.0/22 #AS265700 UNIVERSIDAD-NACIONAL UNIVERSIDAD NACIONAL DE LA PATAGONIA AUSTRAL, AR
-170.210.92.0/23 #AS265700 UNIVERSIDAD-NACIONAL UNIVERSIDAD NACIONAL DE LA PATAGONIA AUSTRAL, AR
 44.0.0.0/9 #AS7377 UCSD University of California San Diego, US
 44.128.0.0/10 #AS7377 UCSD University of California San Diego, US
 69.166.11.0/24 #AS7377 UCSD University of California San Diego, US
@@ -3822,7 +3815,6 @@
 143.132.0.0/17 #AS32229 JSUMS-ARIN Jackson State University, US
 143.132.128.0/18 #AS32229 JSUMS-ARIN Jackson State University, US
 143.132.192.0/24 #AS32229 JSUMS-ARIN Jackson State University, US
-143.132.196.0/24 #AS32229 JSUMS-ARIN Jackson State University, US
 143.132.207.0/24 #AS32229 JSUMS-ARIN Jackson State University, US
 143.132.208.0/20 #AS32229 JSUMS-ARIN Jackson State University, US
 143.132.224.0/19 #AS32229 JSUMS-ARIN Jackson State University, US
@@ -3900,7 +3892,6 @@
 136.223.64.0/24 #AS398059 SUNY-PURCHASE State University New York Purchase College, US
 199.79.168.0/22 #AS398059 SUNY-PURCHASE State University New York Purchase College, US
 133.36.0.0/16 #AS131981 TAKUSHOKUNET Takushoku University, JP
-170.210.160.0/21 #AS28107 UNIVERSIDAD-NACIONAL-SAN-JUAN UNIVERSIDAD NACIONAL DE SAN JUAN, AR
 190.124.224.0/20 #AS28107 UNIVERSIDAD-NACIONAL-SAN-JUAN UNIVERSIDAD NACIONAL DE SAN JUAN, AR
 190.124.240.0/22 #AS28107 UNIVERSIDAD-NACIONAL-SAN-JUAN UNIVERSIDAD NACIONAL DE SAN JUAN, AR
 141.225.0.0/16 #AS14048 MEMPHIS-EDU The University of Memphis, US
@@ -3973,7 +3964,6 @@
 185.114.188.0/22 #AS15907 IKIU-ASN Imam Khomeini International University of Qazvin, IR
 45.238.172.0/22 #AS268334 FUNDACAO-UNIVERSIDADE-ALTO Fundação Universidade Alto Vale do Rio do Peixe, BR
 103.252.188.0/24 #AS59138 IDNIC-UNISBANK-AS-ID Universitas STIKUBANK, ID
-170.210.240.0/22 #AS264630 UNIVERSIDAD-NACIONAL-JUJUY Universidad Nacional de Jujuy, AR
 200.106.248.0/21 #AS264630 UNIVERSIDAD-NACIONAL-JUJUY Universidad Nacional de Jujuy, AR
 133.64.0.0/16 #AS38641 LEONET-AS Osaka Sangyo University, JP
 195.69.204.0/22 #AS198384 OMGTU Omsk State Technical University, RU
@@ -4131,6 +4121,10 @@
 192.149.202.0/24 #AS395400 UNIVERSITY-GUAM UNIVERSITY OF GUAM, GU
 129.27.0.0/16 #AS1113 TUGNET Technische Universitaet Graz, AT
 77.241.144.0/20 #AS42364 ALELNET Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University, RU
+58.154.16.0/20 #AS151229 SAUNET Shenyang Aerospace University, CN
+59.73.128.0/19 #AS151229 SAUNET Shenyang Aerospace University, CN
+59.73.160.0/21 #AS151229 SAUNET Shenyang Aerospace University, CN
+202.199.24.0/21 #AS151229 SAUNET Shenyang Aerospace University, CN
 163.152.0.0/16 #AS9452 KUNET-AS Korea University, KR
 62.76.8.0/24 #AS8475 UUST Federal State Budgetary Educational Institution of Higher Education Ufa University of Science and Technology, RU
 62.76.202.0/24 #AS8475 UUST Federal State Budgetary Educational Institution of Higher Education Ufa University of Science and Technology, RU
@@ -4180,6 +4174,7 @@
 211.234.21.0/24 #AS17862 KWNU-AS Kangwon National University, KR
 218.152.222.0/24 #AS17862 KWNU-AS Kangwon National University, KR
 220.149.44.0/22 #AS17862 KWNU-AS Kangwon National University, KR
+170.210.158.0/24 #AS270033 UNIVERSIDAD-NACIONAL-ARTURO Universidad Nacional Arturo Jauretche, AR
 177.200.236.0/23 #AS270033 UNIVERSIDAD-NACIONAL-ARTURO Universidad Nacional Arturo Jauretche, AR
 192.107.43.0/24 #AS32450 TESU-WEB Thomas Edison State University, US
 200.0.176.0/23 #AS27654 UNIVERSIDAD-FRANCISCO-MARROQUIN Universidad Francisco Marroquin, GT
@@ -4347,8 +4342,6 @@
 206.209.0.0/20 #AS11736 USD University of South Dakota, US
 165.134.0.0/16 #AS25969 SLU St. Louis University, US
 131.96.0.0/16 #AS10631 GSU10631 Georgia State University, US
-157.62.0.0/16 #AS398471 CUPANET-MNS-AS Commonwealth University of Pennsylvania, US
-204.108.186.0/23 #AS398471 CUPANET-MNS-AS Commonwealth University of Pennsylvania, US
 31.133.104.0/21 #AS197768 SIBSTRIN-AS FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION NOVOSIBIRSK STATE ARCHITECTURAL AND CONSTRUCTION UNIVERSITY (SIBSTRIN), RU
 179.189.216.0/23 #AS52411 UNIVERSIDAD-DESARROLLO Universidad del Desarrollo, CL
 201.221.123.0/24 #AS52411 UNIVERSIDAD-DESARROLLO Universidad del Desarrollo, CL
@@ -4371,9 +4364,6 @@
 81.6.138.0/24 #AS30778 KIELMAN-COM-AS Kielce University of Technology, PL
 81.6.140.0/22 #AS30778 KIELMAN-COM-AS Kielce University of Technology, PL
 144.122.0.0/16 #AS1967 METU-NET Middle East Technical University, TR
-102.131.128.0/17 #AS37420 UNIJOS University of Jos, NG
-196.46.144.0/22 #AS37420 UNIJOS University of Jos, NG
-196.220.224.0/20 #AS37420 UNIJOS University of Jos, NG
 91.214.174.0/24 #AS205667 NARXOZ-AS JSC Narxoz University, KZ
 67.207.20.0/22 #AS14314 UTRGV-AS-14314 University of Texas Rio Grande Valley, US
 155.254.0.0/24 #AS394387 VUU Virginia Union University, US
@@ -4471,6 +4461,8 @@
 85.254.208.0/23 #AS29345 LUMII Institute of Mathematics and Computer Science of University of Latvia, LV
 91.240.246.0/23 #AS29345 LUMII Institute of Mathematics and Computer Science of University of Latvia, LV
 112.137.176.0/21 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
+160.30.229.0/24 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
+160.30.235.0/24 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
 203.207.16.0/20 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
 203.241.214.0/23 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
 203.244.128.0/18 #AS18401 AS18401-AS DAEGU UNIVERSITY, KR
@@ -4564,7 +4556,11 @@
 170.210.24.0/21 #AS52424 UNIVERSIDAD-NACIONAL-ENTRE Universidad Nacional de Entre Ríos, AR
 200.61.248.0/22 #AS52424 UNIVERSIDAD-NACIONAL-ENTRE Universidad Nacional de Entre Ríos, AR
 103.159.111.0/24 #AS142320 IDNIC-UINSU-AS-ID Universitas Islam Negeri Sumatera Utara Medan, ID
-46.209.32.0/21 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
+46.209.32.0/24 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
+46.209.34.0/23 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
+46.209.36.0/22 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
+87.107.56.0/21 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
+87.107.176.0/21 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
 151.232.112.0/22 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
 178.173.152.0/21 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
 185.64.176.0/22 #AS59962 SHIRAZUNIVERSITY-ASN Shiraz University, IR
@@ -5062,8 +5058,6 @@
 128.211.184.0/21 #AS397501 PURDUE-RESNET Purdue University, US
 128.211.192.0/18 #AS397501 PURDUE-RESNET Purdue University, US
 178.213.240.0/21 #AS3325 KFU Kazan Federal University, RU
-151.161.0.0/16 #AS398573 CUPANET-LCK-AS Commonwealth University of Pennsylvania, US
-204.108.184.0/23 #AS398573 CUPANET-LCK-AS Commonwealth University of Pennsylvania, US
 128.122.0.0/16 #AS12 NYU-DOMAIN New York University, US
 192.76.177.0/24 #AS12 NYU-DOMAIN New York University, US
 192.86.139.0/24 #AS12 NYU-DOMAIN New York University, US
@@ -5215,6 +5209,8 @@
 130.239.0.0/16 #AS2833 SUNET-UMU Umea University, SE
 192.36.112.0/23 #AS2833 SUNET-UMU Umea University, SE
 143.205.0.0/16 #AS1111 UNIVERSITAET-KLAGENFURT Universitaet Klagenfurt, AT
+41.78.224.0/22 #AS37443 USMANU Usmanu Danfodiyo University, NG
+82.101.128.0/18 #AS37443 USMANU Usmanu Danfodiyo University, NG
 205.174.48.0/20 #AS40204 JSU-EDU-NET Jacksonville State University, US
 203.229.245.0/24 #AS18325 KORCHRISTUNIV160-AS Korea Christian University, KR
 211.219.157.0/24 #AS18325 KORCHRISTUNIV160-AS Korea Christian University, KR
@@ -5241,7 +5237,6 @@
 190.170.64.0/18 #AS27893 UNIVERSIDAD-CARABOBO Universidad de Carabobo, VE
 148.209.0.0/16 #AS22122 UNIVERSIDAD-AUTONOMA-YUCATAN UNIVERSIDAD AUTONOMA DE YUCATAN, MX
 150.164.0.0/16 #AS271354 UNIVERSIDADE-FEDERAL-MINAS UNIVERSIDADE FEDERAL DE MINAS GERAIS, BR
-170.210.57.0/24 #AS262156 UNIVERSIDAD-NACIONAL-ROSARIO Universidad Nacional de Rosario, AR
 200.3.120.0/21 #AS262156 UNIVERSIDAD-NACIONAL-ROSARIO Universidad Nacional de Rosario, AR
 194.146.140.0/22 #AS29574 VNTU-AS Vinnytsia National Technical University, UA
 128.163.202.0/24 #AS396261 UNIVERSITY-OF-KENTUCKY-RESEARCH-COMPUTING University of Kentucky Research Computing, US
