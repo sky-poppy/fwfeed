@@ -5,6 +5,9 @@ Our honeypot loggers are based in New Zealand, the blocklist is populated from r
 
 This feed is not just another recycled IP list; it detects fresh attackers, predicts nearby abuse by CIDR/hosting patterns, and exposes broad scanner infrastructure by showing ASN and port behavior.
 
+Collection sensors use weekly renewed public DHCP addresses. This reduces dependence on a fixed honeypot IP and helps identify broad scanners, opportunistic recon, and bad actors sweeping newly assigned public address space.
+
+
 I was always interested to know if the popular blocklists were actually effective or just statistics for sales purposes, thats even before we know if they are up to date so this was created to measure blocklist effectiveness.
 
 blocklist_honeypot_firewall_stats.txt - Honeypot report showing bad actor trends and has a overlap section against other popular blocklists to ask the question - Is this list unique or simply the same as other blocklists  ie why bother, or yes we need it.
