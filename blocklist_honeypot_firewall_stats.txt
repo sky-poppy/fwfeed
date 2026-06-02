@@ -277,32 +277,32 @@ This is a measurement of what activity level is found across the dataset over ti
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.712%
-25-48 hrs: 0.717%
-Day 2-3: 0.529%
-Day 3-4: 0.609%
-Day 4-5: 0.552%
-Day 5-6: 0.613%
-Day 6-7: 0.646%
-Day 7-8: 0.693%
-8-14 days: 5.242%
-15-30 days: 14.231%
-31-60 days: 75.456%
+<= 24 hrs: 0.752%
+25-48 hrs: 0.712%
+Day 2-3: 0.549%
+Day 3-4: 0.601%
+Day 4-5: 0.545%
+Day 5-6: 0.641%
+Day 6-7: 0.616%
+Day 7-8: 0.673%
+8-14 days: 5.163%
+15-30 days: 14.327%
+31-60 days: 75.418%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 16.089%
-25-48 hrs: 7.663%
-Day 2-3: 5.981%
-Day 3-4: 4.548%
-Day 4-5: 4.321%
-Day 5-6: 4.196%
-Day 6-7: 3.957%
-Day 7-8: 2.865%
-8-14 days: 18.499%
-15-30 days: 24.230%
-31-60 days: 7.652%
+<= 24 hrs: 16.149%
+25-48 hrs: 7.752%
+Day 2-3: 6.283%
+Day 3-4: 4.407%
+Day 4-5: 4.159%
+Day 5-6: 4.068%
+Day 6-7: 4.091%
+Day 7-8: 2.904%
+8-14 days: 18.386%
+15-30 days: 24.217%
+31-60 days: 7.583%
 61-90 days: 0.000%
 91 days and older: 0.000%
 
@@ -311,15 +311,15 @@ See AS category files here https://github.com/sky-poppy/fwfeed/tree/main/ASN_CAT
 NEW IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  44.587%   50.782%  isp
-  47.588%   41.681%  hosting
-  10.397%    9.979%  business
-   0.965%    1.274%  business_subcat_net_or_isp
-   0.000%    0.225%  education_research
-   0.000%    0.128%  government_admin
-   0.000%    0.107%  education_research_subcat_institute
-   0.322%    0.107%  business_subcat_fin
-   0.000%    0.064%  education_research_subcat_university
+  45.404%   50.780%  isp
+  47.725%   41.786%  hosting
+   9.471%    9.880%  business
+   0.929%    1.265%  business_subcat_net_or_isp
+   0.000%    0.221%  education_research
+   0.000%    0.127%  government_admin
+   0.000%    0.105%  education_research_subcat_institute
+   0.279%    0.105%  business_subcat_fin
+   0.000%    0.063%  education_research_subcat_university
    0.000%    0.011%  government_admin_subcat_mil
    0.000%    0.011%  uncategorized
    0.000%    0.000%  education_research_subcat_science
@@ -329,15 +329,15 @@ NEW IPs
 REPEATING IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  72.498%   71.446%  hosting
-  20.337%   17.198%  business
-   8.112%   12.415%  isp
-   4.227%    2.757%  business_subcat_net_or_isp
-   0.322%    0.520%  education_research
-   0.171%    0.357%  education_research_subcat_institute
-   0.284%    0.115%  business_subcat_fin
-   0.133%    0.103%  education_research_subcat_university
-   0.019%    0.036%  government_admin
+  72.800%   71.375%  hosting
+  19.878%   17.193%  business
+   8.278%   12.490%  isp
+   4.070%    2.778%  business_subcat_net_or_isp
+   0.330%    0.523%  education_research
+   0.174%    0.361%  education_research_subcat_institute
+   0.261%    0.114%  business_subcat_fin
+   0.122%    0.102%  education_research_subcat_university
+   0.017%    0.036%  government_admin
    0.000%    0.006%  government_admin_subcat_infra
    0.000%    0.006%  uncategorized
    0.000%    0.000%  education_research_subcat_science
@@ -346,14 +346,14 @@ REPEATING IPs
 
 ALL DATASET IPs  
 ------------------------------------------------
-  39.674%  hosting
-  37.616%  isp
-  21.203%  business
-   1.105%  government_admin
+  39.684%  hosting
+  37.625%  isp
+  21.188%  business
+   1.104%  government_admin
    1.068%  business_subcat_net_or_isp
-   0.897%  government_admin_subcat_mil
-   0.789%  education_research
-   0.296%  education_research_subcat_institute
+   0.896%  government_admin_subcat_mil
+   0.788%  education_research
+   0.295%  education_research_subcat_institute
    0.281%  education_research_subcat_university
    0.053%  business_subcat_fin
    0.014%  uncategorized
@@ -466,4 +466,4 @@ Honeypot has 15490 IPs that overlap in Romainmarcoux aa outbound blocklist 13107
 Honeypot has 2618 IPs that overlap in Romainmarcoux ab outbound blocklist 58581 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260602164525
+Created on: 20260602165524

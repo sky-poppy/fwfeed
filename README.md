@@ -3,6 +3,8 @@ Firewall ip blocklist
 
 Our honeypot loggers are based in New Zealand, the blocklist is populated from real webhosts and firewall logging data of bad actor IP content using dynamic public IPs that are renewed weekly.
 
+This feed is not just another recycled IP list; it detects fresh attackers, predicts nearby abuse by CIDR/hosting patterns, and exposes broad scanner infrastructure by showing ASN and port behavior.
+
 I was always interested to know if the popular blocklists were actually effective or just statistics for sales purposes, thats even before we know if they are up to date so this was created to measure blocklist effectiveness.
 
 blocklist_honeypot_firewall_stats.txt - Honeypot report showing bad actor trends and has a overlap section against other popular blocklists to ask the question - Is this list unique or simply the same as other blocklists  ie why bother, or yes we need it.
@@ -19,7 +21,7 @@ asn_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on 
 
 allow_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
 
-ASN_BA_EXPORTS folder - Lists of IP found by port number. See overlap report: https://github.com/sky-poppy/fwfeed/blob/main/asn_ba_port_recent_top50_port_overlap.txt
+ASN_BA_EXPORTS folder - Lists of hosts found by port number. See overlap report: https://github.com/sky-poppy/fwfeed/blob/main/asn_ba_port_recent_top50_port_overlap.txt
 
 ASN_CAT_EXPORTS folder - Lists of ASN by entity type with prefix, BGP private, non-routable and reserved ASNs retained in list using prisoner.iana.org IP 192.175.48.1/32.
 
