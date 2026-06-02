@@ -19,12 +19,10 @@
 13.218.167.231   #AS14618   13.216.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 13.238.102.51    #AS16509   13.236.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
-18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.212.83.63     #AS14618   18.208.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.218.94.172    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.218.230.153   #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
-18.223.2.197     #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.224.39.133    #AS16509   18.224.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.234.210.139   #AS14618   18.232.0.0/14      US   AMAZON-AES - Amazon.com, Inc., US
 20.40.250.17     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -130,6 +128,7 @@
 35.252.16.211    #AS396982  35.252.0.0/19      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.252.138.128   #AS396982  35.252.128.0/17    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 37.10.113.221    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+40.76.124.118    #AS8075    40.76.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.186.100   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 44.201.103.104   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 44.204.180.218   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
@@ -141,6 +140,7 @@
 45.156.129.60    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.156.129.95    #AS211680  45.156.129.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 46.161.27.65     #AS43350   46.161.27.0/24     RU   NFORCE - NForce Entertainment B.V., NL
+47.74.32.153     #AS45102   47.74.32.0/19      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.77.229.101    #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.100.64     #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.103.255    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -153,10 +153,10 @@
 47.88.10.250     #AS45102   47.88.0.0/18       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.89.225.161    #AS45102   47.89.224.0/19     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.131.81    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.245.135.136   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.142.158   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.51.154    #AS45102   47.250.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.129.234   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.250.158.4     #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.9.231     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.40.248    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.69.119    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -173,12 +173,13 @@
 54.84.179.214    #AS14618   54.84.0.0/15       US   AMAZON-AES - Amazon.com, Inc., US
 54.173.72.8      #AS14618   54.172.0.0/15      US   AMAZON-AES - Amazon.com, Inc., US
 54.175.197.35    #AS14618   54.174.0.0/15      US   AMAZON-AES - Amazon.com, Inc., US
+54.204.240.232   #AS14618   54.204.0.0/15      US   AMAZON-AES - Amazon.com, Inc., US
+64.62.156.28     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.103    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.44     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.82     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.111    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.117    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.189    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.229    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.43       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.166      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -217,11 +218,12 @@
 85.217.149.1     #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.25    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.55    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+89.21.67.134     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.248.163.200   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 91.196.152.97    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
+91.230.168.192   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.230.168.198   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.230.168.244   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
-93.152.221.6     #ASNA      NA                 BG   NA
 94.231.206.9     #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.13    #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.253   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
@@ -272,6 +274,7 @@
 176.65.149.182   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 184.105.247.235  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.136.15.77    #AS205997  185.136.15.0/24    KZ   Vlad_Cojuhari - Vlad Cojuhari, MD
+185.180.141.38   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.180.141.67   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.188.249.2    #AS51167   185.188.249.0/24   DE   CONTABO - Contabo GmbH, DE
 185.224.128.16   #AS49870   185.224.128.0/24   NL   #AS49870-BV - Alsycon B.V., NL
@@ -284,10 +287,10 @@
 193.24.211.247   #AS215929  193.24.211.0/24    DE   datacampus - Data Campus Limited, HK
 193.163.125.64   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.31.239   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-193.221.200.88   #AS205775  193.221.200.0/24   RU   neoncorenetworks - NEON CORE NETWORK LLC, US
 194.164.107.6    #AS50219   194.164.107.0/24   US   VT-255-50219 - Valence Technology Co., US
 195.184.76.233   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.238   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
+198.235.24.5     #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.52    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.91    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.101   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -298,7 +301,6 @@
 199.45.154.115   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.118   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.130   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
-199.45.154.140   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.144   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.148   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.149   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
