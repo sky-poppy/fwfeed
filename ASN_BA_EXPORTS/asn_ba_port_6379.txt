@@ -7,9 +7,9 @@
 3.138.190.72     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.141.168.125    #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
-3.144.245.14     #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.78.92.248      #AS212317  5.78.92.0/24       DE   HETZNER-CLOUD3-AS - Hetzner Online GmbH, DE
 5.226.140.19     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+5.226.140.24     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.138.154.105    #AS37963   8.138.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.138.155.88     #AS37963   8.138.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.142.76.93      #AS37963   8.142.0.0/15       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -27,6 +27,7 @@
 18.218.230.153   #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.15.163.169    #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.29.23.94      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.104.53     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.195.49     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.195.113    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -44,6 +45,7 @@
 31.14.254.19     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.69.167.154    #AS396982  34.69.160.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.170.237.65    #AS396982  34.170.128.0/17    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+34.173.83.139    #AS396982  34.173.0.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -61,7 +63,6 @@
 40.124.174.226   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.175.164   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.186.156   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-43.103.40.235    #AS45102   43.103.0.0/18      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 43.134.0.85      #AS132203  43.134.0.0/18      SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 43.139.215.177   #AS45090   43.139.192.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 43.155.183.70    #AS132203  43.155.128.0/18    SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
@@ -85,7 +86,7 @@
 60.13.6.16       #AS4837    60.13.0.0/18       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 61.242.178.28    #AS4837    61.242.160.0/19    CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 64.62.156.13     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.89.162.27     #AS198584  64.89.162.0/24     US   PIO-Hosting - PIO-Hosting GmbH, DE
+64.62.156.115    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.25       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.78       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.106      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -103,8 +104,12 @@
 66.240.236.116   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 68.183.16.143    #AS14061   68.183.16.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 69.5.169.139     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+69.5.169.248     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.6.227.130     #AS31898   69.6.226.0/23      US   ORACLE-BMC-31898 - Oracle Corporation, US
 74.82.47.51      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
+78.128.114.58    #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
+79.124.40.110    #AS50360   79.124.40.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
+80.82.70.133     #AS202425  80.82.70.0/24      NL   INT-NETWORK - IP Volume inc, SC
 81.70.2.239      #AS45090   81.70.0.0/18       CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 81.71.71.228     #AS45090   81.71.64.0/18      CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 84.247.138.235   #AS51167   84.247.128.0/20    DE   CONTABO - Contabo GmbH, DE
@@ -116,8 +121,8 @@
 89.248.165.203   #AS202425  89.248.165.0/24    NL   INT-NETWORK - IP Volume inc, SC
 91.92.42.243     #AS209630  91.92.42.0/24      BG   KREDIT-AS - LLC VASH KREDIT BANK, UA
 91.230.168.12    #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
-91.231.89.48     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 93.123.109.29    #AS48090   93.123.109.0/24    BG   DMZHOST - TECHOFF SRV LIMITED, GB
+95.215.0.144     #AS44050   95.215.0.0/24      RU   PIN-AS - Petersburg Internet Network ltd., RU
 97.74.92.144     #AS26496   97.74.88.0/21      US   AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
 98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
@@ -125,6 +130,7 @@
 100.29.192.75    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
+100.51.6.16      #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 101.35.251.162   #AS45090   101.35.192.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 101.96.215.50    #AS137718  101.96.208.0/21    CN   VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN
 101.126.20.199   #AS137718  101.126.16.0/21    CN   VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN
@@ -156,6 +162,7 @@
 115.191.4.11     #AS137718  115.191.0.0/21     CN   VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 116.62.220.96    #AS37963   116.62.128.0/17    CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
+116.129.255.248  #AS4837    116.129.248.0/21   CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 117.50.47.100    #AS23724   117.50.32.0/19     CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 117.72.13.101    #AS141679  117.72.8.0/21      CN   CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN
 117.72.186.146   #AS141679  117.72.160.0/19    CN   CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN
@@ -165,7 +172,6 @@
 118.193.32.92    #AS135377  118.193.32.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 118.196.87.226   #AS4811    118.196.80.0/21    CN   CHINANET-SHANGHAI-MAN - China Telecom (Group), CN
 119.45.38.38     #AS45090   119.45.32.0/20     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
-119.45.248.246   #AS45090   119.45.240.0/20    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 120.26.64.17     #AS37963   120.26.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.48.1.211     #AS38365   120.48.0.0/19      CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 120.48.43.118    #AS38365   120.48.32.0/19     CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
@@ -200,7 +206,6 @@
 144.91.88.217    #AS51167   144.91.88.0/23     DE   CONTABO - Contabo GmbH, DE
 146.56.220.191   #AS45090   146.56.192.0/19    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 146.56.224.203   #AS45090   146.56.224.0/19    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
-154.7.228.30     #AS400810  154.7.228.0/24     US   BREEZETECH - BreezeHost, US
 157.230.49.62    #AS14061   157.230.48.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 157.230.101.158  #AS14061   157.230.96.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 157.245.251.26   #AS14061   157.245.240.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -209,8 +214,10 @@
 161.35.10.162    #AS14061   161.35.0.0/20      US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 161.35.101.35    #AS14061   161.35.96.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.94.145.18    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
+167.94.145.31    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.99.235.0     #AS14061   167.99.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 170.9.225.197    #AS31898   170.9.224.0/19     US   ORACLE-BMC-31898 - Oracle Corporation, US
+172.202.117.220  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.202.118.119  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.239.51.96    #AS63949   172.239.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.239.62.109   #AS63949   172.239.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -235,9 +242,7 @@
 193.163.125.225  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.31.221   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 195.206.182.195  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-198.199.87.184   #AS14061   198.199.80.0/21    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 198.235.24.26    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.113   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.200   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.230   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.243   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -247,6 +252,7 @@
 203.32.69.32     #AS58466   203.32.69.0/24     CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 203.91.72.190    #AS400619  203.91.72.0/24     HK   AROSS-AS - AROSSCLOUD INC., US
 205.210.31.43    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+205.210.31.46    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.79    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.95    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.164   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
