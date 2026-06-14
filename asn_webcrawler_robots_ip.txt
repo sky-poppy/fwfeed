@@ -255,6 +255,7 @@ AS4837       110.249.201.35     110.240.0.0/12         CN       CHINA169-Backbon
 AS4837       110.249.201.36     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.39     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.48     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
+AS4837       110.249.201.49     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.50     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.64     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.67     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
@@ -360,7 +361,6 @@ AS5089       81.109.117.163     81.108.0.0/15          GB       NTL - Virgin Med
 AS5089       82.19.177.152      82.18.0.0/15           GB       NTL - Virgin Media Limited, GB                               BrowserAgent             
 AS5378       84.66.16.202       84.64.0.0/13           GB       unspecified - Vodafone Limited, GB                           BrowserAgent             
 AS6327       184.70.179.66      184.70.160.0/19        CA       SHAW - Shaw Communications, CA                               python-httpx             
-AS6849       46.201.59.12       46.201.48.0/20         UA       UKRTELNET - JSC _Ukrtelecom_, UA                             BrowserAgent             
 AS7922       76.157.53.196      76.128.0.0/11          US       COMCAST-7922 - Comcast Cable Communications, LLC, US         Python-urllib            
 AS7922       76.157.53.225      76.128.0.0/11          US       COMCAST-7922 - Comcast Cable Communications, LLC, US         BrowserAgent             
 AS7922       98.46.107.0        98.32.0.0/11           US       COMCAST-7922 - Comcast Cable Communications, LLC, US         Python-urllib            
@@ -653,7 +653,7 @@ AS13238      213.180.203.249    213.180.192.0/19       RU       YANDEX - YANDEX 
 AS13335      104.22.56.194      104.22.56.0/24         US       CLOUDFLARENET - Cloudflare, Inc., US                         OAI-SearchBot            
 AS13335      172.71.190.234     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         BrowserAgent             
 AS13335      172.71.190.235     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
-AS14593      143.105.147.238    143.105.147.0/24       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
+AS14593      143.105.147.238    143.105.146.0/23       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
 AS14618      3.82.232.43        3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      3.90.154.246       3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      3.93.44.104        3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
@@ -734,6 +734,7 @@ AS14618      52.55.58.190       52.54.0.0/15           US       AMAZON-AES - Ama
 AS14618      52.201.143.199     52.200.0.0/13          US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      52.202.232.123     52.200.0.0/13          US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
 AS14618      52.203.79.108      52.200.0.0/13          US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
+AS14618      52.203.246.32      52.200.0.0/13          US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
 AS14618      52.205.52.0        52.200.0.0/13          US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
 AS14618      54.80.10.207       54.80.0.0/14           US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      54.81.43.75        54.80.0.0/14           US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
@@ -792,6 +793,7 @@ AS15169      66.249.69.7        66.249.64.0/20         US       GOOGLE - Google 
 AS15169      66.249.69.11       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.69.32       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.69.33       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.69.35       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.69.36       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.69.37       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.69.38       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
@@ -977,6 +979,7 @@ AS16509      47.128.20.9        47.128.0.0/14          US       AMAZON-02 - Amaz
 AS16509      47.128.20.27       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.20.33       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.20.41       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
+AS16509      47.128.20.61       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.20.62       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.20.74       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.20.75       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
@@ -991,6 +994,7 @@ AS16509      47.128.22.41       47.128.0.0/14          US       AMAZON-02 - Amaz
 AS16509      47.128.22.48       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.22.54       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.22.72       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
+AS16509      47.128.22.88       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.22.98       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.22.99       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.22.245      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
@@ -1807,4 +1811,4 @@ AS400810     64.50.191.33       64.50.191.0/24         US       BREEZETECH - Bre
 AS400810     151.243.143.47     151.243.143.0/24       AE       BREEZETECH - BreezeHost, US                                  YandexBot                
 AS401401     23.191.200.14      23.191.200.0/24        US       UNREDACTED-NOISENET - Unredacted Inc, US                     BrowserAgent             
 
-Created on: 20260613021321
+Created on: 20260614021406
