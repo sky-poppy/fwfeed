@@ -57,7 +57,7 @@ Before authenticaton begins, stolen credentials used and MFA requirements come i
 You may have an appliance that has factory set listening ports that you need open for incoming connections, for example SAML or IPSEC and you cannot restrict by 
 your Geo region as contractors are roaming from anywhere outside of your local GEOIP region. (GEOIP by country is still a wide allowance considering proxy attacks are now common!)
 
-If you want to block more than 80% of potential and unknown zero day and malicious attacks, block ISP and HOSTING asn ranges as a start for ingress "new connections" and 
+If you want to block more than 80% of potential and unknown zero day and malicious attacks, block HOSTING, ISP and BUSINESS asn networks as a start for ingress "new connections" and 
 whitelist your own known trusted services, your ISP and contractor ISP provider subnets as needed, part of your security information collection should be to know 
 where individuals connect from before they attempt to authenticate with your network. 
 
