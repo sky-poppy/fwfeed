@@ -46,3 +46,33 @@ To the large scale service hosting providers like Microsoft, Google, Cloudflare,
 Please release a defined list of crawlers or hosts that your services essentially depend on into a dedicated ip lists file and keep it updated, there are so many bad actor data crawlers lurking within or using your services today that your services are now part of the bad actor problem (SSL, compute, hosting etc).
 
 ** some of these companies do have listed IP ranges, but not specific to roles ie Microsoft has Azure but does not list a web crawler or chatgpt ip list so bad actors can sit in the same subnets using rented compute space.
+
+
+SUMMARY FOR PREVENTING ZERO DAY AND MALICIOUS CONNECTIONS
+Unless you are hosting a public website or service for global access, then this subject applies to most private access scenarios.
+
+Before authenticaton begins, stolen credentials used and MFA requirements come into play is the "new connection" request when thinking about basic network connectivity.
+
+
+You may have an appliance that has factory set listening ports that you need open for incoming connections, for example SAML or IPSEC and you cannot restrict by 
+your Geo region as contractors are roaming from anywhere outside of your local GEOIP region. (GEOIP by country is still a wide allowance considering proxy attacks are now common!)
+
+If you want to block more than 80% of potential and unknown zero day and malicious attacks, block ISP and HOSTING asn ranges as a start for ingress "new connections" and 
+whitelist your own known trusted services, your ISP and contractor ISP provider subnets as needed, part of your security information collection should be to know 
+where individuals connect from before they attempt to authenticate with your network. 
+
+A VPN only secures traffic for a user once authenticated, using a VPN does not prevent the new connection attempts to use newly discovered attack methods (zero day, not updated firmware etc) to compromise your VPN appliance! 
+
+The reality is if you do not know whom is connecting from where to your services before any authentication occurs, then you are open to attack at anytime.
+
+By restricting "new connections" to your known sources, you resolve a large "unknown" attack surface and turn this into a security policy with a known attack 
+surface area you choose to manage. 
+
+Related connections are not the same as ingress "new connections" policies, this is your user or device connecting to a hosted service like M365, Zoom, Dropbox, Google etc
+and the hosted service replies to that request so that internet activity behaviour is expected for end users. These services typically reside in the HOSTED and BUSINESS asn's.
+
+With a overview on security, your trusted hosts or ISP whitelisted items are still a possible attack vector but now you have restricted further, if an event occurs 
+you know the entry vector how and may restrict access even further before an event occurs or by company policy ie make contractors only use your trusted isp selection for a region as part 
+of your t&c's for remote access.
+ 
+Have fun!
