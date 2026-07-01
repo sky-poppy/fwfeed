@@ -10,6 +10,7 @@
 5.187.35.26      #AS206264  5.187.35.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 8.216.5.77       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.8.151      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.216.12.173     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.15.23      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.17.247     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.58.203.73     #AS16509   13.58.0.0/15       US   AMAZON-02 - Amazon.com, Inc., US
@@ -20,7 +21,6 @@
 13.211.217.77    #AS16509   13.210.0.0/15      US   AMAZON-02 - Amazon.com, Inc., US
 13.238.102.51    #AS16509   13.236.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 14.39.154.40     #AS4766    14.32.0.0/13       KR   KIXS-AS-KR-KR - Korea Telecom, KR
-18.116.239.38    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.102.23    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -30,8 +30,8 @@
 20.15.162.180    #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.29.19.106     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.62.193.105    #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.64.105.127    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.106.118    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.145.179    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.195.28     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.195.109    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.202.2      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -42,7 +42,6 @@
 20.169.83.214    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.105.72    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 27.147.89.50     #AS23624   27.147.80.0/20     JP   CHUKAI - Chukai Television Co,.Ltd., JP
-34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 43.153.83.103    #AS132203  43.153.64.0/18     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
@@ -59,9 +58,11 @@
 47.245.138.244   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.51.246    #AS45102   47.250.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.89.132    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.251.80.97     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.165.222   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.179.35    #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.248.133   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.251.251.225   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.144.148   #AS45102   47.254.128.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.244.10    #AS45102   47.254.224.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.15.78.252     #AS16509   52.15.64.0/18      US   AMAZON-02 - Amazon.com, Inc., US
@@ -70,15 +71,15 @@
 54.252.11.191    #AS16509   54.252.0.0/17      US   AMAZON-02 - Amazon.com, Inc., US
 59.15.142.199    #AS4766    59.8.0.0/13        KR   KIXS-AS-KR-KR - Korea Telecom, KR
 59.15.178.129    #AS4766    59.8.0.0/13        KR   KIXS-AS-KR-KR - Korea Telecom, KR
+64.23.187.229    #AS14061   64.23.176.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.10     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.45     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.85     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.91     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.107    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.108    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.114    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.122    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.145    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.148    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.149    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.158    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.159    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -88,6 +89,7 @@
 64.62.197.12     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.22     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.36     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.81     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.98     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.110    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.116    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -97,7 +99,6 @@
 64.62.197.170    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.184    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.204    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.232    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.227.169.128   #AS14061   64.227.160.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 65.49.1.146      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.184      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -110,6 +111,7 @@
 66.132.186.220   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.243   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.21    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
+66.175.212.77    #AS63949   66.175.208.0/21    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 67.205.158.41    #AS14061   67.205.144.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 69.5.169.46      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.81      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -138,8 +140,8 @@
 103.203.58.1     #AS136180  103.203.58.0/24    CN   IPIP-CN - Beijing Tiantexin Tech. Co., Ltd., CN
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
+121.131.237.119  #AS4766    121.128.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 121.169.119.186  #AS4766    121.168.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
-125.138.157.8    #AS4766    125.136.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 130.12.180.52    #AS202412  130.12.180.0/24    US   OMEGATECH-AS - Omegatech LTD, SC
 135.237.126.114  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 137.184.37.88    #AS14061   137.184.32.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -147,7 +149,6 @@
 139.162.183.93   #AS63949   139.162.160.0/19   NL   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 142.93.236.187   #AS14061   142.93.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 143.198.26.182   #AS14061   143.198.16.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-143.198.149.123  #AS14061   143.198.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 144.126.216.218  #AS14061   144.126.208.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 147.185.132.157  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.133.93   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -159,14 +160,12 @@
 160.119.76.53    #AS49870   160.119.76.0/23    SC   #AS49870-BV - Alsycon B.V., NL
 160.119.76.59    #AS49870   160.119.76.0/23    SC   #AS49870-BV - Alsycon B.V., NL
 160.119.76.60    #AS49870   160.119.76.0/23    SC   AS49870-BV - Alsycon B.V., NL
-161.35.231.90    #AS14061   161.35.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.227.126.51   #AS14061   165.227.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.232.41.215   #AS14061   165.232.32.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.71.83.137    #AS14061   167.71.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.99.228.14    #AS14061   167.99.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 168.144.29.127   #AS14061   168.144.16.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-172.212.200.188  #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.233.77.208   #AS63949   172.233.64.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.245.21.30    #AS36352   172.245.21.0/24    US   AS-COLOCROSSING - HostPapa, US
 175.100.17.220   #AS38623   175.100.17.0/24    KH   VIETTELCAMBODIA-AS-AP - ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE., KH
@@ -181,19 +180,21 @@
 185.242.226.74   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 188.166.170.213  #AS14061   188.166.168.0/21   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 193.163.125.13   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
+193.163.125.56   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.29.22    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.118    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+194.164.107.6    #AS50219   194.164.107.0/24   US   VT-255-50219 - Valence Technology Co., US
 195.178.110.204  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.184.76.100   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.120   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
+198.11.179.46    #AS45102   198.11.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 199.45.154.180   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.183   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.184   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.185   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 204.76.203.36    #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 209.38.106.56    #AS14061   209.38.96.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-213.166.84.35    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 216.218.206.118  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
+216.218.206.119  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 218.150.226.104  #AS4766    218.144.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
-221.1.97.226     #AS4837    221.0.0.0/15       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 222.120.94.34    #AS4766    222.120.0.0/15     KR   KIXS-AS-KR-KR - Korea Telecom, KR
