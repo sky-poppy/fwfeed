@@ -271,6 +271,7 @@ AS4837       110.249.201.29     110.240.0.0/12         CN       CHINA169-Backbon
 AS4837       110.249.201.35     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.36     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.39     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
+AS4837       110.249.201.45     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.48     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.49     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
 AS4837       110.249.201.50     110.240.0.0/12         CN       CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN       Bytespider               
@@ -637,6 +638,7 @@ AS11840      72.13.46.10        72.13.46.0/24          US       VGRS-REGISTRY-AS
 AS12322      78.202.166.85      78.192.0.0/11          FR       PROXAD - Free SAS, FR                                        BrowserAgent             
 AS12322      88.182.44.100      88.182.32.0/19         FR       PROXAD - Free SAS, FR                                        BrowserAgent             
 AS12322      88.186.5.147       88.186.0.0/19          FR       PROXAD - Free SAS, FR                                        BrowserAgent             
+AS12365      82.215.74.198      82.215.72.0/22         UZ       SARKOR-AS - JC LLC Sarkor-Telecom, UZ                        BrowserAgent             
 AS12479      85.52.216.161      85.52.216.0/22         ES       UNI2-AS - Orange Espagne SA, ES                              BrowserAgent             
 AS12479      90.74.244.137      90.74.244.0/22         FR       UNI2-AS - Orange Espagne SA, ES                              BrowserAgent             
 AS12552      93.158.90.15       93.158.88.0/22         SE       GlobalConnect-AS12552 - GlobalConnect AB, SE                 BrowserAgent             
@@ -731,7 +733,7 @@ AS13335      108.162.245.195    108.162.245.0/24       US       CLOUDFLARENET - 
 AS13335      172.71.28.155      172.71.28.0/24         US       CLOUDFLARENET - Cloudflare, Inc., US                         ClaudeBot                
 AS13335      172.71.190.234     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
 AS13335      172.71.190.235     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
-AS14593      143.105.147.238    143.105.146.0/23       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
+AS14593      143.105.147.238    143.105.147.0/24       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
 AS14593      150.228.105.153    150.228.104.0/23       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
 AS14618      3.82.232.43        3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      3.88.155.249       3.80.0.0/12            US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
@@ -860,7 +862,6 @@ AS14618      54.227.6.248       54.226.0.0/15          US       AMAZON-AES - Ama
 AS14618      54.236.1.11        54.236.0.0/18          US       AMAZON-AES - Amazon.com, Inc., US                            Pinterestbot             
 AS14618      54.236.1.53        54.236.0.0/18          US       AMAZON-AES - Amazon.com, Inc., US                            Pinterestbot             
 AS14618      98.80.16.166       98.80.0.0/13           US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
-AS14618      98.85.250.110      98.80.0.0/13           US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      98.86.199.78       98.80.0.0/13           US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
 AS14618      98.88.82.113       98.88.0.0/13           US       AMAZON-AES - Amazon.com, Inc., US                            BrowserAgent             
 AS14618      98.88.165.13       98.88.0.0/13           US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
@@ -929,6 +930,8 @@ AS15169      66.249.72.237      66.249.64.0/20         US       GOOGLE - Google 
 AS15169      66.249.73.3        66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.4        66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.5        66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.73.11       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.73.12       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.13       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.98       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.99       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
@@ -937,10 +940,13 @@ AS15169      66.249.73.101      66.249.64.0/20         US       GOOGLE - Google 
 AS15169      66.249.73.102      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.130      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.160      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.73.161      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.73.167      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.196      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.198      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.199      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.73.203      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.73.233      66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.4        66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.5        66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.10       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
@@ -949,6 +955,7 @@ AS15169      66.249.74.38       66.249.64.0/20         US       GOOGLE - Google 
 AS15169      66.249.74.39       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.40       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.67       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
+AS15169      66.249.74.69       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.74.74       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.75.43       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
 AS15169      66.249.75.72       66.249.64.0/20         US       GOOGLE - Google LLC, US                                      Googlebot                
@@ -1194,6 +1201,7 @@ AS16509      47.128.39.83       47.128.0.0/14          US       AMAZON-02 - Amaz
 AS16509      47.128.39.88       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.39.98       47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.40.100      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
+AS16509      47.128.40.102      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.40.110      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.40.116      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
 AS16509      47.128.40.120      47.128.0.0/14          US       AMAZON-02 - Amazon.com, Inc., US                             Bytespider               
@@ -1356,6 +1364,7 @@ AS16509      216.73.217.25      216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.217.32      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.33      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.34      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.217.35      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.39      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.46      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.217.47      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1701,6 +1710,8 @@ AS35830      45.66.209.171      45.66.209.0/24         RU       BTTGROUP-AS - Fa
 AS35830      45.88.13.93        45.88.13.0/24          AE       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     BrowserAgent             
 AS35830      77.81.65.56        77.81.65.0/24          AE       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     BrowserAgent             
 AS35830      77.81.65.131       77.81.65.0/24          AE       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     BrowserAgent             
+AS35830      185.81.145.242     185.81.145.0/24        RU       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     Nutch                    
+AS35830      185.96.37.131      185.96.37.0/24         RU       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     Nutch                    
 AS35830      185.102.112.195    185.102.112.0/24       RU       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     Nutch                    
 AS35830      212.119.41.145     212.119.40.0/23        IL       BTTGROUP-AS - Fast Servers (Pty) Ltd, ZA                     BrowserAgent             
 AS36352      23.94.138.207      23.94.138.0/24         US       AS-COLOCROSSING - HostPapa, US                               Googlebot                
@@ -1713,6 +1724,7 @@ AS42708      192.36.198.147     192.36.198.0/24        SE       GLESYS - Glesys 
 AS42708      192.71.30.89       192.71.30.0/24         SE       GLESYS - Glesys AB, SE                                       MiuiBrowser              
 AS42708      192.121.135.97     192.121.135.0/24       SE       GLESYS - Glesys AB, SE                                       BrowserAgent             
 AS42708      192.121.146.24     192.121.146.0/24       SE       GLESYS - Glesys AB, SE                                       BrowserAgent             
+AS42863      89.214.24.110      89.214.0.0/16          PT       MEO-MOVEL - MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A., PT  BrowserAgent             
 AS43037      77.75.76.161       77.75.76.0/23          CZ       SEZNAM-CZ - SEZNAM-CZ, CZ                                    SeznamBot                
 AS43037      77.75.76.165       77.75.76.0/23          CZ       SEZNAM-CZ - SEZNAM-CZ, CZ                                    SeznamBot                
 AS43037      77.75.76.169       77.75.76.0/23          CZ       SEZNAM-CZ - SEZNAM-CZ, CZ                                    SeznamBot                
@@ -2046,6 +2058,7 @@ AS396982     34.156.83.83       34.156.0.0/17          US       GOOGLE-CLOUD-PLA
 AS396982     34.170.20.173      34.170.0.0/17          US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       SleepBot                 
 AS396982     34.182.143.210     34.182.128.0/17        US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       HeadlessChrome           
 AS396982     34.182.197.96      34.182.128.0/17        US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       HeadlessChrome           
+AS396982     34.182.245.142     34.182.128.0/17        US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       BrowserAgent             
 AS396982     35.189.0.46        35.189.0.0/20          US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       Monsidobot               
 AS396982     35.205.222.21      35.205.208.0/20        US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       BrowserAgent             
 AS396982     35.224.18.204      35.224.16.0/20         US       GOOGLE-CLOUD-PLATFORM - Google LLC, US                       BrowserAgent             
@@ -2064,4 +2077,4 @@ AS400810     64.50.191.33       64.50.191.0/24         US       BREEZETECH - Bre
 AS400810     151.243.143.47     151.243.143.0/24       AE       BREEZETECH - BreezeHost, US                                  YandexBot                
 AS401401     23.191.200.14      23.191.200.0/24        US       UNREDACTED-NOISENET - Unredacted Inc, US                     BrowserAgent             
 
-Created on: 20260701021551
+Created on: 20260702021636

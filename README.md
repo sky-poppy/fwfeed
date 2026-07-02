@@ -51,14 +51,14 @@ Please release a defined list of crawlers or hosts that your services essentiall
 SUMMARY FOR PREVENTING ZERO DAY AND MALICIOUS CONNECTIONS
 Unless you are hosting a public website or service for global access, then this subject applies to most private access scenarios.
 
-Before authenticaton begins, stolen credentials used and MFA requirements come into play is the "new connection" request when thinking about basic network connectivity.
+Before authentication any begins or use of stolen credentials are used and MFA requirements come into play is the "new connection" request when thinking about basic network connectivity.
 
 
 You may have an appliance that has factory set listening ports that you need open for incoming connections, for example SAML or IPSEC and you cannot restrict by 
 your Geo region as contractors are roaming from anywhere outside of your local GEOIP region. (GEOIP by country is still a wide allowance considering proxy attacks are now common!)
 
-If you want to block more than 80% of potential and unknown zero day and malicious attacks, block HOSTING, ISP and BUSINESS asn networks as a start for ingress "new connections" and 
-whitelist your own known trusted services, your ISP and contractor ISP provider subnets as needed, part of your security information collection should be to know 
+If you want to block more than 80% of potential and unknown zero day and malicious attacks, block HOSTING, ISP and BUSINESS asn networks as a start for ingress "new connections" for 
+listening ports and whitelist your own known trusted services, your ISP and contractor ISP provider subnets as needed. Part of your security information collection should be to know 
 where individuals connect from before they attempt to authenticate with your network. 
 
 A VPN only secures traffic for a user once authenticated, using a VPN does not prevent the new connection attempts to use newly discovered attack methods (zero day, not updated firmware etc) to compromise your VPN appliance! 
