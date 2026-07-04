@@ -69,6 +69,7 @@ AS714        17.241.219.15      17.128.0.0/9           US       APPLE-ENGINEERIN
 AS714        17.241.219.16      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.241.219.43      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.241.219.86      17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
+AS714        17.241.219.123     17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.241.219.146     17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.241.219.148     17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
 AS714        17.241.219.161     17.128.0.0/9           US       APPLE-ENGINEERING - Apple Inc., US                           Applebot                 
@@ -642,6 +643,7 @@ AS9808       120.240.178.246    120.240.178.0/24       CN       CHINAMOBILE-CN -
 AS9808       120.240.178.247    120.240.178.0/24       CN       CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN  BrowserAgent             
 AS11664      186.12.189.246     186.12.188.0/22        AR       AS11664 - Techtel LMDS Comunicaciones Interactivas S.A., AR  BrowserAgent             
 AS11840      72.13.46.10        72.13.46.0/24          US       VGRS-REGISTRY-AS - VeriSign Infrastructure & Operations, US  ips-agent                
+AS12091      41.123.78.39       41.123.64.0/19         ZA       MTN SA - MTN SA, ZA                                          BrowserAgent             
 AS12322      78.202.166.85      78.192.0.0/11          FR       PROXAD - Free SAS, FR                                        BrowserAgent             
 AS12322      88.182.44.100      88.182.32.0/19         FR       PROXAD - Free SAS, FR                                        BrowserAgent             
 AS12322      88.186.5.147       88.186.0.0/19          FR       PROXAD - Free SAS, FR                                        BrowserAgent             
@@ -739,7 +741,10 @@ AS13238      213.180.203.244    213.180.192.0/19       RU       YANDEX - YANDEX 
 AS13238      213.180.203.249    213.180.192.0/19       RU       YANDEX - YANDEX LLC, RU                                      YandexBot                
 AS13335      104.22.56.194      104.22.56.0/24         US       CLOUDFLARENET - Cloudflare, Inc., US                         OAI-SearchBot            
 AS13335      108.162.245.195    108.162.245.0/24       US       CLOUDFLARENET - Cloudflare, Inc., US                         bingbot                  
+AS13335      108.162.249.134    108.162.249.0/24       US       CLOUDFLARENET - Cloudflare, Inc., US                         BrowserAgent             
 AS13335      172.71.28.155      172.71.28.0/24         US       CLOUDFLARENET - Cloudflare, Inc., US                         ClaudeBot                
+AS13335      172.71.159.10      172.71.159.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         BrowserAgent             
+AS13335      172.71.159.93      172.71.159.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         BrowserAgent             
 AS13335      172.71.190.234     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
 AS13335      172.71.190.235     172.71.190.0/24        US       CLOUDFLARENET - Cloudflare, Inc., US                         Gort                     
 AS14593      143.105.147.238    143.105.147.0/24       US       SPACEX-STARLINK - Space Exploration Technologies Corporation, US  BrowserAgent             
@@ -849,9 +854,12 @@ AS14618      54.159.248.224     54.156.0.0/14          US       AMAZON-AES - Ama
 AS14618      54.172.209.207     54.172.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            Gort                     
 AS14618      54.174.58.224      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.226      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
+AS14618      54.174.58.227      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.233      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
+AS14618      54.174.58.238      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.239      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.240      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
+AS14618      54.174.58.241      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.242      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.246      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
 AS14618      54.174.58.251      54.174.0.0/15          US       AMAZON-AES - Amazon.com, Inc., US                            HubSpot                  
@@ -1313,6 +1321,7 @@ AS16509      216.73.216.55      216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.216.56      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.57      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.60      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.216.61      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.63      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.65      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.67      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1322,6 +1331,7 @@ AS16509      216.73.216.70      216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.216.75      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.77      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.79      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.216.98      216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.101     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.102     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.114     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1354,6 +1364,7 @@ AS16509      216.73.216.209     216.73.216.0/22        US       AMAZON-02 - Amaz
 AS16509      216.73.216.218     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.219     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.220     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
+AS16509      216.73.216.223     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.224     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.227     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
 AS16509      216.73.216.229     216.73.216.0/22        US       AMAZON-02 - Amazon.com, Inc., US                             ClaudeBot                
@@ -1458,6 +1469,7 @@ AS20011      197.94.41.63       197.94.41.0/24         ZA       Dimension Data -
 AS20879      176.223.38.109     176.223.0.0/18         RO       DIGI-PT - DIGI ROMANIA S.A., RO                              BrowserAgent             
 AS22612      203.161.33.202     203.161.33.0/24        US       NAMECHEAP-NET - Namecheap, Inc., US                          BrowserAgent             
 AS22927      181.24.175.89      181.24.0.0/14          AR       AS22927 - Telefonica de Argentina, AR                        BrowserAgent             
+AS23033      216.244.66.201     216.244.64.0/19        US       WOW - Wowrack.com, US                                        DotBot                   
 AS23033      216.244.66.246     216.244.64.0/19        US       WOW - Wowrack.com, US                                        DotBot                   
 AS23576      125.209.235.183    125.209.232.0/22       KR       nhn-AS-KR-KR - NAVER Cloud Corp., KR                         BrowserAgent             
 AS23693      182.8.98.121       182.8.98.0/24          ID       TELKOMSEL-ASN-ID - PT. Telekomunikasi Selular, ID            BrowserAgent             
@@ -1720,6 +1732,7 @@ AS32934      173.252.95.58      173.252.88.0/21        US       FACEBOOK - Faceb
 AS32934      173.252.95.63      173.252.88.0/21        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.95.114     173.252.88.0/21        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.95.115     173.252.88.0/21        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
+AS32934      173.252.107.12     173.252.96.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.107.22     173.252.96.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.107.26     173.252.96.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
 AS32934      173.252.107.33     173.252.96.0/19        US       FACEBOOK - Facebook, Inc., US                                facebookexternalhit      
@@ -2039,6 +2052,7 @@ AS213954     157.22.102.189     157.22.102.0/24        SC       GTS-AS - Global 
 AS214091     83.143.155.237     83.143.155.0/24        RU       NordCom - LLC _Nord.Com_, RU                                 BrowserAgent             
 AS216071     89.124.113.81      89.124.113.0/24        AE       VDSINA - SERVERS TECH FZCO, AE                               WebScraperBot            
 AS262298     177.154.229.9      177.154.229.0/24       BR       AS262298 - Maikol Campanini Informatica Me, BR               BrowserAgent             
+AS262459     177.22.160.79      177.22.160.0/23        BR       AS262459 - Osirnet Info Telecom Ltda., BR                    BrowserAgent             
 AS266841     38.121.209.60      38.121.209.0/24        US       AS266841 - GALANET SOLUTION C.A., VE                         BrowserAgent             
 AS267201     45.230.166.149     45.230.166.0/24        BR       AS267201 - Fiber One Telecomunicacoes EIRELI, BR             BrowserAgent             
 AS268997     45.176.104.14      45.176.104.0/24        BR       AS268997 - FALCON INTERNET LTDA, BR                          BrowserAgent             
@@ -2097,4 +2111,4 @@ AS400810     64.50.191.33       64.50.191.0/24         US       BREEZETECH - Bre
 AS400810     151.243.143.47     151.243.143.0/24       AE       BREEZETECH - BreezeHost, US                                  YandexBot                
 AS401401     23.191.200.14      23.191.200.0/24        US       UNREDACTED-NOISENET - Unredacted Inc, US                     BrowserAgent             
 
-Created on: 20260703021555
+Created on: 20260704021601
