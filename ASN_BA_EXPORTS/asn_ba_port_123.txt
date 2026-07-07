@@ -1,5 +1,6 @@
 1.11.88.114      #AS38091   1.11.88.0/21       KR   HELLONET-AS-KR-KR - LG HelloVision Corp., KR
 1.28.148.201     #AS139007  1.28.148.0/22      CN   UNICOM-NM-WuLanChaBu-IDC - UNICOM InnerMongolia province network, CN
+1.161.62.247     #AS3462    1.161.0.0/16       TW   HINET - Data Communication Business Group, TW
 1.162.149.221    #AS3462    1.162.0.0/16       TW   HINET - Data Communication Business Group, TW
 1.162.178.108    #AS3462    1.162.0.0/16       TW   HINET - Data Communication Business Group, TW
 1.163.75.229     #AS3462    1.163.0.0/16       TW   HINET - Data Communication Business Group, TW
@@ -31,7 +32,6 @@
 1.175.174.200    #AS3462    1.175.0.0/16       TW   HINET - Data Communication Business Group, TW
 1.175.182.72     #AS3462    1.175.0.0/16       TW   HINET - Data Communication Business Group, TW
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
-3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.227.178.208    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 8.211.162.45     #AS45102   8.211.160.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.173      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -42,7 +42,6 @@
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.106.186.120   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.245.101   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.163.13.114    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.15.236    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.5.245     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.7.3       #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -65,6 +64,7 @@
 27.213.140.177   #AS4837    27.192.0.0/11      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 27.222.88.155    #AS4837    27.192.0.0/11      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 27.222.159.246   #AS4837    27.192.0.0/11      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+34.34.178.142    #AS396982  34.34.128.0/18     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.38.178.161    #AS396982  34.38.0.0/16       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.38.212.63     #AS396982  34.38.0.0/16       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.52.228.59     #AS396982  34.52.128.0/17     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -82,6 +82,7 @@
 35.195.192.119   #AS396982  35.195.192.0/20    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.205.84.220    #AS396982  35.205.80.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.205.232.226   #AS396982  35.205.224.0/20    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+35.233.80.58     #AS396982  35.233.0.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 36.20.24.96      #AS4134    36.16.0.0/12       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 36.22.248.223    #AS4134    36.16.0.0/12       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 36.24.5.56       #AS4134    36.16.0.0/12       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -102,7 +103,6 @@
 36.227.15.242    #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.227.35.144    #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.227.44.90     #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
-36.227.46.151    #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.227.83.26     #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.227.154.114   #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.227.155.134   #AS3462    36.227.0.0/16      TW   HINET - Data Communication Business Group, TW
@@ -117,10 +117,10 @@
 36.229.223.222   #AS3462    36.229.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.229.228.36    #AS3462    36.229.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.232.115.220   #AS3462    36.232.0.0/16      TW   HINET - Data Communication Business Group, TW
+36.232.214.101   #AS3462    36.232.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.232.220.45    #AS3462    36.232.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.233.227.24    #AS3462    36.233.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.233.237.11    #AS3462    36.233.0.0/16      TW   HINET - Data Communication Business Group, TW
-36.233.254.22    #AS3462    36.233.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.234.12.7      #AS3462    36.234.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.234.64.140    #AS3462    36.234.0.0/16      TW   HINET - Data Communication Business Group, TW
 36.234.99.190    #AS3462    36.234.0.0/16      TW   HINET - Data Communication Business Group, TW
@@ -168,14 +168,13 @@
 45.198.224.236   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.198.224.246   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.205.1.70      #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
+47.89.225.161    #AS45102   47.89.224.0/19     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.93.165    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.93.227    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-48.216.208.195   #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 49.143.190.168   #AS38684   49.143.190.0/24    KR   CMBDAEJEON-AS-KR-KR - CMB Daejeon Broadcasting Co,.Ltd, KR
 49.236.120.180   #AS17858   49.236.96.0/19     KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
 52.73.169.169    #AS14618   52.72.0.0/15       US   AMAZON-AES - Amazon.com, Inc., US
 57.152.33.247    #AS8075    57.152.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-57.154.211.91    #AS8075    57.152.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 59.3.199.88      #AS4766    59.0.0.0/13        KR   KIXS-AS-KR-KR - Korea Telecom, KR
 59.21.151.142    #AS4766    59.16.0.0/13       KR   KIXS-AS-KR-KR - Korea Telecom, KR
 59.24.168.54     #AS4766    59.24.0.0/13       KR   KIXS-AS-KR-KR - Korea Telecom, KR
@@ -189,6 +188,7 @@
 60.176.234.90    #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.177.71.161    #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.177.126.180   #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+60.177.191.162   #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.177.197.100   #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.177.202.141   #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.177.216.78    #AS4134    60.176.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -204,6 +204,7 @@
 61.39.208.232    #AS3786    61.32.0.0/13       KR   LGDACOM-KR - LG DACOM Corporation, KR
 61.82.245.55     #AS4766    61.80.0.0/14       KR   KIXS-AS-KR-KR - Korea Telecom, KR
 61.162.146.166   #AS4837    61.162.0.0/16      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+61.162.148.118   #AS4837    61.162.0.0/16      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 61.174.151.84    #AS4134    61.174.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.174.151.99    #AS4134    61.174.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.175.169.172   #AS4134    61.174.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -213,7 +214,6 @@
 61.179.235.20    #AS4837    61.179.0.0/16      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 61.179.235.134   #AS4837    61.179.0.0/16      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 61.223.111.228   #AS3462    61.223.0.0/16      TW   HINET - Data Communication Business Group, TW
-61.223.212.18    #AS3462    61.223.0.0/16      TW   HINET - Data Communication Business Group, TW
 61.224.2.23      #AS3462    61.224.0.0/16      TW   HINET - Data Communication Business Group, TW
 61.224.8.220     #AS3462    61.224.0.0/16      TW   HINET - Data Communication Business Group, TW
 61.224.37.23     #AS3462    61.224.0.0/16      TW   HINET - Data Communication Business Group, TW
@@ -223,6 +223,7 @@
 61.230.4.43      #AS3462    61.230.0.0/16      TW   HINET - Data Communication Business Group, TW
 61.230.7.54      #AS3462    61.230.0.0/16      TW   HINET - Data Communication Business Group, TW
 61.230.86.190    #AS3462    61.230.0.0/16      TW   HINET - Data Communication Business Group, TW
+64.62.156.22     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.99     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.119    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.146    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -240,6 +241,7 @@
 65.49.1.185      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.230      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.80      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.20.88      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.172.132   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.143   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.228   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -251,10 +253,11 @@
 66.132.195.53    #AS398324  66.132.195.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.54    #AS398324  66.132.195.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.120   #AS398324  66.132.195.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
+66.132.224.16    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.19    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.20    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
+66.175.212.77    #AS63949   66.175.208.0/21    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 66.240.223.240   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
-66.240.236.116   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 69.5.169.81      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.55.54.71      #AS14061   69.55.54.0/24      US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 71.6.199.65      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -268,6 +271,7 @@
 79.124.56.210    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 80.94.92.13      #AS47890   80.94.92.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 85.217.140.37    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.149.5     #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.58    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.65    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 86.54.31.38      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
@@ -276,6 +280,7 @@
 91.230.168.218   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.90     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.9     #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.111   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -289,7 +294,6 @@
 111.38.51.38     #AS9808    111.38.32.0/19     CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 111.43.34.90     #AS132525  111.43.32.0/22     CN   CMNET-HEILONGJIANG-CN - HeiLongJiang Mobile Communication Company Limited, CN
 111.43.152.18    #AS132525  111.43.152.0/24    CN   CMNET-HEILONGJIANG-CN - HeiLongJiang Mobile Communication Company Limited, CN
-111.61.252.202   #AS24547   111.61.240.0/20    CN   CMNET-V4HEBEI-AS-AP - Hebei Mobile Communication Company Limited, CN
 111.91.164.144   #AS38673   111.91.160.0/21    KR   KCTVNET-AS-KR-KR - Korea Cable TV Kwangju Broadcasting, KR
 111.91.167.243   #AS38673   111.91.160.0/21    KR   KCTVNET-AS-KR-KR - Korea Cable TV Kwangju Broadcasting, KR
 111.196.240.228  #AS4808    111.196.192.0/18   CN   CHINA169-BJ - China Unicom Beijing Province Network, CN
@@ -301,7 +305,6 @@
 111.241.10.100   #AS3462    111.241.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.241.59.21    #AS3462    111.241.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.241.136.17   #AS3462    111.241.0.0/16     TW   HINET - Data Communication Business Group, TW
-111.241.250.202  #AS3462    111.241.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.241.254.160  #AS3462    111.241.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.242.13.236   #AS3462    111.242.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.242.19.112   #AS3462    111.242.0.0/16     TW   HINET - Data Communication Business Group, TW
@@ -327,6 +330,7 @@
 111.243.207.120  #AS3462    111.243.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.243.224.199  #AS3462    111.243.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.246.2.84     #AS3462    111.246.0.0/16     TW   HINET - Data Communication Business Group, TW
+111.246.14.172   #AS3462    111.246.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.246.40.29    #AS3462    111.246.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.246.52.64    #AS3462    111.246.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.246.146.89   #AS3462    111.246.0.0/16     TW   HINET - Data Communication Business Group, TW
@@ -364,6 +368,7 @@
 111.254.48.126   #AS3462    111.254.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.254.135.152  #AS3462    111.254.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.254.144.187  #AS3462    111.254.0.0/16     TW   HINET - Data Communication Business Group, TW
+111.254.199.38   #AS3462    111.254.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.254.249.102  #AS3462    111.254.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.255.16.209   #AS3462    111.255.0.0/16     TW   HINET - Data Communication Business Group, TW
 111.255.102.46   #AS3462    111.255.0.0/16     TW   HINET - Data Communication Business Group, TW
@@ -375,9 +380,7 @@
 112.14.28.32     #AS56041   112.14.0.0/19      CN   CMNET-Zhejiang-AP - China Mobile communications corporation, CN
 112.72.201.109   #AS9319    112.72.200.0/22    KR   HCNCHUNGJU-AS-KR-KR - HCN CHUNGBUK CABLE TV SYSTEMS, KR
 112.94.189.68    #AS17622   112.94.128.0/18    CN   CNCGROUP-GZ - China Unicom Guangzhou network, CN
-112.104.66.43    #AS4780    112.104.64.0/19    TW   SEEDNET - Digital United Inc., TW
 112.104.73.247   #AS4780    112.104.64.0/19    TW   SEEDNET - Digital United Inc., TW
-112.104.88.66    #AS4780    112.104.64.0/19    TW   SEEDNET - Digital United Inc., TW
 112.104.170.172  #AS4780    112.104.170.0/24   TW   SEEDNET - Digital United Inc., TW
 112.104.173.173  #AS4780    112.104.160.0/19   TW   SEEDNET - Digital United Inc., TW
 112.105.5.202    #AS18049   112.105.4.0/22     TW   TINP-TW - Taiwan Infrastructure Network Technologie, TW
@@ -385,15 +388,12 @@
 112.105.67.232   #AS4780    112.105.64.0/19    TW   SEEDNET - Digital United Inc., TW
 112.105.133.139  #AS4780    112.105.128.0/19   TW   SEEDNET - Digital United Inc., TW
 112.163.49.63    #AS4766    112.160.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
-112.165.106.87   #AS4766    112.160.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 112.185.134.131  #AS4766    112.176.0.0/12     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 112.186.43.167   #AS4766    112.176.0.0/12     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 112.225.216.173  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.228.11.119   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.228.172.33   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.228.206.27   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.229.249.59   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.230.236.160  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.231.130.37   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.233.99.62    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.233.135.131  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -401,19 +401,16 @@
 112.233.151.160  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.233.161.195  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.234.86.224   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.234.107.219  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.234.190.169  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.235.4.226    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.235.30.42    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.235.198.46   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.235.205.241  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.236.131.239  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.236.165.132  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.236.210.6    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+112.236.242.241  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.237.36.219   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.237.214.37   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.239.130.2    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.241.161.245  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.241.240.17   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.241.245.209  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.242.250.66   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -422,9 +419,10 @@
 112.246.164.99   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.247.7.74     #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.248.84.66    #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-112.248.112.11   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+112.248.200.120  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.249.30.178   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 112.251.112.55   #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+112.255.195.239  #AS4837    112.224.0.0/11     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 113.0.15.68      #AS4837    113.0.0.0/13       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 113.61.164.121   #AS17809   113.61.160.0/21    TW   VEETIME-TW-AP - VEE TIME CORP., TW
 113.78.240.64    #AS4134    113.64.0.0/11      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -432,9 +430,9 @@
 113.93.32.241    #AS136199  113.93.0.0/16      CN   ChinaNet-Guangdong-Yuedong-MAN - CHINANET Guangdong province Yuedong MAN network, CN
 113.93.62.185    #AS136199  113.93.0.0/16      CN   ChinaNet-Guangdong-Yuedong-MAN - CHINANET Guangdong province Yuedong MAN network, CN
 113.109.250.115  #AS4134    113.96.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+113.120.137.218  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.121.65.39    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.121.67.43    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.121.89.17    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.121.89.108   #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.121.107.253  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.122.161.186  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -448,17 +446,12 @@
 113.123.243.166  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.123.244.111  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.123.247.69   #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.123.247.200  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.64.27    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.72.217   #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.77.188   #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.124.78.41    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.124.78.88    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.85.31    #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.100.106  #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.124.155.75   #AS4134    113.120.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.141.25.126   #AS4134    113.136.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-113.225.50.59    #AS4837    113.224.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 113.237.31.237   #AS4837    113.224.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 114.24.91.187    #AS3462    114.24.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.24.244.89    #AS3462    114.24.0.0/16      TW   HINET - Data Communication Business Group, TW
@@ -471,43 +464,36 @@
 114.26.156.142   #AS3462    114.26.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.26.186.176   #AS3462    114.26.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.26.194.13    #AS3462    114.26.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.27.168.36    #AS3462    114.27.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.27.190.3     #AS3462    114.27.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.30.129.198   #AS38121   114.30.128.0/21    KR   UPASSTV-AS-KR-KR - LG HelloVision Corp., KR
 114.33.110.197   #AS3462    114.33.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.36.75.131    #AS3462    114.36.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.36.95.233    #AS3462    114.36.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.36.143.122   #AS3462    114.36.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.8.45      #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.17.228    #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.23.216    #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.38.130.169   #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.151.64    #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.195.169   #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.38.201.62    #AS3462    114.38.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.39.102.193   #AS3462    114.39.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.39.106.197   #AS3462    114.39.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.39.198.53    #AS3462    114.39.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.40.15.32     #AS3462    114.40.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.40.73.85     #AS3462    114.40.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.40.137.104   #AS3462    114.40.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.41.82.26     #AS3462    114.41.0.0/16      TW   HINET - Data Communication Business Group, TW
+114.41.85.131    #AS3462    114.41.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.42.34.37     #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.42.44.128    #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.42.60.76     #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.42.150.21    #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.42.196.171   #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.42.198.15    #AS3462    114.42.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.43.8.20      #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.43.32.81     #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.43.35.191    #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.43.192.252   #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.43.227.227   #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.43.244.171   #AS3462    114.43.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.45.53.54     #AS3462    114.45.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.45.184.250   #AS3462    114.45.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.46.68.203    #AS3462    114.46.0.0/16      TW   HINET - Data Communication Business Group, TW
-114.46.135.46    #AS3462    114.46.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.46.149.198   #AS3462    114.46.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.47.56.105    #AS3462    114.47.0.0/16      TW   HINET - Data Communication Business Group, TW
 114.199.240.65   #AS7623    114.199.240.0/22   KR   HCNGYEONGBUK-AS-KR-KR - Gyeongbuk Cable TV, KR
@@ -526,6 +512,7 @@
 115.192.82.85    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.192.90.118   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.192.91.148   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.192.100.176  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.192.108.102  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.192.108.159  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.192.112.240  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -548,7 +535,7 @@
 115.193.11.56    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.18.87    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.27.28    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.193.28.13    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.193.36.30    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.77.252   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.96.173   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.107.255  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -572,12 +559,10 @@
 115.193.200.56   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.200.147  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.203.181  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.193.207.7    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.207.136  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.207.189  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.207.199  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.209.233  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.193.212.46   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.212.72   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.214.26   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.193.214.222  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -599,6 +584,7 @@
 115.196.235.219  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.197.34.243   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.197.45.250   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.197.117.46   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.197.117.171  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.197.168.202  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.197.182.250  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -609,12 +595,11 @@
 115.198.189.104  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.198.240.54   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.198.245.140  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.198.252.254  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.199.48.207   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.199.128.44   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.199.141.122  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.199.154.242  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.201.4.88     #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.201.7.5      #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.201.15.98    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.201.21.54    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.201.80.152   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -629,6 +614,7 @@
 115.204.50.6     #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.204.63.14    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.204.67.127   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.204.139.135  #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.205.11.213   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.205.81.69    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.205.116.16   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -645,7 +631,6 @@
 115.220.129.50   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.220.155.51   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.220.214.99   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.224.69.163   #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.225.171.61   #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.227.98.32    #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.227.101.177  #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -668,7 +653,6 @@
 118.40.210.78    #AS4766    118.40.0.0/13      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 118.42.248.171   #AS4766    118.40.0.0/13      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 118.45.242.172   #AS4766    118.40.0.0/13      KR   KIXS-AS-KR-KR - Korea Telecom, KR
-118.160.65.98    #AS3462    118.160.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.165.78.208   #AS3462    118.165.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.165.137.43   #AS3462    118.165.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.165.152.206  #AS3462    118.165.0.0/16     TW   HINET - Data Communication Business Group, TW
@@ -678,12 +662,10 @@
 118.170.68.35    #AS3462    118.170.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.170.210.39   #AS3462    118.170.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.170.231.52   #AS3462    118.170.0.0/16     TW   HINET - Data Communication Business Group, TW
-118.171.131.152  #AS3462    118.171.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.171.135.77   #AS3462    118.171.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.171.157.46   #AS3462    118.171.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.182.64.90    #AS4134    118.180.0.0/14     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 118.186.3.2      #AS23724   118.186.0.0/19     CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
-119.18.108.45    #AS9770    119.18.64.0/18     KR   SPEEDONSTV-AS-KR-KR - LG HelloVision Corp., KR
 119.51.196.133   #AS4837    119.48.0.0/13      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.56.230.44    #AS9981    119.56.224.0/21    KR   SAERONET-AS-KR-KR - Saero Network Service LTD, KR
 119.69.12.31     #AS17858   119.68.0.0/14      KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
@@ -691,7 +673,6 @@
 119.163.152.62   #AS4837    119.162.0.0/15     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.165.127.108  #AS4837    119.164.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.176.218.191  #AS4837    119.176.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-119.177.19.81    #AS4837    119.176.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.178.214.94   #AS4837    119.176.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.180.242.54   #AS4837    119.176.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 119.180.242.55   #AS4837    119.176.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -765,7 +746,6 @@
 122.233.54.2     #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.233.140.244  #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.233.143.14   #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-122.233.155.93   #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.233.195.170  #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.234.7.212    #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.234.65.149   #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -773,6 +753,7 @@
 122.234.242.116  #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 122.234.245.63   #AS4134    122.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 123.129.69.108   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+123.129.102.48   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.129.113.72   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.129.121.183  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.129.122.62   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -787,6 +768,7 @@
 123.131.158.86   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.131.167.151  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.131.208.221  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+123.132.113.246  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.132.155.130  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.132.160.148  #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.135.46.153   #AS4837    123.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -795,25 +777,30 @@
 123.232.25.180   #AS4837    123.232.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.232.149.214  #AS4837    123.232.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 123.234.233.195  #AS4837    123.232.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+124.50.44.211    #AS17858   124.48.0.0/13      KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
+124.128.179.197  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.129.68.13    #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.129.70.93    #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+124.129.101.101  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.131.193.157  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+124.132.61.194   #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.132.239.236  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.135.120.152  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.135.136.102  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.135.137.74   #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.135.164.62   #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.135.166.13   #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+124.135.166.112  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 125.118.2.108    #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.6.220    #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.62.219   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.68.222   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.98.214   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.108.32   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-125.118.121.77   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.118.197.99   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.119.31.50    #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.119.91.58    #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+125.119.97.141   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.119.99.170   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.119.102.173  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.119.102.190  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -835,12 +822,14 @@
 125.121.216.148  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.121.216.159  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.121.220.83   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+125.122.50.166   #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.122.179.144  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.122.197.203  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.122.215.215  #AS4134    125.112.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.229.32.81    #AS3462    125.229.0.0/16     TW   HINET - Data Communication Business Group, TW
 125.231.200.154  #AS3462    125.231.0.0/16     TW   HINET - Data Communication Business Group, TW
 130.211.68.231   #AS396982  130.211.64.0/19    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+134.33.73.4      #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 134.199.152.141  #AS14061   134.199.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 134.199.168.215  #AS14061   134.199.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 134.209.124.187  #AS14061   134.209.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -855,13 +844,16 @@
 146.88.241.52    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.91    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.120   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.241.164   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 147.185.132.45   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.75   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.234  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.203.255.20   #AS11320   147.203.128.0/17   US   LIGHTEDGE-AS-02 - LightEdge Solutions, US
+151.242.30.37    #AS214209  151.242.30.0/24    AE   INTERNET-MAGNATE - Internet Magnate (Pty) Ltd, ZA
 151.243.11.37    #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 151.243.11.52    #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 152.32.162.142   #AS135377  152.32.162.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
+152.32.207.42    #AS135377  152.32.207.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 152.32.223.215   #AS135377  152.32.223.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 155.103.69.36    #AS44382   155.103.69.0/24    US   WhiteLabel - Fiba Cloud Operation Company, LLC, US
 159.89.1.53      #AS14061   159.89.0.0/20      US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -875,16 +867,15 @@
 167.99.154.116   #AS14061   167.99.144.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 169.212.190.164  #AS4766    169.208.0.0/12     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 170.64.131.21    #AS14061   170.64.128.0/18    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-170.64.158.198   #AS14061   170.64.128.0/18    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 170.64.159.126   #AS14061   170.64.128.0/18    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+170.64.237.228   #AS14061   170.64.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.178.83.104   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.210.81.91    #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 173.255.225.162  #AS63949   173.255.224.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 175.180.83.244   #AS4780    175.180.64.0/19    TW   SEEDNET - Digital United Inc., TW
-175.181.180.23   #AS4780    175.181.128.0/18   TW   SEEDNET - Digital United Inc., TW
 175.199.237.139  #AS4766    175.192.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 175.208.55.144   #AS4766    175.208.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 175.208.224.193  #AS4766    175.208.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
+175.213.235.192  #AS4766    175.208.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 176.65.139.14    #AS214472  176.65.139.0/24    DE   STORMINDUSTRIES - Offshore LC, US
 176.65.148.49    #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 176.65.148.252   #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
@@ -916,6 +907,7 @@
 183.158.10.209   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.158.17.110   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.158.60.162   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+183.158.90.22    #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.158.153.123  #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.158.180.113  #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.158.229.209  #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -923,10 +915,8 @@
 183.158.232.56   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.159.60.237   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.159.162.11   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-183.159.215.82   #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 184.105.247.202  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.218  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
-184.105.247.232  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.94.111.1     #AS51115   185.94.111.0/24    RU   HLL-AS - HLL LLC, RU
 185.226.197.28   #AS21859   185.226.197.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.242.3.50     #AS401626  185.242.3.0/24     NL   NETIFACE-TORONTO - Netiface America, Inc., US
@@ -944,8 +934,8 @@
 193.163.125.145  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.154  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 194.88.98.106    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+195.206.182.220  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 198.235.24.54    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.218   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.247   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.248   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.120   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
@@ -954,7 +944,7 @@
 204.76.203.15    #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 205.210.31.110   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.175   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.195   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+205.210.31.250   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 207.175.61.133   #AS396982  207.175.0.0/17     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 210.0.54.183     #AS17839   210.0.52.0/22      KR   DREAMPLUS-AS-KR-KR - LG HelloVision Corp., KR
 210.99.196.253   #AS4766    210.99.0.0/16      KR   KIXS-AS-KR-KR - Korea Telecom, KR
@@ -964,7 +954,6 @@
 216.25.89.110    #AS396982  216.25.89.0/24     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.218.206.73   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.218.206.92   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
-216.218.206.121  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 218.0.206.32     #AS4134    218.0.0.0/16       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 218.0.220.127    #AS4134    218.0.0.0/16       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 218.57.26.108    #AS4837    218.56.0.0/15      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
