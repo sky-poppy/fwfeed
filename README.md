@@ -16,7 +16,7 @@ blocklist_honeypot_ip4_all.txt - The blocklist is plain txt for any purpose, mai
 
 blocklist_honeypot_ip4_cidr_agg.txt - CIDR aggregation file, updated less frequently, same content as all.txt file.
 
-blocklist_honeypot_ip4_aged_less_than_90days.txt - This is all IP that are active within the last 90days. If any IP is used to re-visit or add new IP information related to a matching /24 CIDR found in the honeypot dataset, IP is active. See blocklist_honeypot_firewall_stats.txt for aged stats.
+blocklist_honeypot_ip4_aged_less_than_90days.txt - This is all IP that are active within the last 90days. The primary purpose is to remove IP addresses that have no recent activity aka stale information. If any IP is used to re-visit or add new IP information related to a matching /24 CIDR found in the honeypot dataset, IP is then seen as active. See blocklist_honeypot_firewall_stats.txt for aged stats.
 
 abuse_ba_404_list.txt - 404 report showing some invalid file trends on webhosts.
 
