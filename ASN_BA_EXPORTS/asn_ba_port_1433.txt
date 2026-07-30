@@ -13,6 +13,7 @@
 5.133.168.15     #AS51561   5.133.168.0/23     GB   #AS-ICUK - ICUK Computing Services Limited, GB
 5.189.182.48     #AS51167   5.189.176.0/20     DE   CONTABO - Contabo GmbH, DE
 5.202.195.224    #AS49100   5.202.0.0/16       IR   IR-THR-PTE - Pishgaman Toseeh Ertebatat Company (Private Joint Stock), IR
+8.219.222.66     #AS45102   8.219.128.0/17     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.222.128.242    #AS45102   8.222.128.0/18     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.89.125.229    #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.211.217.77    #AS16509   13.210.0.0/15      US   AMAZON-02 - Amazon.com, Inc., US
@@ -27,16 +28,13 @@
 18.188.134.51    #AS16509   18.188.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.189.74.1      #AS16509   18.189.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
-18.191.69.170    #AS16509   18.191.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.100.43    #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.180.165   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.14.79.76      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.40.210.26     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.42.84.49      #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.29.197     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.65.194.81     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.142    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.201.12     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.217.81     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -51,7 +49,9 @@
 20.171.8.87      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.171.8.182     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.221.58.154    #AS8075    20.192.0.0/10      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.221.72.24     #AS8075    20.192.0.0/10      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 24.139.32.206    #AS11976   24.139.32.0/24     US   FIDN - Fidelity Communication International Inc., US
+24.234.157.122   #AS22773   24.234.0.0/16      US   ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
 27.72.248.213    #AS7552    27.72.240.0/20     VN   VIETEL-AS-AP - Viettel Group, VN
 27.118.25.248    #AS55313   27.118.25.0/24     VN   HANELCOM-AS-VN - Hanel Communication JSC, VN
 27.185.17.40     #AS4134    27.184.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -64,11 +64,11 @@
 34.68.129.202    #AS396982  34.68.128.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.93.191.230    #AS396982  34.93.176.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.132.54.165    #AS396982  34.132.48.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 36.57.114.226    #AS4134    36.56.0.0/14       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 36.139.138.72    #AS9808    36.139.138.0/24    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 37.228.64.54     #AS35104   37.228.64.0/24     KZ   KTC-AS - Jusan Mobile JSC, KZ
 38.76.73.5       #AS26154   38.76.73.0/24      US   VOIP-MINUTES-EXCHANGE - VOIP ME, US
-38.242.247.171   #AS51167   38.242.224.0/19    US   CONTABO - Contabo GmbH, DE
 38.248.164.68    #AS272809  38.248.164.0/24    US   AS272809 - THUNDERNET, C.A., VE
 38.255.114.108   #AS27884   38.255.114.0/24    US   AS27884 - CABLECOLOR S.A., HN
 39.66.223.172    #AS4837    39.64.0.0/11       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -82,6 +82,7 @@
 41.221.186.229   #AS30985   41.221.186.0/24    ML   Orange Mali SA - Orange Mali SA, ML
 42.180.190.12    #AS4837    42.176.0.0/13      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 43.240.193.47    #AS4812    43.240.192.0/22    CN   CHINANET-SH-AP - China Telecom (Group), CN
+43.248.141.14    #AS153911  43.248.128.0/20    CN   DUOTUCLOUD-AS-CN - DuoTu Cloud, CN
 45.133.173.120   #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 45.133.173.232   #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 45.156.129.76    #AS211680  45.156.129.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
@@ -97,6 +98,7 @@
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.21.227.35     #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.174.144.106   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+52.249.221.45    #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 54.206.185.27    #AS16509   54.206.128.0/17    US   AMAZON-02 - Amazon.com, Inc., US
 54.252.11.191    #AS16509   54.252.0.0/17      US   AMAZON-02 - Amazon.com, Inc., US
 58.16.34.78      #AS4837    58.16.0.0/16       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -117,6 +119,7 @@
 61.169.106.246   #AS4812    61.169.0.0/17      CN   CHINANET-SH-AP - China Telecom (Group), CN
 61.174.16.174    #AS4134    61.174.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.190.18.46     #AS4134    61.190.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+62.76.64.90      #AS51054   62.76.64.0/24      RU   TRANSCOM - OOO _TransKom_, RU
 63.143.99.121    #AS33576   63.143.98.0/23     JM   DIG001 - Digicel Jamaica, JM
 64.235.41.42     #AS26277   64.235.41.0/24     US   SERVERPOINT - ServerPoint.com, US
 66.132.172.225   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -125,14 +128,14 @@
 66.132.224.22    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.240.223.208   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 66.240.223.240   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
-69.5.169.26      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.231     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.236     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-71.6.135.131     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.199.87      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 72.27.216.24     #AS30689   72.27.216.0/22     JM   FLOW-NET - FLOW, JM
+72.167.224.112   #AS398101  72.167.224.0/22    US   GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
 74.142.67.90     #AS10796   74.128.0.0/12      US   TWC-10796-MIDWEST - Charter Communications Inc, US
 74.235.100.0     #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+75.119.139.203   #AS51167   75.119.128.0/19    DE   CONTABO - Contabo GmbH, DE
 78.128.114.106   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.98.102.166    #AS16347   79.98.96.0/21      FR   INHERENT - ADISTA SAS, FR
@@ -141,6 +144,7 @@
 80.94.127.19     #AS28716   80.94.112.0/20     IT   RETELIT-AS - Retelit Digital Services S.p.A., IT
 81.10.3.174      #AS8452    81.10.0.0/17       EG   TE-AS - IDDQD-AS, EG
 81.19.216.125    #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+81.23.177.27     #AS8416    81.23.176.0/20     RU   INFOLINE-AS - InfoLada Ltd, RU
 81.143.6.60      #AS2856    81.128.0.0/12      GB   BT-UK-AS - British Telecommunications PLC, GB
 82.65.142.32     #AS12322   82.64.0.0/14       FR   PROXAD - Free SAS, FR
 82.112.46.29     #AS48642   82.112.32.0/19     RU   FOR-AS - Joint stock company _For_, RU
@@ -151,10 +155,10 @@
 85.217.149.64    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.74    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 86.54.31.32      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
+86.54.31.34      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
 86.98.214.139    #AS5384    86.98.192.0/18     AE   EMIRATES-INTERNET - EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC, AE
 86.102.115.116   #AS12332   86.102.64.0/18     RU   PRIMORYE-AS - PJSC Rostelecom, RU
 87.192.244.173   #AS8193    87.192.244.0/22    UZ   BRM-AS - _Uzbektelekom_ Joint Stock Company, UZ
-88.247.20.79     #AS9121    88.247.0.0/17      TR   TTNet - Turk Telekomunikasyon Anonim Sirketi, TR
 89.22.122.66     #AS8648    89.22.96.0/19      DE   ONE-NETWORK - dogado GmbH, DE
 89.37.172.152    #AS25369   89.37.172.0/22     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.248.172.10    #AS202425  89.248.172.0/24    NL   INT-NETWORK - IP Volume inc, SC
@@ -163,15 +167,14 @@
 94.27.50.150     #AS15895   94.27.0.0/17       UA   KSNET-AS - _Kyivstar_ PJSC, UA
 95.142.84.234    #AS8847    95.142.84.0/24     TJ   TTL-AS - CJSC _Telecomm Technology_, TJ
 96.72.35.97      #AS7922    96.64.0.0/11       US   COMCAST-7922 - Comcast Cable Communications, LLC, US
+96.125.176.61    #AS13767   96.125.176.0/24    CA   DATABANK-DFW - DataBank Holdings, Ltd., US
 96.241.201.20    #AS701     96.241.0.0/16      US   UUNET - Verizon Business, US
-98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
+98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 101.43.97.7      #AS45090   101.43.64.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 101.53.236.7     #AS9541    101.53.236.0/24    PK   CYBERNET-AP - Cyber Internet Services (Pvt) Ltd., PK
 101.87.0.14      #AS4812    101.80.0.0/13      CN   CHINANET-SH-AP - China Telecom (Group), CN
-101.108.64.121   #AS23969   101.108.64.0/20    TH   TOT-NET - TOT Public Company Limited, TH
 101.128.178.172  #AS2497    101.128.128.0/17   JP   IIJ - Internet Initiative Japan Inc., JP
 103.10.87.52     #AS4808    103.10.84.0/22     CN   CHINA169-BJ - China Unicom Beijing Province Network, CN
 103.31.82.141    #AS9260    103.31.82.0/24     PK   MULTINET-AS-AP - Multinet Pakistan Pvt. Ltd., PK
@@ -182,6 +185,7 @@
 103.239.252.66   #AS63526   103.239.252.0/24   BD   SSDTL-BD - Systems Solutions & development Technologies Limited, BD
 103.250.70.109   #AS9441    103.250.70.0/24    BD   NEXT-BD - Next Online Limited., BD
 104.247.160.236  #AS42846   104.247.160.0/24   TR   guzelhosting - GNET Internet Telekomunikasyon A.S., TR
+104.248.230.130  #AS14061   104.248.224.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 105.30.51.18     #AS37100   105.16.0.0/12      MU   SEACOM Limited - SEACOM Limited, MU
 106.35.59.128    #AS4134    106.35.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 106.51.134.29    #AS24309   106.51.132.0/22    IN   CABLELITE-AS-AP - Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
@@ -190,12 +194,13 @@
 106.120.183.66   #AS23724   106.120.160.0/19   CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 109.105.210.65   #AS21859   109.105.210.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 109.117.222.81   #AS30722   109.117.192.0/18   IT   VODAFONE-IT-ASN - Fastweb SpA, IT
-109.125.139.68   #AS49100   109.125.128.0/19   IR   IR-THR-PTE - Pishgaman Toseeh Ertebatat Company (Private Joint Stock), IR
 110.37.6.251     #AS38264   110.37.0.0/21      PK   WATEEN-IMS-PK-AS-AP - National WiMAX/IMS environment, PK
 110.164.64.243   #AS45758   110.164.0.0/16     TH   TTBP-AS-AP - Triple T Broadband Public Company Limited, TH
 111.10.174.90    #AS9808    111.10.174.0/24    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 111.11.95.70     #AS24547   111.11.92.0/22     CN   CMNET-V4HEBEI-AS-AP - Hebei Mobile Communication Company Limited, CN
 111.68.99.61     #AS45773   111.68.99.0/24     PK   HECPERN-AS-PK - PERN AS Content Servie Provider, Islamabad, Pakistan, PK
+112.47.127.211   #AS9808    112.47.64.0/18     CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
+112.49.137.11    #AS9808    112.49.128.0/18    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 112.101.75.9     #AS17897   112.100.0.0/15     CN   CHINATELECOM-HLJ-AS-AP - asn for Heilongjiang Provincial Net of CT, CN
 112.196.48.146   #AS17917   112.196.48.0/24    IN   QTLTELECOM-AS-AP - Quadrant Televentures Limited, IN
 113.87.81.184    #AS4134    113.64.0.0/11      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -216,7 +221,7 @@
 115.149.161.173  #AS4134    115.148.0.0/14     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.150.57.26    #AS4134    115.148.0.0/14     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.201.9.232    #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.225.70.76    #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+115.202.58.225   #AS4134    115.192.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 115.238.178.150  #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.239.213.219  #AS58461   115.239.208.0/20   CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
@@ -239,6 +244,7 @@
 121.40.175.200   #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.41.230.41    #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.3.106.113    #AS9299    122.3.96.0/19      PH   IPG-AS-AP - Philippine Long Distance Telephone Company, PH
+122.166.228.220  #AS24560   122.166.228.0/24   IN   AIRTELBROADBAND-AS-AP - Bharti Airtel Ltd., Telemedia Services, IN
 122.176.49.89    #AS24560   122.176.49.0/24    IN   AIRTELBROADBAND-AS-AP - Bharti Airtel Ltd., Telemedia Services, IN
 122.176.99.60    #AS24560   122.176.99.0/24    IN   AIRTELBROADBAND-AS-AP - Bharti Airtel Ltd., Telemedia Services, IN
 122.193.243.6    #AS4837    122.192.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -255,7 +261,6 @@
 134.33.66.164    #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.125.30   #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.125.195  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-135.237.126.169  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.127.112  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 136.111.172.157  #AS396982  136.111.0.0/16     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 137.184.85.24    #AS14061   137.184.80.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -271,6 +276,7 @@
 149.50.96.175    #AS201814  149.50.96.0/21     US   Mevspace - MEVSPACE sp. z o.o., PL
 149.88.86.99     #AS401696  149.88.80.0/21     US   COGNETCLOUD - cognetcloud INC, US
 151.69.244.7     #AS1267    151.69.0.0/16      IT   #ASN-WINDTRE - WIND TRE S.P.A., IT
+152.32.227.68    #AS135377  152.32.227.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 154.16.44.72     #AS25369   154.16.44.0/24     ZA   BANDWIDTH-AS - Hydra Communications Ltd, GB
 154.16.44.106    #AS25369   154.16.44.0/24     ZA   BANDWIDTH-AS - Hydra Communications Ltd, GB
 154.16.95.12     #AS212238  154.16.95.0/24     ZA   CDNEXT - Datacamp Limited, GB
@@ -278,7 +284,6 @@
 154.146.242.43   #AS6713    154.146.240.0/21   MA   Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 154.182.12.86    #AS8452    154.182.0.0/19     EG   TE-AS - IDDQD-AS, EG
 154.182.51.115   #AS8452    154.182.32.0/19    EG   TE-AS - IDDQD-AS, EG
-156.67.81.164    #AS51167   156.67.80.0/22     DE   CONTABO - Contabo GmbH, DE
 156.225.1.98     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
 157.230.88.87    #AS14061   157.230.80.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 159.223.148.3    #AS14061   159.223.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -289,7 +294,9 @@
 165.154.172.87   #AS135377  165.154.172.0/24   HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 167.94.145.16    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.19    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
+167.94.145.23    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.30    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
+167.172.140.55   #AS14061   167.172.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 168.90.211.24    #AS265282  168.90.211.0/24    BR   AS265282 - DOMINA NET TELECOM, BR
 169.239.181.81   #AS329184  169.239.181.0/24   ZA   Host Africa (Pty) Ltd - Host Africa (Pty) Ltd, ZA
 169.255.236.74   #AS327898  169.255.236.0/23   NG   CBC EMEA LTD - CBC EMEA LTD, NG
@@ -301,7 +308,6 @@
 173.197.14.231   #AS11427   173.197.0.0/18     US   TWC-11427-TEXAS - Charter Communications Inc, US
 175.19.249.80    #AS4837    175.16.0.0/13      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 175.172.194.41   #AS4837    175.160.0.0/12     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-176.117.184.152  #AS49125   176.117.160.0/19   UA   Uteam-as - Uteam LTD, UA
 176.119.185.210  #AS12389   176.119.160.0/19   RU   ROSTELECOM-AS - PJSC Rostelecom, RU
 177.112.179.185  #AS26599   177.112.0.0/15     BR   AS26599 - TELEFONICA BRASIL S.A, BR
 177.183.215.82   #AS28573   177.183.208.0/21   BR   AS28573 - Claro NXT Telecomunicacoes Ltda, BR
@@ -312,19 +318,20 @@
 180.210.128.83   #AS23893   180.210.128.0/24   BD   BPL-BD - Bangla Phone Ltd, BD
 180.250.196.141  #AS7713    180.250.196.0/24   ID   telkomnet-as-ap - PT Telekomunikasi Indonesia, ID
 181.115.206.242  #AS6568    181.115.192.0/20   BO   AS6568 - EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA, BO
+181.129.48.163   #AS13489   181.128.0.0/12     CO   AS13489 - UNE EPM TELECOMUNICACIONES S.A., CO
+182.16.3.122     #AS45753   182.16.3.0/24      HK   NETSEC-HK - Netsec Limited, HK
 182.40.104.132   #AS136195  182.40.104.0/24    CN   CHINATELECOM-QINGDAO-CLOUDBASE - Qingdao, Shandong Province, P.R.China., CN
-182.79.13.2      #AS9498    182.79.0.0/19      IN   BBIL-AP - BHARTI Airtel Ltd., IN
 182.92.202.149   #AS37963   182.92.128.0/17    CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 182.151.52.134   #AS38283   182.151.0.0/18     CN   CHINANET-SCIDC-AS-AP - CHINANET SiChuan Telecom Internet Data Center, CN
 182.156.19.202   #AS45820   182.156.18.0/23    IN   TTSL-MEISISP - Tata Teleservices ISP AS, IN
 182.191.173.90   #AS17557   182.191.160.0/20   PK   PKTELECOM-AS-PK - Pakistan Telecommunication Company Limited, PK
 183.6.97.217     #AS4134    183.0.0.0/10       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.56.251.130   #AS135089  183.56.250.0/23    CN   CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
-183.162.102.124  #AS4134    183.160.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.237.81.181   #AS9808    183.237.80.0/23    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 183.237.84.107   #AS9808    183.237.84.0/22    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 184.168.123.171  #AS26496   184.168.96.0/19    US   AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
 185.28.61.37     #AS201021  185.28.61.0/24     TR   OnurBilisim-AS - Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri, TR
+185.226.197.44   #AS21859   185.226.197.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.231.33.46    #AS211720  185.231.33.0/24    SC   DATASHIELD_CH - Datashield, Inc., SC
 185.242.226.92   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 186.48.210.42    #AS6057    186.48.208.0/20    UY   AS6057 - Administracion Nacional de Telecomunicaciones, UY
@@ -336,11 +343,9 @@
 187.243.78.4     #AS13999   187.243.78.0/24    MX   AS13999 - Mega Cable, S.A. de C.V., MX
 188.225.54.239   #AS28840   188.225.52.0/22    RU   TATTELECOM-AS - PJSC _TATTELECOM_, RU
 189.131.36.36    #AS8151    189.131.32.0/21    MX   AS8151 - UNINET, MX
-189.174.221.112  #AS8151    189.174.220.0/22   MX   AS8151 - UNINET, MX
 190.10.164.136   #AS14522   190.10.160.0/20    EC   #AS14522 - SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC), EC
 190.28.116.100   #AS13489   190.28.0.0/15      CO   AS13489 - UNE EPM TELECOMUNICACIONES S.A., CO
 190.60.216.206   #AS18747   190.60.216.0/24    CO   IFX18747 - IFX Corporation, US
-190.166.27.231   #AS6400    190.166.16.0/20    DO   AS6400 - Compania Dominicana de Telefonos S. A., DO
 192.144.80.201   #AS58826   192.144.80.0/24    BD   ICOMBANGLADESHLTD-BD - ping by ICOM Bangladesh Ltd, BD
 193.124.20.227   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.163.125.13   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
@@ -357,13 +362,11 @@
 195.82.148.30    #AS44875   195.82.148.0/23    RO   FIS-AS - FRONTAL INTEGRATEG SOLUTIONS SRL, RO
 195.82.148.142   #AS44875   195.82.148.0/23    RO   FIS-AS - FRONTAL INTEGRATEG SOLUTIONS SRL, RO
 195.112.228.230  #AS5573    195.112.224.0/19   RU   KRASNET-AS - PJSC Rostelecom, RU
-195.206.182.220  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 195.230.103.248  #AS211607  195.230.103.0/24   US   RECORDEDFUTURE - Securitytrails, LLC, US
 196.202.110.41   #AS8452    196.202.0.0/17     EG   TE-AS - IDDQD-AS, EG
 197.31.48.57     #AS37492   197.31.48.0/20     TN   Orange Tunisie - Orange Tunisie, TN
 197.39.158.176   #AS8452    197.39.128.0/19    EG   TE-AS - IDDQD-AS, EG
-198.235.24.8     #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.50    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.27.77.9      #AS16276   198.27.64.0/18     CA   OVH - OVH SAS, FR
 198.235.24.55    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.73    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.95    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -371,16 +374,17 @@
 198.235.24.132   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.142   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.211   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.233   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.178   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.180   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.187   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.189   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 200.92.210.26    #AS262916  200.92.210.0/24    MX   #AS262916 - Mega Cable, S.A. de C.V., MX
-201.93.161.154   #AS27699   201.92.0.0/15      BR   AS27699 - TELEFONICA BRASIL S.A, BR
 201.105.49.72    #AS8151    201.105.48.0/20    MX   AS8151 - UNINET, MX
 201.147.171.170  #AS8151    201.147.128.0/18   MX   AS8151 - UNINET, MX
 201.161.46.131   #AS32098   201.161.46.0/24    MX   TRANSTELCO-INC - Transtelco Inc, US
 202.61.124.68    #AS55661   202.61.124.0/24    ID   JATISMOBILE-AS-ID - PT Informasi Teknologi Indonesia, ID
+202.88.225.106   #AS17465   202.88.225.0/24    IN   ASIANET - Cable ISP in India, IN
 202.93.133.49    #AS4382    202.93.133.0/24    ID   INDONUSA-ID - PT. Indonusa System Integrator Prima, ID
 203.63.100.86    #AS2764    203.63.0.0/16      AU   AAPT - AAPT Limited, AU
 203.146.129.235  #AS9891    203.146.129.0/24   TH   CSLOX-IDC-AS-AP - CS LOXINFO Public Company Limited., TH
@@ -405,7 +409,6 @@
 219.147.17.165   #AS4134    219.147.0.0/17     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 220.135.183.95   #AS3462    220.135.0.0/16     TW   HINET - Data Communication Business Group, TW
 220.170.143.98   #AS4134    220.170.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-220.181.84.85    #AS23724   220.181.84.0/24    CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 221.180.218.82   #AS9808    221.180.216.0/21   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 221.195.124.50   #AS4837    221.195.0.0/16     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 221.199.42.158   #AS4837    221.199.32.0/20    CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -419,5 +422,4 @@
 222.189.141.199  #AS4134    222.184.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 223.4.51.175     #AS37963   223.4.0.0/17       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 223.4.170.2      #AS37963   223.4.128.0/17     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-223.4.205.37     #AS37963   223.4.128.0/17     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 223.75.212.221   #AS9808    223.75.212.0/23    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
