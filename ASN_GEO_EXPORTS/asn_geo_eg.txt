@@ -1,4 +1,5 @@
 196.43.237.0/24 #AS37444 SCCT SCCT, EG
+102.202.166.0/23 #AS328786 VALU valU, EG
 102.212.66.0/23 #AS328786 VALU valU, EG
 196.43.219.0/24 #AS37339 MSCC Mediterranean Smart Cards Company, EG
 41.68.0.0/15 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
@@ -21,7 +22,6 @@
 196.136.0.0/14 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.148.0.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.150.0.0/18 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
-196.150.128.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.151.0.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.151.160.0/19 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.152.128.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
@@ -30,7 +30,8 @@
 196.155.0.0/16 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.156.0.0/16 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.157.0.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
-196.158.0.0/15 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
+196.158.128.0/17 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
+196.159.0.0/16 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.204.0.0/16 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 196.221.0.0/16 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
 197.132.0.0/14 #AS24835 RAYA-AS Vodafone Data - Egypt, EG
@@ -111,9 +112,11 @@
 105.198.247.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.198.248.0/21 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.1.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
-105.199.8.0/21 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.8.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.13.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.14.0/23 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.17.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
-105.199.18.0/23 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.19.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.20.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.28.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.32.0/23 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
@@ -122,9 +125,9 @@
 105.199.44.0/23 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.46.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.48.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
-105.199.53.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.55.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
-105.199.60.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.60.0/24 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
+105.199.62.0/23 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.64.0/21 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.72.0/22 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
 105.199.96.0/21 #AS36935 VODAFONE-EG Vodafone Egypt Telecommunication S.A.E, EG
@@ -254,9 +257,7 @@
 62.139.168.0/23 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 62.139.172.0/22 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 62.139.176.0/20 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
-62.139.192.0/19 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
-62.139.232.0/21 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
-62.139.240.0/20 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
+62.139.192.0/18 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 62.140.64.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 62.140.73.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 62.140.79.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
@@ -293,6 +294,7 @@
 84.36.140.0/22 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 84.36.144.0/21 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 84.36.152.0/22 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
+84.36.156.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 84.36.160.0/21 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 84.36.169.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
 84.36.170.0/24 #AS36992 ETISALAT-MISR Etisalat-Misr AS, EG
@@ -499,7 +501,9 @@
 102.214.185.0/24 #AS329131 NBOK-AS National Bank of Kuwait (NBK) - Egypt - S.A.E, EG
 196.223.16.0/23 #AS37252 GHABBOUR-AS Ghabbour Aut-num object, EG
 196.10.120.0/24 #AS327838 EGYPT-LINX Egypt Linx for Communication Services, EG
+41.33.5.0/24 #AS328553 BANK-MISR Bank Misr S.A.E, EG
 102.64.58.0/24 #AS328553 BANK-MISR Bank Misr S.A.E, EG
+102.202.78.0/24 #AS328553 BANK-MISR Bank Misr S.A.E, EG
 102.202.222.0/24 #AS329720 THNDR-SECURITIES Thndr Securities Brokerage, EG
 102.68.22.0/24 #AS37003 XCEED-AS Xceed Contact Center, EG
 196.12.11.0/24 #AS37003 XCEED-AS Xceed Contact Center, EG
@@ -542,6 +546,7 @@
 213.181.245.0/24 #AS8524 EG-AUC AUCEGYPT Autonomous System, EG
 196.41.83.0/24 #AS328052 OC-AS Orascom Construction, EG
 102.210.188.0/24 #AS329359 AGILITY-INFRASTRUCTURE Agility Infrastructure a limited liability company, EG
+41.178.56.0/22 #AS328587 GAIT Ministry of Communications and Information Technology, EG
 41.179.228.0/24 #AS328587 GAIT Ministry of Communications and Information Technology, EG
 41.179.248.0/23 #AS328587 GAIT Ministry of Communications and Information Technology, EG
 41.179.250.0/24 #AS328587 GAIT Ministry of Communications and Information Technology, EG
@@ -580,6 +585,7 @@
 81.29.104.0/24 #AS25364 EGYPTCYBERCENTER-AS Egypt Cyber Cenyer Network, EG
 81.29.108.0/23 #AS25364 EGYPTCYBERCENTER-AS Egypt Cyber Cenyer Network, EG
 81.29.111.0/24 #AS25364 EGYPTCYBERCENTER-AS Egypt Cyber Cenyer Network, EG
+102.202.53.0/24 #AS329763 HOUSING-AND-DEVELOPMENT-BANK Housing and Development Bank, EG
 196.1.143.0/24 #AS36929 CBE-AS Central Bank of Egypt AS, EG
 41.78.20.0/22 #AS37191 RAYA-HOLDING Raya-Holding, EG
 82.41.142.0/24 #AS37191 RAYA-HOLDING Raya-Holding, EG
@@ -632,7 +638,8 @@
 196.50.22.0/23 #AS37664 RAYACC Raya Contact Center, EG
 196.201.24.0/24 #AS33778 MANTRAC-GROUP-AS Mantrac Group, EG
 196.201.26.0/23 #AS33778 MANTRAC-GROUP-AS Mantrac Group, EG
-196.201.28.0/22 #AS33778 MANTRAC-GROUP-AS Mantrac Group, EG
+196.201.28.0/24 #AS33778 MANTRAC-GROUP-AS Mantrac Group, EG
+196.201.30.0/23 #AS33778 MANTRAC-GROUP-AS Mantrac Group, EG
 41.91.192.0/18 #AS37069 MOBINIL-AS Mobinil-AS, EG
 41.155.128.0/17 #AS37069 MOBINIL-AS Mobinil-AS, EG
 41.190.248.0/23 #AS37069 MOBINIL-AS Mobinil-AS, EG
