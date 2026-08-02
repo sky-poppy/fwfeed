@@ -7,18 +7,20 @@
 178.52.0.0/16 #AS48065 SYRIATEL-AS Syriatel Mobile Telecom, SY
 188.139.128.0/17 #AS48065 SYRIATEL-AS Syriatel Mobile Telecom, SY
 45.194.45.0/24 #AS197842 MIJAD Mijad Technology Services Company OP LLC, SY
-5.0.0.0/16 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+177.29.245.0/24 #AS197842 MIJAD Mijad Technology Services Company OP LLC, SY
+5.0.0.0/17 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+5.0.128.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 5.104.128.0/21 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 5.134.200.0/21 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 5.134.224.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-5.155.0.0/16 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+5.155.0.0/17 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+5.155.128.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.0.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.32.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.48.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.56.0/21 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.80.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.9.96.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-31.9.128.0/17 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.14.164.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 31.193.64.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 37.48.128.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
@@ -58,7 +60,7 @@
 93.113.164.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 93.114.208.0/21 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 93.118.48.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-94.47.0.0/16 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+94.47.0.0/17 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 94.102.80.0/21 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 94.102.92.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 94.141.192.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
@@ -73,8 +75,6 @@
 95.159.0.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 95.212.0.0/16 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 109.238.144.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-130.0.240.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-130.180.128.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 145.249.0.0/18 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 145.249.64.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 178.171.128.0/17 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
@@ -170,10 +170,8 @@
 193.124.62.0/23 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 193.124.68.0/23 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 193.124.86.0/23 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-193.124.160.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 193.124.208.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 194.5.160.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-194.58.0.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 194.61.124.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 195.238.104.0/22 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 212.11.192.0/19 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
@@ -183,8 +181,11 @@
 217.20.208.0/20 #AS29256 INT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 38.19.194.0/23 #AS213812 ALFATEH Abdul Rahman Mustafa trading as Alfateh Company for Communications, SY
 185.146.138.0/23 #AS213812 ALFATEH Abdul Rahman Mustafa trading as Alfateh Company for Communications, SY
+85.189.9.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
+85.189.13.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 87.232.125.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 89.43.132.0/22 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
+89.251.21.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 109.224.242.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 128.0.7.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 131.222.210.0/23 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
@@ -202,8 +203,15 @@
 191.44.126.0/23 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 193.93.54.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 195.62.50.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
+195.93.245.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
 212.68.59.0/24 #AS216472 HS-SYR High Speed For Internet Services L.L.C, SY
+5.0.192.0/18 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+5.155.192.0/18 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+31.9.128.0/17 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+94.47.128.0/17 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+178.169.0.0/23 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 188.133.0.0/17 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+193.124.96.0/20 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
+193.124.160.0/20 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 193.124.192.0/21 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
-194.135.106.0/23 #AS201550 EXT-PDN-STE-AS Syrian Telecommunication Private Closed Joint Stock Company, SY
 216.173.90.0/24 #AS210557 FALAKNET Houeiss and AI-Othman Internet Services LLC, SY
