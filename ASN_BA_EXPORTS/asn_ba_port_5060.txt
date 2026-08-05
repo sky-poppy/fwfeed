@@ -6,6 +6,7 @@
 5.196.154.102    #AS16276   5.196.0.0/16       FR   OVH - OVH SAS, FR
 5.226.140.8      #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.209.197.202    #AS45102   8.209.192.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.211.44.115     #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.9.22       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.12.140     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.140.182.16    #AS51167   13.140.128.0/18    DE   CONTABO - Contabo GmbH, DE
@@ -30,7 +31,6 @@
 20.163.14.5      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.15.123    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.0.85      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.168.0.135     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.6.15      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.121.1     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.121.45    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -63,7 +63,6 @@
 47.250.89.197    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.123.71    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.57.96     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.251.242.234   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.249.232   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.248.7     #AS45102   47.254.224.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 48.216.243.151   #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -90,7 +89,6 @@
 65.49.1.121      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.87.7.173      #AS215659  65.87.7.0/24       US   MOEMOEKYUN - Aokigahara SRL, RO
 66.78.40.202     #AS215659  66.78.40.0/24      US   MOEMOEKYUN - Aokigahara SRL, RO
-66.132.172.224   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.238   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.241   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.243   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -103,7 +101,6 @@
 69.5.169.159     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.163     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.182     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.87.207.136    #AS22552   69.87.192.0/20     US   ESITED - eSited Solutions, US
 72.251.5.146     #AS16276   72.251.0.0/17      CA   OVH - OVH SAS, FR
 72.251.5.158     #AS16276   72.251.0.0/17      CA   OVH - OVH SAS, FR
 72.251.13.243    #AS16276   72.251.0.0/17      CA   OVH - OVH SAS, FR
@@ -170,6 +167,7 @@
 144.172.99.171   #AS14956   144.172.99.0/24    US   ROUTERHOSTING - RouterHosting LLC, US
 144.172.106.244  #AS14956   144.172.106.0/24   US   ROUTERHOSTING - RouterHosting LLC, US
 144.172.112.57   #AS14956   144.172.112.0/24   US   ROUTERHOSTING - RouterHosting LLC, US
+146.88.240.30    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.202   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.51    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.81    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -210,7 +208,6 @@
 167.172.159.40   #AS14061   167.172.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.172.203.111  #AS14061   167.172.192.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 169.58.25.94     #AS51167   169.58.0.0/17      DE   CONTABO - Contabo GmbH, DE
-169.58.30.204    #AS51167   169.58.0.0/17      DE   CONTABO - Contabo GmbH, DE
 170.64.200.91    #AS14061   170.64.192.0/19    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 170.64.207.205   #AS14061   170.64.192.0/19    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -245,7 +242,6 @@
 185.243.5.93     #AS23470   185.243.5.0/24     HK   RELIABLESITE - ReliableSite.Net LLC, US
 185.243.5.146    #AS23470   185.243.5.0/24     HK   RELIABLESITE - ReliableSite.Net LLC, US
 185.243.5.205    #AS23470   185.243.5.0/24     HK   RELIABLESITE - ReliableSite.Net LLC, US
-188.240.59.16    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 189.85.145.83    #AS28305   189.85.144.0/22    BR   AS28305 - PERSIS INTERNET LTDA, BR
 193.46.255.112   #AS47890   193.46.255.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.124.20.244   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
