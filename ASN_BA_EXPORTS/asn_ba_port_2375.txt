@@ -2,7 +2,6 @@
 8.208.44.152     #AS45102   8.208.32.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.219.150.15     #AS45102   8.219.128.0/17     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.219.1.233     #AS14618   13.216.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-18.221.180.165   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.14.72.210     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.14.89.71      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.14.95.138     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -18,6 +17,7 @@
 20.118.32.47     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.209.70    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.202.120   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.163.61.91     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.5.245     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.122.19    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.91.83     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -34,9 +34,9 @@
 40.124.120.52    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.172.38    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 43.110.37.217    #AS45102   43.110.0.0/17      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-43.139.62.181    #AS45090   43.139.0.0/18      CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 43.156.106.211   #AS132203  43.156.64.0/18     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 43.163.107.68    #AS132203  43.163.64.0/18     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
+45.33.94.76      #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.43.37.254     #AS135377  45.43.37.0/24      US   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 45.79.104.47     #AS63949   45.79.96.0/20      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.109.4      #AS63949   45.79.96.0/20      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -51,6 +51,7 @@
 47.253.156.31    #AS45102   47.253.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 48.217.82.99     #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 59.62.46.23      #AS4134    59.62.0.0/15       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+60.191.137.103   #AS58461   60.191.137.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 61.147.209.31    #AS4134    61.147.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 64.62.156.52     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.92     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -74,6 +75,7 @@
 74.235.104.219   #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 80.94.92.16      #AS47890   80.94.92.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 81.68.179.56     #AS45090   81.68.128.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
+81.71.158.242    #AS45090   81.71.128.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 81.226.129.67    #AS3301    81.224.0.0/12      SE   TELIANET-SWEDEN - Telia Company AB, SE
 86.54.31.40      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
 89.126.211.166   #AS202660  89.126.208.0/22    UZ   BRM-DataCenter - _Uzbektelekom_ Joint Stock Company, UZ
@@ -109,7 +111,6 @@
 123.207.35.85    #AS45090   123.207.34.0/23    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 134.33.73.107    #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 134.199.160.176  #AS14061   134.199.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-135.233.96.247   #AS8075    135.232.0.0/14     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.127.71   #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 137.184.140.32   #AS14061   137.184.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 138.68.243.18    #AS14061   138.68.240.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -126,16 +127,15 @@
 163.7.1.156      #AS150436  163.7.0.0/21       SG   BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG
 165.1.78.209     #AS31898   165.1.64.0/20      US   ORACLE-BMC-31898 - Oracle Corporation, US
 165.101.75.111   #AS153995  165.101.74.0/23    HK   TOWNLINK-AS-AP - Townlink Limited, HK
-168.138.232.38   #AS31898   168.138.224.0/19   US   ORACLE-BMC-31898 - Oracle Corporation, US
 170.64.207.205   #AS14061   170.64.192.0/19    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 170.187.165.139  #AS63949   170.187.160.0/21   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.202.104.166  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.202.117.221  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.202.118.45   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.203.216.28   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.234.199.93   #AS63949   172.234.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+172.234.221.84   #AS63949   172.234.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.255.223.89   #AS63949   173.255.208.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+175.119.225.92   #AS9318    175.112.0.0/13     KR   SKB-AS-KR - SK Broadband Co Ltd, KR
 175.200.104.40   #AS4766    175.200.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 175.203.61.49    #AS4766    175.200.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 176.32.193.16    #AS197834  176.32.193.0/24    AM   INTERACTIVE - Ucom CJSC, AM
