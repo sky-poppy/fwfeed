@@ -42,6 +42,7 @@
 34.78.172.38     #AS396982  34.78.160.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.79.139.241    #AS396982  34.79.128.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.140.144.0     #AS396982  34.140.144.0/20    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+34.193.119.44    #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.230.221.101   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 35.195.239.8     #AS396982  35.195.224.0/20    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -61,7 +62,6 @@
 45.56.83.149     #AS63949   45.56.80.0/20      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.190.10     #AS63949   45.79.176.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
-45.133.173.29    #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 46.101.146.208   #AS14061   46.101.128.0/17    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 47.84.24.42      #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.93.195.197    #AS37963   47.92.0.0/15       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -169,7 +169,6 @@
 117.180.211.18   #AS9808    117.180.208.0/20   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 118.121.27.103   #AS4134    118.120.0.0/14     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 118.196.87.226   #AS4811    118.196.80.0/21    CN   CHINANET-SHANGHAI-MAN - China Telecom (Group), CN
-119.45.248.246   #AS45090   119.45.240.0/20    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 120.48.100.73    #AS38365   120.48.96.0/19     CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 120.48.174.141   #AS38365   120.48.160.0/19    CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 120.78.173.122   #AS37963   120.78.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -179,7 +178,6 @@
 123.57.42.49     #AS37963   123.57.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 123.58.249.106   #AS133119  123.58.240.0/20    CN   UNICOM-CN - China Unicom IP network, CN
 124.117.194.140  #AS4134    124.117.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-124.220.90.66    #AS45090   124.220.64.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 125.74.55.217    #AS141998  125.74.55.0/24     CN   CHINANET-LANZHOU-IDC - China Telecom, CN
 125.88.205.65    #AS135089  125.88.204.0/22    CN   CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
 125.94.106.113   #AS4134    125.88.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -207,10 +205,12 @@
 167.94.145.24    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.27    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 170.187.165.218  #AS63949   170.187.160.0/21   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+172.105.23.187   #AS63949   172.105.0.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.178.115.83   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 175.6.34.100     #AS63835   175.6.32.0/21      CN   CT-HuNan-Changsha-IDC - No.293,Wanbao Avenue, CN
 176.32.193.16    #AS197834  176.32.193.0/24    AM   INTERACTIVE - Ucom CJSC, AM
+176.65.148.184   #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 180.95.231.86    #AS4837    180.95.128.0/17    CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 180.232.31.158   #AS9658    180.232.31.0/24    PH   ETPI-IDS-AS-AP - Eastern Telecoms Phils., Inc., PH
 182.40.103.253   #AS136195  182.40.103.0/24    CN   CHINATELECOM-QINGDAO-CLOUDBASE - Qingdao, Shandong Province, P.R.China., CN
