@@ -1,5 +1,4 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
-3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 5.61.209.92      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 14.8.38.33       #AS2516    14.8.0.0/15        JP   KDDI - KDDI CORPORATION, JP
@@ -8,6 +7,7 @@
 18.189.74.1      #AS16509   18.189.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
+18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.64.104.195    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.234    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.76     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -34,7 +34,9 @@
 64.62.156.15     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.93     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.113    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.117    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.138    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.147    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.156    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.159    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.176    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -61,9 +63,7 @@
 74.82.47.30      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.35      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.42      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
-74.82.47.47      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.59      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
-77.90.185.247    #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 78.63.80.167     #AS8764    78.63.80.0/22      LT   Telia-Lietuva - Telia Lietuva, AB, LT
 80.94.92.16      #AS47890   80.94.92.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 85.217.140.9     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -81,6 +81,7 @@
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 147.185.132.120  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.189  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+147.185.132.213  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.133.15   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 151.243.11.230   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 151.243.11.231   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
@@ -103,7 +104,6 @@
 172.203.245.156  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 183.81.168.186   #AS206264  183.81.168.0/24    HK   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 184.105.139.92   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
-184.105.139.93   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.139.99   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.222  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.244  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
@@ -111,6 +111,7 @@
 185.180.141.10   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.224.128.16   #AS49870   185.224.128.0/24   NL   #AS49870-BV - Alsycon B.V., NL
 185.226.197.74   #AS21859   185.226.197.0/24   PT   ZEN-ECN - Zenlayer Inc, US
+185.242.3.80     #AS401626  185.242.3.0/24     NL   NETIFACE-TORONTO - Netiface America, Inc., US
 193.3.53.4       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
 193.56.117.58    #AS206092  193.56.117.0/24    NL   SECFIREWALLAS - F.N.S. HOLDINGS LIMITED, CY
 194.187.176.9    #AS208843  194.187.176.0/22   DE   ALPHASTRIKE-RESEARCH - Alpha Strike Labs GmbH, DE

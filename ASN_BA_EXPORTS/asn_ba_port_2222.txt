@@ -1,3 +1,4 @@
+5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 8.133.185.52     #AS37963   8.133.0.0/16       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.134.37.209     #AS37963   8.134.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.136.128.232    #AS37963   8.136.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -51,7 +52,6 @@
 38.45.64.126     #AS174     38.45.64.0/22      US   COGENT-174 - Cogent Communications, LLC, US
 39.97.54.189     #AS37963   39.96.0.0/14       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 39.97.255.191    #AS37963   39.96.0.0/14       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.106.21.251    #AS37963   39.106.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 40.124.81.157    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.183.177   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 43.108.19.197    #AS45102   43.108.0.0/18      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -135,12 +135,12 @@
 94.231.206.131   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.249.184.15    #AS215365  94.249.184.0/24    DE   Threatoff - Tom Gewiese, DE
 100.29.192.18    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.81    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.116   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 101.37.79.201    #AS37963   101.37.0.0/17      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 101.132.85.130   #AS37963   101.132.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 101.200.236.207  #AS37963   101.200.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 101.201.104.216  #AS37963   101.201.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-103.167.88.166   #AS151858  103.167.88.0/23    VN   INTERDIGI-VN - INTERDIGI JOINT STOCK COMPANY, VN
 103.178.153.244  #AS140443  103.178.153.0/24   ID   IDNIC-HERZA-AS-ID - PT Herza Digital Indonesia, ID
 104.223.84.94    #AS36352   104.223.84.0/23    US   AS-COLOCROSSING - HostPapa, US
 104.236.83.40    #AS14061   104.236.64.0/18    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -149,6 +149,7 @@
 106.12.45.42     #AS38365   106.12.32.0/19     CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 106.15.236.209   #AS37963   106.15.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 106.75.176.89    #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
+109.238.140.87   #AS50821   109.238.128.0/20   SE   ASHPDC - Bredband2 Stockholms Stadsnaet AB, SE
 109.248.226.12   #AS204490  109.248.226.0/24   CZ   ASKONTEL - Kontel LLC, RU
 112.74.111.164   #AS37963   112.74.0.0/17      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 113.44.174.72    #AS55990   113.44.160.0/19    CN   HWCSNET - Huawei Cloud Service data center, CN
@@ -178,6 +179,7 @@
 123.56.11.51     #AS37963   123.56.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 123.57.228.122   #AS37963   123.57.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 128.199.219.184  #AS14061   128.199.192.0/18   GB   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+128.203.200.235  #AS8075    128.203.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.126.221  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.127.190  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 137.184.117.224  #AS14061   137.184.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -232,10 +234,12 @@
 172.245.16.13    #AS36352   172.245.16.0/22    US   AS-COLOCROSSING - HostPapa, US
 178.20.210.151   #AS210006  178.20.210.0/24    DE   #ASKZ - Shereverov Marat Ahmedovich, KZ
 178.20.210.152   #AS210006  178.20.210.0/24    DE   #ASKZ - Shereverov Marat Ahmedovich, KZ
+182.43.104.151   #AS58519   182.43.104.0/24    CN   CHINATELECOM-Ctcloud - Cloud Computing Corporation, CN
 185.217.1.246    #AS42237   185.217.1.0/24     GB   w1n - w1n ltd, GB
 185.223.235.45   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.223.235.61   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.242.226.18   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
+185.246.128.171  #AS42237   185.246.128.0/24   GB   w1n - w1n ltd, GB
 185.246.130.20   #AS42237   185.246.130.0/24   GB   w1n - w1n ltd, GB
 186.96.36.147    #AS22884   186.96.36.0/24     MX   AS22884 - TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V., MX
 188.226.142.38   #AS14061   188.226.128.0/17   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -254,6 +258,7 @@
 195.93.244.97    #AS41745   195.93.244.0/24    RU   FORTIS-AS - Baykov Ilya Sergeevich, RU
 195.178.110.137  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.184.76.3     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
+195.206.182.207  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 198.46.182.206   #AS36352   198.46.182.0/24    US   AS-COLOCROSSING - HostPapa, US
 198.74.50.114    #AS63949   198.74.48.0/22     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 198.98.53.110    #AS53667   198.98.48.0/20     US   PONYNET - FranTech Solutions, US

@@ -2,6 +2,7 @@
 1.202.74.18      #AS4847    1.202.0.0/17       CN   CNIX-AP - China Networks Inter-Exchange, CN
 2.57.17.185      #AS25369   2.57.17.0/24       AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 3.15.211.188     #AS16509   3.14.0.0/15        US   AMAZON-02 - Amazon.com, Inc., US
+5.226.140.5      #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.134.203.138    #AS37963   8.134.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.137.126.20     #AS37963   8.137.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.138.129.122    #AS37963   8.138.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -175,7 +176,6 @@
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.33.13.181     #AS63949   45.33.0.0/19       US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.192.72     #AS63949   45.79.192.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-45.82.76.110     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
 45.137.43.58     #AS203273  45.137.43.0/24     SC   NetCraftersOU - NetCrafters OU, EE
 45.142.193.164   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
@@ -200,6 +200,7 @@
 65.49.1.137      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.140      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.142      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.164      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.166      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.194      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.199      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -264,13 +265,11 @@
 94.154.43.43     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.96     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.253    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
-94.182.107.94    #AS213807  94.182.107.0/24    IR   TehranServer - Fanavaran Mehr Vatan Tehran Server Group LLC, IR
 95.215.0.144     #AS44050   95.215.0.0/24      RU   PIN-AS - Petersburg Internet Network ltd., RU
 98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.68    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-100.29.192.114   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 101.32.76.220    #AS132203  101.32.64.0/20     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 101.32.128.64    #AS132203  101.32.128.0/23    SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 101.33.77.53     #AS132203  101.33.64.0/19     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
@@ -309,6 +308,7 @@
 106.75.166.187   #AS58466   106.75.160.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.253.71.219   #AS3786    106.240.0.0/12     KR   LGDACOM-KR - LG DACOM Corporation, KR
 109.51.157.192   #AS2860    109.51.128.0/18    PT   NOS_COMUNICACOES - NOS COMUNICACOES, S.A., PT
+109.105.210.58   #AS21859   109.105.210.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 110.40.185.248   #AS45090   110.40.128.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 110.42.211.235   #AS45090   110.42.192.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 111.10.231.217   #AS9808    111.10.231.0/24    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
@@ -414,10 +414,8 @@
 146.190.57.24    #AS14061   146.190.32.0/19    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 147.185.132.60   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.135  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.150  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.168  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.171  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-148.71.104.222   #AS12353   148.71.0.0/16      PT   VODAFONE-PT - Vodafone Portugal - Communicacoes Pessoais S.A., PT
 149.88.68.17     #AS401696  149.88.64.0/20     US   COGNETCLOUD - cognetcloud INC, US
 150.158.29.138   #AS45090   150.158.0.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 150.158.30.141   #AS45090   150.158.0.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
