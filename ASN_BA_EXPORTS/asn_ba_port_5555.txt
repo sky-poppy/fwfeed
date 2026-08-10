@@ -14,6 +14,7 @@
 35.203.210.30    #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.203.210.39    #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 36.150.155.106   #AS56046   36.150.128.0/19    CN   CMNET-Jiangsu-AP - China Mobile communications corporation, CN
+36.184.64.195    #AS9808    36.184.0.0/16      CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 37.10.113.216    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 39.130.224.79    #AS9808    39.130.192.0/18    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 39.144.78.161    #AS56048   39.144.78.0/23     CN   CMNET-BEIJING-AP - China Mobile Communicaitons Corporation, CN
@@ -35,8 +36,6 @@
 45.205.1.247     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 46.151.178.13    #AS211443  46.151.178.0/24    NL   SINOWORLDWIDE - SINO WORLDWIDE TRADING LIMITED, HK
 49.76.137.254    #AS4134    49.64.0.0/11       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-62.169.20.208    #AS51167   62.169.16.0/21     DE   CONTABO - Contabo GmbH, DE
-62.169.24.183    #AS51167   62.169.24.0/21     DE   CONTABO - Contabo GmbH, DE
 64.23.144.218    #AS14061   64.23.144.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.56     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.106    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -53,6 +52,7 @@
 64.227.175.36    #AS14061   64.227.160.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 65.49.1.26       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.41       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.57       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.71       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.98       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.120      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -69,6 +69,7 @@
 69.5.169.99      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.119     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.127     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+69.5.169.129     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.219     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.228     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.135.131     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -76,7 +77,7 @@
 72.255.26.114    #AS9541    72.255.26.0/24     PK   CYBERNET-AP - Cyber Internet Services (Pvt) Ltd., PK
 74.82.47.16      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.57      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
-77.91.71.67      #AS211486  77.91.71.0/24      GE   AAA-AS - Alferov Aleksey Aleksandrovich, RU
+77.91.71.57      #AS211486  77.91.71.0/24      GE   AAA-AS - Alferov Aleksey Aleksandrovich, RU
 78.128.114.58    #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.40.138    #AS50360   79.124.40.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.49.90     #AS50360   79.124.49.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
@@ -117,12 +118,14 @@
 94.154.43.254    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.172.142   #AS209101  94.154.172.0/24    BG   ipvendettainc - IP Vendetta Inc., SC
 97.107.141.150   #AS63949   97.107.128.0/20    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+99.25.118.181    #AS7018    99.16.0.0/12       US   ATT-INTERNET4 - AT&T Enterprises, LLC, US
 103.13.194.83    #AS150331  103.13.194.0/24    NP   BCPL-AS-AP - Beni Communication Private Limited, NP
 104.232.79.58    #AS26658   104.232.72.0/21    US   HENGTONG-IDC-LLC - HT, US
 106.1.248.68     #AS38841   106.1.128.0/17     TW   kbro-AS-TW - kbro CO. Ltd., TW
 106.75.175.91    #AS58466   106.75.160.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.75.179.251   #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.75.181.41    #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
+108.181.132.234  #AS40676   108.181.132.0/22   CA   AS40676 - Psychz Networks, US
 110.78.252.134   #AS9335    110.78.252.0/24    TH   NTPCL-AS-AP - National Telecom Public Company Limited, TH
 111.55.197.90    #AS24445   111.55.196.0/23    CN   CMNET-V4henan-AS-AP - Henan Mobile Communications Co.,Ltd, CN
 112.28.245.45    #AS9808    112.28.192.0/18    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
@@ -151,7 +154,6 @@
 142.93.225.45    #AS14061   142.93.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 143.110.137.232  #AS14061   143.110.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 143.198.184.24   #AS14061   143.198.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-143.198.205.98   #AS14061   143.198.192.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 147.185.132.9    #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.37   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.85   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -178,11 +180,11 @@
 165.232.121.85   #AS14061   165.232.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.232.177.49   #AS14061   165.232.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.71.70.246    #AS14061   167.71.64.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-167.99.188.101   #AS14061   167.99.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.202.118.69   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.234.218.245  #AS63949   172.234.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 176.65.132.131   #AS197170  176.65.132.0/24    DE   TECHTIES-AS - TechTies Inc., SC
+177.22.44.30     #AS52981   177.22.44.0/23     BR   AS52981 - Conecta Tecnologia LTDA, BR
 178.62.118.213   #AS14061   178.62.64.0/18     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 180.149.125.213  #AS45204   180.149.112.0/20   MN   GEMNET-MN - GEMNET LLC, MN
 182.220.29.86    #AS17858   182.220.0.0/14     KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
@@ -192,10 +194,8 @@
 183.162.226.148  #AS134425  183.162.226.0/23   CN   CHINANET-HEFEI-QIMENLU-IDC - China Telecom, CN
 183.162.226.151  #AS134425  183.162.226.0/23   CN   CHINANET-HEFEI-QIMENLU-IDC - China Telecom, CN
 183.232.212.196  #AS9808    183.232.212.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
-184.105.139.119  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.204  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.235  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
-184.105.247.247  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.165.171.158  #AS200651  185.165.171.0/24   IS   FlokiNET - FlokiNET ehf, IS
 185.217.0.181    #AS42237   185.217.0.0/24     GB   w1n - w1n ltd, GB
 185.223.235.38   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -211,13 +211,13 @@
 193.163.125.100  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.223  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.31.221   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-194.88.98.87     #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.104    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.180.48.41    #AS201814  194.180.48.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
 194.187.178.241  #AS215778  194.187.178.0/24   DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 195.206.182.198  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 196.188.57.18    #AS24757   196.188.57.0/24    ET   Ethio Telecom - Ethio Telecom, ET
 198.235.24.50    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.65    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.216   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.239   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.251   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -225,7 +225,6 @@
 203.55.131.5     #AS32475   203.55.131.0/24    US   SINGLEHOP-LLC - Internap Holding LLC, US
 204.76.203.213   #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 205.210.31.48    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.225   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 206.176.146.236  #AS54614   206.176.146.0/24   CA   CIKTELECOM-CABLE - CIK Telecom INC, CA
 209.38.70.207    #AS14061   209.38.64.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 211.252.15.76    #AS4766    211.252.0.0/15     KR   KIXS-AS-KR-KR - Korea Telecom, KR
@@ -237,7 +236,7 @@
 218.92.225.126   #AS4134    218.92.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 218.205.95.161   #AS56041   218.205.92.0/22    CN   CMNET-Zhejiang-AP - China Mobile communications corporation, CN
 218.205.95.163   #AS56041   218.205.92.0/22    CN   CMNET-Zhejiang-AP - China Mobile communications corporation, CN
-219.78.204.11    #AS4760    219.78.192.0/19    HK   HKTIMS-AP - HKT Limited, HK
+219.91.17.74     #AS131627  219.91.16.0/21     TW   Peicity-AS-TW - Peicity Digital Cable Television., LTD, TW
 220.70.146.64    #AS4766    220.70.0.0/15      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 220.87.106.115   #AS4766    220.80.0.0/13      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 220.94.90.118    #AS4766    220.92.0.0/14      KR   KIXS-AS-KR-KR - Korea Telecom, KR
