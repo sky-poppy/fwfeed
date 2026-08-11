@@ -1,13 +1,12 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
-4.236.161.123    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
-5.252.83.143     #AS25369   5.252.83.0/24      AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.211.43.157     #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.8.246      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.38.82.142     #AS16509   13.36.0.0/14       US   AMAZON-02 - Amazon.com, Inc., US
 18.189.74.1      #AS16509   18.189.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
+18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.64.104.155    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.105.81     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.167.44     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -44,6 +43,7 @@
 47.245.139.32    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.87.132    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.116.24    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.251.30.24     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.44.36     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.107.39    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.121.150   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -54,7 +54,6 @@
 64.62.156.17     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.35     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.78     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.107    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.119    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.202    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.221    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -62,12 +61,12 @@
 64.62.197.5      #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.12     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.20     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.34     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.46     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.50     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.57     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.63     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.70     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.71     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.73     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.75     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.156    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -77,6 +76,7 @@
 64.89.163.235    #AS401626  64.89.163.0/24     US   NETIFACE-TORONTO - Netiface America, Inc., US
 65.49.1.50       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.82       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.132      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.137      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.192      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.205      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -85,7 +85,6 @@
 66.132.186.210   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.212   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.246   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.132.186.248   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.251   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.28    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.30    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -100,10 +99,10 @@
 75.127.6.2       #AS36352   75.127.6.0/23      US   AS-COLOCROSSING - HostPapa, US
 77.91.71.57      #AS211486  77.91.71.0/24      GE   AAA-AS - Alferov Aleksey Aleksandrovich, RU
 79.124.49.90     #AS50360   79.124.49.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-79.124.62.178    #AS207812  79.124.62.0/24     BG   DM_AUTO - DM AUTO EOOD, BG
 80.94.92.16      #AS47890   80.94.92.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 81.19.216.105    #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 81.234.104.20    #AS3301    81.224.0.0/12      SE   TELIANET-SWEDEN - Telia Company AB, SE
+85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.45    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.49    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.51    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -131,7 +130,7 @@
 135.237.126.84   #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.127.68   #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 138.197.205.162  #AS14061   138.197.192.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-150.107.36.82    #AS135377  150.107.36.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
+150.107.38.251   #AS135377  150.107.38.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 151.243.11.230   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 151.243.11.231   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 151.243.11.232   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
@@ -148,7 +147,6 @@
 162.216.150.6    #AS396982  162.216.150.0/24   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 165.22.233.20    #AS14061   165.22.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.154.58.251   #AS135377  165.154.58.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
-167.94.145.28    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.172.128.114  #AS14061   167.172.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 170.64.134.89    #AS14061   170.64.128.0/18    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
