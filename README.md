@@ -1,5 +1,6 @@
-# fwfeed
+# fwfeed 
 Firewall ip blocklist 
+Backup download link, Google Drive - https://drive.google.com/drive/folders/1JAePXLHSvxW9UYVPxr9FPt9EjUej705F?usp=drive_link
 
 Our honeypot loggers are based in New Zealand, the blocklist is populated from real webhosts and firewall logging data of bad actor IP content using dynamic public IPs that are renewed weekly.
 
@@ -80,3 +81,10 @@ you know the entry vector how and may restrict access even further before an eve
 of your t&c's for remote access.
  
 Have fun!
+
+
+### GITHUB Locked Account Events START ###
+2026, June 01st - "Automated account lock", no notification, no specific reason or logged event provided in ticket reply, suspect corporate complaint/submission to GitHub.
+2026, August 10th - "Automated account lock", no notification, no specific reason or logged event provided in ticket reply, suspect corporate complaint/submission to GitHub.
+
+### GITHUB Locked Account Events END ###
