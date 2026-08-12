@@ -2,7 +2,6 @@
 1.180.2.230      #AS4134    1.180.0.0/14       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 5.187.35.26      #AS206264  5.187.35.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
-14.152.90.227    #AS134763  14.152.80.0/20     CN   CT-DongGuan-IDC - CHINANET Guangdong province network, CN
 14.152.90.228    #AS134763  14.152.80.0/20     CN   CT-DongGuan-IDC - CHINANET Guangdong province network, CN
 20.29.57.104     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.176    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -18,6 +17,7 @@
 37.10.113.216    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 39.130.224.79    #AS9808    39.130.192.0/18    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 39.144.78.161    #AS56048   39.144.78.0/23     CN   CMNET-BEIJING-AP - China Mobile Communicaitons Corporation, CN
+45.10.243.47     #AS57724   45.10.243.0/24     RU   DDOS-GUARD - DDOS-GUARD LTD, RU
 45.142.193.161   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 45.156.129.98    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.194.67.26     #AS215925  45.194.67.0/24     SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
@@ -45,11 +45,9 @@
 64.62.156.145    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.201    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.209    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.214    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.226.122.0     #AS14061   64.226.112.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.227.175.36    #AS14061   64.227.160.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 65.49.1.10       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.26       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.41       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.57       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.71       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -68,6 +66,7 @@
 69.5.169.99      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.119     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.129     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+69.5.169.198     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.219     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.228     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.135.131     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -82,6 +81,7 @@
 80.82.77.139     #AS202425  80.82.77.0/24      NL   INT-NETWORK - IP Volume inc, SC
 80.94.92.16      #AS47890   80.94.92.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 83.109.60.103    #AS2119    83.108.0.0/15      NO   TELENOR-NEXTEL - Telenor Norge AS, NO
+85.11.167.62     #AS197170  85.11.167.0/24     BG   TECHTIES-AS - TechTies Inc., SC
 85.90.246.159    #AS63949   85.90.244.0/22     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 85.217.140.2     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -90,6 +90,7 @@
 85.217.140.19    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.30    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.64    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.149.68    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 89.21.67.145     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.21.67.189     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 91.92.40.5       #AS197170  91.92.40.0/24      BG   TECHTIES-AS - TechTies Inc., SC
@@ -112,6 +113,7 @@
 94.154.43.244    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.254    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.172.142   #AS209101  94.154.172.0/24    BG   ipvendettainc - IP Vendetta Inc., SC
+94.183.226.10    #AS219506  94.183.226.0/24    AE   TURTLEGUARD-CLOUD-AS - Vladislav Doniy, RU
 99.25.118.181    #AS7018    99.16.0.0/12       US   ATT-INTERNET4 - AT&T Enterprises, LLC, US
 103.13.194.83    #AS150331  103.13.194.0/24    NP   BCPL-AS-AP - Beni Communication Private Limited, NP
 104.232.79.58    #AS26658   104.232.72.0/21    US   HENGTONG-IDC-LLC - HT, US
@@ -184,6 +186,7 @@
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.202.118.69   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 173.27.204.44    #AS30036   173.27.200.0/21    US   MEDIACOM-ENTERPRISE-BUSINESS - Mediacom Communications Corp, US
+176.28.175.68    #AS48832   176.28.175.0/24    JO   Zain-Jo - Jordanian mobile phone services Ltd, JO
 176.65.132.131   #AS197170  176.65.132.0/24    DE   TECHTIES-AS - TechTies Inc., SC
 177.22.44.30     #AS52981   177.22.44.0/23     BR   AS52981 - Conecta Tecnologia LTDA, BR
 178.62.118.213   #AS14061   178.62.64.0/18     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -232,9 +235,9 @@
 206.176.146.236  #AS54614   206.176.146.0/24   CA   CIKTELECOM-CABLE - CIK Telecom INC, CA
 209.38.70.207    #AS14061   209.38.64.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 211.252.15.76    #AS4766    211.252.0.0/15     KR   KIXS-AS-KR-KR - Korea Telecom, KR
+212.241.8.79     #AS12997   212.241.0.0/20     KG   KTNET - OJSC Kyrgyztelecom, KG
 213.78.57.68     #AS13285   213.78.0.0/17      GB   OPALTELECOM-AS - TalkTalk Communications Limited, GB
 213.166.84.54    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-216.25.89.95     #AS396982  216.25.89.0/24     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.218.206.104  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.226.77.20    #AS50219   216.226.77.0/24    US   VT-255-50219 - Valence Technology Co., US
 218.205.95.161   #AS56041   218.205.92.0/22    CN   CMNET-Zhejiang-AP - China Mobile communications corporation, CN
@@ -243,5 +246,5 @@
 220.70.146.64    #AS4766    220.70.0.0/15      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 220.94.90.118    #AS4766    220.92.0.0/14      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 220.166.170.175  #AS4134    220.166.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+221.159.61.114   #AS4766    221.152.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 221.228.187.177  #AS4134    221.224.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-222.212.83.51    #AS4134    222.208.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
