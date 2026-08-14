@@ -1,6 +1,7 @@
 3.83.245.221     #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
 3.101.240.23     #AS16509   3.101.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.101.240.89     #AS16509   3.101.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
+3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.209.200.249    #AS45102   8.209.192.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -16,8 +17,6 @@
 20.169.83.190    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.104.111   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.105.34    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
-35.203.210.51    #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
 45.142.193.169   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 52.165.90.3      #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -32,7 +31,6 @@
 64.62.197.8      #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.12     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.16     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.37     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.39     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.61     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.121    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -41,6 +39,7 @@
 64.62.197.142    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.162    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.231    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.237    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.238    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.63       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.74       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -49,9 +48,9 @@
 65.49.1.177      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.178      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.195      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.203      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.214      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.75      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.20.77      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 69.5.169.12      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.234     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.233.2       #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -59,6 +58,7 @@
 74.82.47.45      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.235.122.210   #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 77.239.124.102   #AS198364  77.239.124.0/24    US   BANATSYNC-SRL - BANATSYNC SRL, RO
+78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 82.147.84.244    #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
 85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.22    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -70,6 +70,7 @@
 85.217.149.55    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.66    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.149.72    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.239.147.3     #AS213474  85.239.147.0/24    BG   HOMELINE-AS - HomeLine Broadband LLC, US
 89.248.172.10    #AS202425  89.248.172.0/24    NL   INT-NETWORK - IP Volume inc, SC
 93.174.95.106    #AS202425  93.174.95.0/24     NL   INT-NETWORK - IP Volume inc, SC
@@ -88,7 +89,7 @@
 146.88.240.136   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.139   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.140   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.240.178   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.240.171   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.179   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.182   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.184   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -99,7 +100,6 @@
 146.88.240.191   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.228   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 147.185.132.21   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-147.185.132.43   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.150  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.162  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.231  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -119,8 +119,11 @@
 184.105.139.92   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.139.114  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.214  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
+184.105.247.248  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.93.89.79     #AS213790  185.93.89.0/24     IR   LimitedNetwork-AS - Limited Network LTD, GB
 192.241.155.193  #AS14061   192.241.128.0/19   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+193.3.53.11      #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
+193.46.255.148   #AS47890   193.46.255.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.163.125.110  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 198.235.24.93    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.113   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
