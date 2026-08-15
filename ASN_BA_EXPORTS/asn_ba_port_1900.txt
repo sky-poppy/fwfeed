@@ -10,9 +10,11 @@
 8.211.46.74      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.89.124.209    #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.89.125.24     #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+14.225.1.210     #AS135905  14.225.1.0/24      VN   VNPT-AS-VN - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
+18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.65.194.133    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.81.46.143     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.14.140    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -38,12 +40,10 @@
 45.155.90.234    #AS141718  45.155.90.0/24     HK   HHXYTC-AS-AP - haoxiangyun, HK
 45.156.128.77    #AS211680  45.156.128.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.156.129.83    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
-45.160.231.44    #AS270724  45.160.231.0/24    BR   AS270724 - CLIENT.CO SERVICOS E TELECOMUNICACOES LTDA, BR
 45.194.67.120    #AS215925  45.194.67.0/24     SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.205.1.70      #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 47.84.204.88     #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 48.216.208.195   #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-48.217.82.99     #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.73.169.169    #AS14618   52.72.0.0/15       US   AMAZON-AES - Amazon.com, Inc., US
 58.23.88.107     #AS4837    58.22.0.0/15       CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
@@ -54,10 +54,10 @@
 64.62.197.54     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.71     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.86     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.104    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.120    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.161    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.165    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.174    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.180    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.181    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.201    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -85,7 +85,6 @@
 87.150.10.165    #AS3320    87.128.0.0/10      DE   DTAG - Deutsche Telekom AG, DE
 89.58.9.55       #AS197540  89.58.8.0/22       DE   netcup-AS - netcup GmbH, DE
 89.248.167.131   #AS202425  89.248.167.0/24    NL   INT-NETWORK - IP Volume inc, SC
-92.119.165.164   #AS211507  92.119.165.0/24    DE   lain - Julian Achter, DE
 93.113.203.160   #AS208949  93.113.203.0/24    RO   hbing-as - HBING LIMITED, GB
 94.156.104.232   #AS216194  94.156.104.0/24    BG   OneStyleDesign - Navid Emrozian trading as _Emrozian International Trading_, AE
 94.159.116.120   #AS216334  94.159.116.0/24    RU   landvps-as - New Hosting Technologies LLC, RU
@@ -93,6 +92,7 @@
 100.29.192.79    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.101   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 104.236.229.227  #AS14061   104.236.192.0/18   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+106.75.166.174   #AS58466   106.75.160.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.75.176.235   #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 109.105.209.8    #AS21859   109.105.209.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
