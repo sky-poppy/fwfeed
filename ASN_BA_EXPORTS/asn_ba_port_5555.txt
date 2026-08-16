@@ -42,6 +42,7 @@
 49.186.117.41    #AS4804    49.186.0.0/17      AU   MPX-AS - Microplex PTY LTD, AU
 60.104.66.213    #AS17676   60.104.0.0/16      JP   GIGAINFRA - SoftBank Corp., JP
 64.23.144.218    #AS14061   64.23.144.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+64.62.156.58     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.65     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.121    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.128    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -61,7 +62,6 @@
 65.49.1.191      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.211      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.212      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.233      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.100     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.103     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.175.212.77    #AS63949   66.175.208.0/21    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -71,11 +71,10 @@
 69.5.169.129     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.198     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.219     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-71.6.134.228     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
+69.5.169.226     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.135.131     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.233.2       #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 72.255.26.114    #AS9541    72.255.26.0/24     PK   CYBERNET-AP - Cyber Internet Services (Pvt) Ltd., PK
-74.82.47.16      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.57      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 77.91.71.57      #AS211486  77.91.71.0/24      GE   AAA-AS - Alferov Aleksey Aleksandrovich, RU
 77.239.124.117   #AS198364  77.239.124.0/24    US   BANATSYNC-SRL - BANATSYNC SRL, RO
@@ -123,7 +122,6 @@
 94.154.43.219    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.220    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.225    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
-94.154.43.230    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.244    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.254    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.172.142   #AS209101  94.154.172.0/24    BG   ipvendettainc - IP Vendetta Inc., SC
@@ -131,11 +129,11 @@
 99.25.118.181    #AS7018    99.16.0.0/12       US   ATT-INTERNET4 - AT&T Enterprises, LLC, US
 100.29.192.98    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 103.13.194.83    #AS150331  103.13.194.0/24    NP   BCPL-AS-AP - Beni Communication Private Limited, NP
+104.248.231.107  #AS14061   104.248.224.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 106.1.248.68     #AS38841   106.1.128.0/17     TW   kbro-AS-TW - kbro CO. Ltd., TW
 106.75.136.237   #AS58466   106.75.128.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.75.175.91    #AS58466   106.75.160.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 106.75.179.251   #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
-106.75.181.41    #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 108.181.132.234  #AS40676   108.181.132.0/22   CA   AS40676 - Psychz Networks, US
 109.174.2.193    #AS30922   109.174.0.0/17     RU   MTS-FBN-Siberia-AS - MTS PJSC, RU
 110.78.252.134   #AS9335    110.78.252.0/24    TH   NTPCL-AS-AP - National Telecom Public Company Limited, TH
@@ -161,12 +159,14 @@
 121.175.204.157  #AS4766    121.168.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 121.180.1.133    #AS4766    121.176.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 122.190.85.63    #AS4837    122.188.0.0/14     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+124.29.194.56    #AS9541    124.29.194.0/24    PK   CYBERNET-AP - Cyber Internet Services (Pvt) Ltd., PK
 124.199.164.209  #AS17864   124.199.128.0/18   KR   SKB-TBROAD_HANVIT-AS-KR-KR - SK Broadband Co Ltd, KR
 125.41.9.22      #AS4837    125.40.0.0/13      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 125.179.39.89    #AS17858   125.176.0.0/14     KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
 130.12.180.65    #AS202412  130.12.180.0/24    US   OMEGATECH-AS - Omegatech LTD, SC
 130.12.182.227   #AS197769  130.12.182.0/24    US   VPSDEDICATED-AS - VPS Dedicated LLC, US
 134.2.251.1      #AS553     134.2.0.0/16       DE   BELWUE - Universitaet Stuttgart, DE
+134.209.87.162   #AS14061   134.209.80.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 135.237.123.204  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 137.184.189.148  #AS14061   137.184.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 142.93.225.45    #AS14061   142.93.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -196,6 +196,7 @@
 165.232.121.85   #AS14061   165.232.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.71.70.246    #AS14061   167.71.64.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.71.102.181   #AS14061   167.71.96.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+168.144.242.178  #AS14061   168.144.240.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.104.178.140  #AS63949   172.104.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -267,3 +268,4 @@
 220.166.170.175  #AS4134    220.166.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 221.159.61.114   #AS4766    221.152.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 221.228.187.177  #AS4134    221.224.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+223.199.177.10   #AS4134    223.198.0.0/15     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
