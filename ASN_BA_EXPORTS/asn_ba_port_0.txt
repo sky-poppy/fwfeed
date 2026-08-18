@@ -1,4 +1,3 @@
-1.30.16.218      #AS4837    1.24.0.0/13        CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 1.34.204.183     #AS3462    1.34.0.0/16        TW   HINET - Data Communication Business Group, TW
 2.51.51.172      #AS5384    2.51.32.0/19       AE   EMIRATES-INTERNET - EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC, AE
 2.136.130.81     #AS3352    2.136.0.0/16       ES   Telefonica_de_EspaNa - TELEFONICA DE ESPANA S.A.U., ES
@@ -10,6 +9,7 @@
 14.167.11.177    #AS45899   14.167.0.0/20      VN   VNPT-AS-VN - VNPT Corp, VN
 14.199.156.62    #AS9269    14.199.128.0/18    HK   HKBN-AS-AP - Hong Kong Broadband Network Ltd., HK
 14.220.245.80    #AS4134    14.208.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+14.226.167.247   #AS45899   14.226.160.0/21    VN   VNPT-AS-VN - VNPT Corp, VN
 14.226.219.176   #AS45899   14.226.216.0/21    VN   VNPT-AS-VN - VNPT Corp, VN
 14.249.115.134   #AS45899   14.249.112.0/20    VN   VNPT-AS-VN - VNPT Corp, VN
 24.111.174.110   #AS11232   24.111.0.0/16      US   MIDCO-NET - Midcontinent Communications, US
@@ -58,10 +58,10 @@
 59.127.68.250    #AS3462    59.127.0.0/16      TW   HINET - Data Communication Business Group, TW
 59.174.248.10    #AS4134    59.172.0.0/14      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.8.121.6       #AS4837    60.8.0.0/15        CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
-60.54.30.244     #AS4788    60.54.0.0/18       MY   TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD., MY
 60.166.159.224   #AS4134    60.166.0.0/15      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 60.175.124.187   #AS4134    60.168.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.81.141.186    #AS4766    61.80.0.0/14       KR   KIXS-AS-KR-KR - Korea Telecom, KR
+61.142.37.242    #AS4134    61.140.0.0/14      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.160.29.34     #AS4134    61.160.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.164.205.114   #AS4134    61.164.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 61.178.106.199   #AS4134    61.178.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -116,7 +116,6 @@
 78.72.109.120    #AS3301    78.64.0.0/12       SE   TELIANET-SWEDEN - Telia Company AB, SE
 79.100.204.10    #AS8866    79.100.204.0/22    BG   VIVACOM-AS - Vivacom Bulgaria EAD, BG
 79.173.169.26    #AS5631    79.173.128.0/18    GB   ELEVATE - Telcom Networks Limited, GB
-80.73.156.59     #AS34511   80.73.156.0/22     ES   F-INTEGRA-AS - Fundacion Integra, ES
 80.155.140.197   #AS3320    80.152.0.0/14      DE   DTAG - Deutsche Telekom AG, DE
 81.23.1.147      #AS31261   81.23.0.0/21       RU   GARS-AS - PJSC MegaFon, RU
 81.232.168.220   #AS3301    81.224.0.0/12      SE   TELIANET-SWEDEN - Telia Company AB, SE
@@ -151,7 +150,6 @@
 110.35.12.8      #AS38684   110.35.12.0/22     KR   CMBDAEJEON-AS-KR-KR - CMB Daejeon Broadcasting Co,.Ltd, KR
 110.35.12.17     #AS38684   110.35.12.0/22     KR   CMBDAEJEON-AS-KR-KR - CMB Daejeon Broadcasting Co,.Ltd, KR
 110.35.12.19     #AS38684   110.35.12.0/22     KR   CMBDAEJEON-AS-KR-KR - CMB Daejeon Broadcasting Co,.Ltd, KR
-110.83.236.70    #AS4134    110.80.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 110.171.151.27   #AS17552   110.171.128.0/18   TH   TRUEONLINE-AS-AP - True Online, TH
 111.39.230.46    #AS9808    111.39.0.0/16      CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 111.91.146.36    #AS38673   111.91.144.0/21    KR   KCTVNET-AS-KR-KR - Korea Cable TV Kwangju Broadcasting, KR
@@ -239,7 +237,6 @@
 179.124.10.170   #AS263609  179.124.10.0/24    BR   AS263609 - Free Way Tecnologia, BR
 179.127.172.58   #AS28343   179.127.172.0/23   BR   AS28343 - UNIFIQUE TELECOMUNICACOES S/A, BR
 179.159.240.80   #AS28573   179.159.0.0/16     BR   AS28573 - Claro NXT Telecomunicacoes Ltda, BR
-180.73.162.216   #AS4788    180.72.0.0/14      MY   TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD., MY
 181.78.7.90      #AS52468   181.78.7.0/24      AR   AS52468 - UFINET PANAMA S.A., PA
 181.79.86.173    #AS52468   181.79.86.0/24     AR   AS52468 - UFINET PANAMA S.A., PA
 181.212.109.12   #AS16629   181.212.0.0/16     CL   #AS16629 - CTC. CORP S.A. (TELEFONICA EMPRESAS), CL
@@ -249,6 +246,7 @@
 183.106.21.33    #AS4766    183.104.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 183.143.78.50    #AS4134    183.128.0.0/11     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.191.32.163   #AS4837    183.184.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+183.196.127.122  #AS24547   183.196.112.0/20   CN   CMNET-V4HEBEI-AS-AP - Hebei Mobile Communication Company Limited, CN
 183.234.189.5    #AS9808    183.234.188.0/23   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 185.104.141.72   #AS200519  185.104.140.0/22   DE   NYNEX-fiberONE - NYNEX satellite OHG, DE
 185.236.37.15    #AS48551   185.236.37.0/24    IR   Sindad - Sindad Network Technology PJSC, IR
@@ -299,6 +297,7 @@
 221.182.16.58    #AS9808    221.182.16.0/24    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 221.212.159.132  #AS4837    221.212.0.0/16     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 221.226.177.66   #AS4134    221.224.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+221.230.78.236   #AS4134    221.224.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 222.111.65.14    #AS4766    222.104.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 222.154.114.64   #AS4771    222.154.112.0/21   NZ   SPARKNZ - Spark New Zealand Trading Ltd., NZ
 222.178.76.161   #AS4134    222.176.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
