@@ -12,6 +12,7 @@
 20.64.104.237    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.105.25     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.105.186    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.193.189    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.204    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.57     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.85     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -19,7 +20,6 @@
 20.98.137.225    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.102.43.161    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.15.20     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.163.15.123    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.37.98     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.120.248   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.121.152   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -49,6 +49,7 @@
 47.251.74.197    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.180.156.198   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 62.210.89.150    #AS12876   62.210.0.0/16      FR   #AS12876 - Scaleway SAS, FR
+64.62.156.38     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.55     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.92     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.67     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -59,7 +60,6 @@
 64.225.17.162    #AS14061   64.225.16.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.226.83.235    #AS14061   64.226.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.226.98.239    #AS14061   64.226.96.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-65.49.1.42       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.44       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.71       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.82       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -93,10 +93,10 @@
 98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.4     #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.118   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 104.248.95.193   #AS14061   104.248.80.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 104.248.113.243  #AS14061   104.248.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-109.105.209.10   #AS21859   109.105.209.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 118.195.163.19   #AS45090   118.195.128.0/18   CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 130.131.162.132  #AS8075    130.131.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -111,7 +111,7 @@
 146.88.240.213   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.220   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.222   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.241.23    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.241.43    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.54    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.92    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.100   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -148,13 +148,13 @@
 185.130.61.154   #AS272696  185.130.61.0/24    HR   AS272696 - HOSTING NOW NET LTDA, BR
 185.170.154.167  #AS207957  185.170.154.0/24   US   ServHost-AS - SERV.HOST GROUP LTD, GB
 185.242.3.58     #AS60223   185.242.3.0/24     NL   NETIFACE-AS - Netiface Limited, GB
+189.113.8.254    #AS28209   189.113.8.0/22     BR   #AS28209 - Under Servicos de Internet Ltda, BR
 192.236.234.16   #AS36352   192.236.234.0/24   US   AS-COLOCROSSING - HostPapa, US
 193.3.53.8       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
 193.124.20.254   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.88     #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.187.178.165  #AS215778  194.187.178.0/24   DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 195.24.207.184   #AS15964   195.24.207.0/24    CM   CAMTEL - CAMTEL, CM
-195.33.199.59    #AS34984   195.33.199.0/24    TR   TELLCOM-AS - Superonline Iletisim Hizmetleri A.S., TR
 195.206.182.204  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 198.235.24.46    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.122   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -162,7 +162,6 @@
 198.235.24.222   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 202.61.74.235    #AS149440  202.61.74.0/24     MY   EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd., MY
 205.210.31.64    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.82    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.87    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.175   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.193   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -170,7 +169,6 @@
 212.23.217.3     #AS210509  212.23.217.0/24    IQ   optline - Optimum Line for Internet Services Ltd., IQ
 213.136.91.63    #AS51167   213.136.90.0/23    DE   CONTABO - Contabo GmbH, DE
 213.166.84.46    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-213.166.84.55    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 216.218.206.69   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 217.71.127.125   #AS198545  217.71.127.0/24    US   FLEXNETWORK-AS - FLEX NETWORK SARL, FR
 223.93.65.112    #AS56041   223.93.64.0/21     CN   CMNET-Zhejiang-AP - China Mobile communications corporation, CN
