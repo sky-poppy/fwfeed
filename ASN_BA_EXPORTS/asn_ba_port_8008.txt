@@ -4,13 +4,13 @@
 3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
+5.226.140.107    #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.209.68.49      #AS45102   8.209.64.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.209.75.169     #AS45102   8.209.64.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.3.212      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.4.105      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.219.100.182    #AS45102   8.219.0.0/17       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.211.217.77    #AS16509   13.210.0.0/15      US   AMAZON-02 - Amazon.com, Inc., US
-18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 20.64.104.92     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.189    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -23,7 +23,6 @@
 20.168.127.149   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.81.90     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.106.155   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.221.68.159    #AS8075    20.192.0.0/10      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 31.14.254.3      #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 31.14.254.5      #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -43,6 +42,7 @@
 47.251.92.96     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.122.40    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.242.251   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.254.122.150   #AS45102   47.254.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.198.155   #AS45102   47.254.192.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 54.206.185.27    #AS16509   54.206.128.0/17    US   AMAZON-02 - Amazon.com, Inc., US
@@ -79,7 +79,9 @@
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 89.248.167.131   #AS202425  89.248.167.0/24    NL   INT-NETWORK - IP Volume inc, SC
 91.196.152.3     #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
+91.196.152.5     #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.154.43.36     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
+100.29.192.81    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.116   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.123   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -100,6 +102,7 @@
 147.185.132.246  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.133.243  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 152.32.207.42    #AS135377  152.32.207.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
+154.0.30.137     #AS37190   154.0.30.0/24      CI   Atlantique Telecom (Cote d_Ivoire) - Atlantique Telecom (Cote d_Ivoire), CI
 156.225.1.99     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
 159.65.148.75    #AS14061   159.65.144.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 162.217.100.196  #AS32475   162.217.100.0/22   US   SINGLEHOP-LLC - Internap Holding LLC, US
@@ -122,7 +125,6 @@
 193.46.255.148   #AS47890   193.46.255.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.163.125.28   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.31   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
-193.163.125.80   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.178  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.229  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.29.2     #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
