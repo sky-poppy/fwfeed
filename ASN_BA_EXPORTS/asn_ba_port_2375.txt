@@ -3,9 +3,9 @@
 3.101.240.89     #AS16509   3.101.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 8.142.178.141    #AS37963   8.142.0.0/15       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.208.44.152     #AS45102   8.208.32.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-8.209.236.13     #AS45102   8.209.224.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 20.46.232.134    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.51.241.104    #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.55.73.223     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.104.70     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.192.66     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.83     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -25,7 +25,6 @@
 20.163.15.96     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.120.250   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.122.88    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.168.124.121   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.81.111    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 23.92.27.206     #AS63949   23.92.24.0/22      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 23.94.184.100    #AS36352   23.94.184.0/21     US   AS-COLOCROSSING - HostPapa, US
@@ -42,10 +41,12 @@
 45.33.95.64      #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.33.105.76     #AS63949   45.33.104.0/21     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.58.147.154    #AS46844   45.58.147.0/24     US   SHARKTECH - Sharktech, US
+45.148.10.69     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
 45.198.224.26    #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.225.135.20    #AS64107   45.225.135.0/24    PA   AS64107 - RACK SPHERE HOSTING S.A., PA
 45.225.135.21    #AS64107   45.225.135.0/24    PA   AS64107 - RACK SPHERE HOSTING S.A., PA
 47.77.182.54     #AS45102   47.77.128.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.77.182.184    #AS45102   47.77.128.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.92.114.84     #AS37963   47.92.0.0/15       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.94.230.80     #AS37963   47.94.0.0/15       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.95.234.23     #AS37963   47.94.0.0/15       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -61,7 +62,6 @@
 64.62.156.154    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.172    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.190    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.11       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.15       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.46       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.91       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -74,6 +74,7 @@
 66.132.186.248   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.15    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 68.183.234.194   #AS14061   68.183.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+71.6.134.234     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 74.235.185.121   #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.70.194.80     #AS45090   81.70.192.0/18     CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
@@ -130,7 +131,6 @@
 147.139.136.75   #AS45102   147.139.128.0/18   US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 148.153.56.174   #AS63199   148.153.56.0/24    US   CDSC-AS1 - CDS Global Cloud Co., Ltd, US
 148.216.108.65   #AS11172   148.216.0.0/16     MX   AS11172 - Alestra, S. de R.L. de C.V., MX
-152.32.175.45    #AS135377  152.32.175.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 154.92.23.249    #AS138152  154.92.23.0/24     SC   YISUCLOUDLTD-HK - YISU CLOUD LTD, HK
 154.127.69.5     #AS37284   154.127.69.0/24    LY   Aljeel Aljadeed For Technology - Aljeel Aljadeed For Technology, LY
 159.65.138.39    #AS14061   159.65.128.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -142,6 +142,7 @@
 167.94.145.18    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 168.138.232.38   #AS31898   168.138.224.0/19   US   ORACLE-BMC-31898 - Oracle Corporation, US
 169.58.57.214    #AS51167   169.58.0.0/17      DE   CONTABO - Contabo GmbH, DE
+169.58.196.170   #AS51167   169.58.128.0/17    DE   CONTABO - Contabo GmbH, DE
 172.206.224.165  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.234.218.87   #AS63949   172.234.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.237.136.213  #AS63949   172.237.128.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -155,7 +156,7 @@
 183.239.58.25    #AS9808    183.239.56.0/21    CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 184.73.76.177    #AS14618   184.73.0.0/16      US   AMAZON-AES - Amazon.com, Inc., US
 184.105.139.124  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
-184.105.247.202  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
+184.105.247.224  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.107.80.93    #AS43350   185.107.80.0/22    NL   NFORCE - NForce Entertainment B.V., NL
 185.126.5.240    #AS34918   185.126.5.0/24     IR   PISHGAMAN-DATACENTER - Pishgaman Toseeh Ertebatat Company (Private Joint Stock), IR
 185.242.226.19   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
@@ -168,6 +169,7 @@
 209.99.190.174   #AS402253  209.99.184.0/21    KN   SKN-NETWORK-1 - SKN Subnet & Telecom Ltd, KN
 209.99.191.17    #AS402253  209.99.184.0/21    KN   SKN-NETWORK-1 - SKN Subnet & Telecom Ltd, KN
 209.150.154.241  #AS59257   209.150.154.0/24   PK   CMPAKLIMITED-AS-AP - CMPak Limited, PK
+213.177.179.73   #AS208137  213.177.179.0/24   IR   FPS12 - Feo Prest SRL, RO
 216.218.206.77   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.218.206.114  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 220.181.1.163    #AS23724   220.181.0.0/19     CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN

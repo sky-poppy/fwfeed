@@ -16,10 +16,10 @@
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.14.90.54      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.55.97.129     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.191    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.32.182     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.102.88.108    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.168.121.237   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.123.228   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 23.225.32.162    #AS40065   23.225.32.0/24     US   CNSERVERS - CNSERVERS LLC, US
 24.199.111.251   #AS14061   24.199.96.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -50,6 +50,7 @@
 47.77.217.63     #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.77.218.87     #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.101.73     #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.84.114.31     #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.138.180    #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.141.208    #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.142.72     #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -62,11 +63,11 @@
 47.254.156.127   #AS45102   47.254.128.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 48.216.208.195   #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 59.55.128.147    #AS4134    59.52.0.0/14       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+62.210.89.150    #AS12876   62.210.0.0/16      FR   #AS12876 - Scaleway SAS, FR
 66.132.172.103   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.201   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.68    #AS398324  66.132.195.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.195.103   #AS398324  66.132.195.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.254.160.90    #AS22552   66.254.160.0/19    US   ESITED - eSited Solutions, US
 69.87.207.136    #AS22552   69.87.192.0/20     US   ESITED - eSited Solutions, US
 71.6.233.2       #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
@@ -85,7 +86,6 @@
 85.217.140.49    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.50    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.54    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
-85.217.149.26    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.37    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.68    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -108,6 +108,7 @@
 111.21.99.86     #AS9808    111.21.0.0/16      CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 111.250.1.103    #AS3462    111.250.0.0/16     TW   HINET - Data Communication Business Group, TW
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
+118.194.236.142  #AS135377  118.194.236.0/24   HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 130.12.180.48    #AS202412  130.12.180.0/24    US   OMEGATECH-AS - Omegatech LTD, SC
 135.125.29.129   #AS16276   135.125.0.0/17     FR   OVH - OVH SAS, FR
@@ -143,6 +144,7 @@
 172.104.5.254    #AS63949   172.104.4.0/22     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.234.25.187   #AS63949   172.234.16.0/20    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 176.65.148.215   #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
+176.65.149.236   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 176.123.5.126    #AS200019  176.123.0.0/21     MD   AlexHost - ALEXHOST SRL, MD
 177.72.195.114   #AS262551  177.72.195.0/24    BR   #AS262551 - Farol Telecom, BR
 178.156.172.64   #AS213230  178.156.172.0/24   DE   HETZNER-CLOUD2-AS - Hetzner Online GmbH, DE
