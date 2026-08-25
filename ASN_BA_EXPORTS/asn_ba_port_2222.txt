@@ -8,7 +8,6 @@
 8.129.229.164    #AS37963   8.129.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.133.185.52     #AS37963   8.133.0.0/16       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.134.157.132    #AS37963   8.134.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.138.19.119     #AS37963   8.138.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.138.102.71     #AS37963   8.138.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.148.9.47       #AS37963   8.148.0.0/20       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.148.75.14      #AS37963   8.148.64.0/20      SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -18,6 +17,7 @@
 8.208.44.152     #AS45102   8.208.32.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.210.28.151     #AS45102   8.210.0.0/17       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.14.99      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.217.247.216    #AS45102   8.217.128.0/17     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.218.39.45      #AS45102   8.218.0.0/17       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.219.150.15     #AS45102   8.219.128.0/17     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 12.124.186.10    #AS7018    12.112.0.0/12      US   ATT-INTERNET4 - AT&T Enterprises, LLC, US
@@ -46,7 +46,6 @@
 40.124.173.7     #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.173.94    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 41.77.4.1        #AS37287   41.77.0.0/21       ZM   Zain Zambia PLC - Zain Zambia PLC, ZM
-43.108.34.145    #AS45102   43.108.0.0/18      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 43.108.38.160    #AS45102   43.108.0.0/18      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 43.110.36.163    #AS45102   43.110.0.0/17      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 43.110.37.217    #AS45102   43.110.0.0/17      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -93,8 +92,6 @@
 47.114.57.2      #AS37963   47.114.0.0/17      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.120.30.67     #AS37963   47.120.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.239.200.81    #AS45102   47.239.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.243.79.108    #AS45102   47.243.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.251.1.202     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.253.5.130     #AS45102   47.253.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.253.156.31    #AS45102   47.253.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 49.64.169.224    #AS4134    49.64.0.0/11       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -116,16 +113,17 @@
 69.5.169.232     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.234     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.199.23      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
+77.42.49.249     #AS24940   77.42.0.0/17       DE   HETZNER-AS - Hetzner Online GmbH, DE
 77.90.185.16     #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 77.90.185.20     #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 77.237.247.203   #AS51167   77.237.240.0/21    DE   CONTABO - Contabo GmbH, DE
 78.128.114.118   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
-82.67.188.250    #AS12322   82.64.0.0/14       FR   PROXAD - Free SAS, FR
 82.157.7.182     #AS45090   82.157.0.0/18      CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 83.229.120.201   #AS139659  83.229.120.0/24    HK   LUCID-AS-AP - LUCIDACLOUD LIMITED, HK
 85.11.167.154    #AS197170  85.11.167.0/24     BG   TECHTIES-AS - TechTies Inc., SC
 85.217.140.2     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.140.9     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.20    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.31    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.40    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -134,7 +132,6 @@
 85.217.140.48    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.49    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.52    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
-85.217.140.53    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.50    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.51    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.64    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -146,16 +143,15 @@
 91.196.152.92    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.196.152.94    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.236.116.50    #AS42237   91.236.116.0/24    GB   w1n - w1n ltd, GB
-94.154.43.36     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.231.206.1     #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.12    #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.14    #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.129   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.132   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.133   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
+94.231.206.251   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.231.206.253   #AS213412  94.231.206.0/24    FR   ONYPHE - ONYPHE SAS, FR
 100.29.192.10    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-100.29.192.81    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.103   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.113   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 101.201.104.216  #AS37963   101.201.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -198,7 +194,6 @@
 121.196.196.104  #AS37963   121.196.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.13.25.55     #AS136958  122.13.25.0/24     CN   UNICOM-GuangZhou-IDC - China Unicom Guangdong IP network, CN
 123.56.11.51     #AS37963   123.56.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-128.203.200.235  #AS8075    128.203.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 130.12.181.23    #AS197769  130.12.181.0/24    US   VPSDEDICATED-AS - VPS Dedicated LLC, US
 130.12.182.227   #AS197769  130.12.182.0/24    US   VPSDEDICATED-AS - VPS Dedicated LLC, US
 135.233.112.102  #AS8075    135.232.0.0/14     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -241,6 +236,7 @@
 167.71.181.54    #AS14061   167.71.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.71.197.231   #AS14061   167.71.192.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.94.145.16    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
+167.94.145.21    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.29    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.172.197.187  #AS14061   167.172.192.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 168.138.232.38   #AS31898   168.138.224.0/19   US   ORACLE-BMC-31898 - Oracle Corporation, US
@@ -265,7 +261,6 @@
 178.105.200.202  #AS24940   178.104.0.0/15     DE   HETZNER-AS - Hetzner Online GmbH, DE
 178.156.203.2    #AS213230  178.156.128.0/17   DE   HETZNER-CLOUD2-AS - Hetzner Online GmbH, DE
 178.250.187.63   #AS216127  178.250.187.0/24   LV   NUXT-AS - INTERNATIONAL HOSTING COMPANY LIMITED, GB
-182.43.104.151   #AS58519   182.43.104.0/24    CN   CHINATELECOM-Ctcloud - Cloud Computing Corporation, CN
 185.207.107.0    #AS197540  185.207.104.0/22   DE   netcup-AS - netcup GmbH, DE
 185.242.226.18   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 185.246.130.20   #AS42237   185.246.130.0/24   GB   w1n - w1n ltd, GB
@@ -282,7 +277,6 @@
 195.184.76.1     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.4     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.5     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
-195.206.182.207  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 196.189.236.151  #AS24757   196.189.236.0/23   ET   Ethio Telecom - Ethio Telecom, ET
 198.74.58.130    #AS63949   198.74.56.0/21     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 198.235.24.38    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
