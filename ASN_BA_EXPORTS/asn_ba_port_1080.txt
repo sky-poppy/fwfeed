@@ -16,9 +16,9 @@
 20.14.89.155     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.15.201.64     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.105.230    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.65.194.143    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.150.53     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.124.87.15     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.127.211.166   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.150.194.49    #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -32,7 +32,6 @@
 40.124.175.75    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.63.4.69       #AS20473   45.63.0.0/20       US   AS-VULTR - The Constant Company, LLC, US
 45.77.61.56      #AS20473   45.77.60.0/22      US   AS-VULTR - The Constant Company, LLC, US
-45.135.194.10    #AS51396   45.135.194.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 45.135.194.24    #AS51396   45.135.194.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 45.135.194.113   #AS51396   45.135.194.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 45.148.10.69     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
@@ -51,7 +50,6 @@
 64.89.163.235    #AS401626  64.89.163.0/24     US   NETIFACE-TORONTO - Netiface America, Inc., US
 65.49.1.161      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.164      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.230      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.91      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.172.230   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.209   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -63,6 +61,7 @@
 69.5.169.140     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.199     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.224     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+74.82.47.23      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.235.100.212   #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 75.127.6.2       #AS36352   75.127.6.0/23      US   AS-COLOCROSSING - HostPapa, US
 77.90.185.16     #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
@@ -85,6 +84,7 @@
 89.248.172.10    #AS202425  89.248.172.0/24    NL   INT-NETWORK - IP Volume inc, SC
 94.102.49.193    #AS202425  94.102.49.0/24     NL   INT-NETWORK - IP Volume inc, SC
 94.154.43.10     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
+94.154.43.36     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.126    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 95.173.207.168   #AS60068   95.173.207.0/24    GB   CDN77 - Datacamp Limited, GB
 95.214.53.157    #AS201814  95.214.52.0/23     PL   Mevspace - MEVSPACE sp. z o.o., PL
@@ -94,7 +94,6 @@
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 102.220.160.42   #AS197769  102.220.160.0/22   NG   VPSDEDICATED-AS - VPS Dedicated LLC, US
 103.203.57.4     #AS136180  103.203.57.0/24    CN   IPIP-CN - Beijing Tiantexin Tech. Co., Ltd., CN
-104.248.60.43    #AS14061   104.248.48.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 106.75.143.110   #AS58466   106.75.128.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 130.12.180.48    #AS202412  130.12.180.0/24    US   OMEGATECH-AS - Omegatech LTD, SC
@@ -112,7 +111,6 @@
 159.65.182.101   #AS14061   159.65.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 159.223.0.20     #AS14061   159.223.0.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.154.59.90    #AS135377  165.154.59.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
-165.154.118.215  #AS135377  165.154.118.0/24   HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 167.94.145.16    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.22    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.26    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
@@ -128,6 +126,7 @@
 184.105.247.227  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.244  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.200.116.38   #AS9009    185.200.116.0/24   RO   M247 - M247 Europe SRL, RO
+185.200.116.40   #AS9009    185.200.116.0/24   RO   M247 - M247 Europe SRL, RO
 185.200.116.41   #AS9009    185.200.116.0/24   RO   M247 - M247 Europe SRL, RO
 185.200.116.42   #AS9009    185.200.116.0/24   RO   M247 - M247 Europe SRL, RO
 185.200.116.43   #AS9009    185.200.116.0/24   RO   M247 - M247 Europe SRL, RO
