@@ -32,14 +32,14 @@
 20.65.154.228    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.192.71     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.194.183    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.83.167.27     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.168.121.93    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.84.44.121     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.122.37    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.125.82    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.127.149   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.105.57    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.107.109   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 24.37.254.66     #AS5769    24.37.192.0/18     CA   VIDEOTRON - Videotron Ltee, CA
+24.234.157.122   #AS22773   24.234.0.0/16      US   ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US
 27.185.17.40     #AS4134    27.184.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 31.14.32.8       #AS201401  31.14.32.0/24      NL   NewVM-AS - NewVM B.V., NL
 31.58.236.100    #AS213570  31.58.236.0/24     AE   Hostluyoruz - ALPEREN KARABIYIK, TR
@@ -123,9 +123,9 @@
 66.132.224.26    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.240.223.214   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 66.240.236.109   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
-67.217.38.40     #AS22458   67.217.38.0/24     US   NETSOURCE - CONVERGEONE HOLDINGS, INC., US
 69.5.169.23      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.53      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+69.5.169.116     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.211     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.234     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.199.65      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -146,7 +146,6 @@
 78.186.26.5      #AS9121    78.186.0.0/17      TR   TTNet - Turk Telekomunikasyon Anonim Sirketi, TR
 79.124.59.186    #AS50360   79.124.59.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.60.194    #AS50360   79.124.60.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-80.69.55.177     #AS8814    80.69.55.0/24      AZ   AS-AZTELEKOM - Aztelekom LLC, AZ
 80.179.17.52     #AS12400   80.179.0.0/19      IL   PARTNER-AS - Partner Communications Ltd., IL
 81.213.175.192   #AS9121    81.213.128.0/17    TR   TTNet - Turk Telekomunikasyon Anonim Sirketi, TR
 82.86.65.174     #AS272809  82.86.65.0/24      ES   AS272809 - THUNDERNET, C.A., VE
@@ -182,6 +181,7 @@
 92.47.248.63     #AS9198    92.47.248.0/21     KZ   KAZTELECOM-AS - JSC Kazakhtelecom, KZ
 93.91.197.38     #AS21277   93.91.197.0/24     IQ   Newroz-Telecom-ASN - Allay Nawroz Telecom Company for Communication/Ltd., IQ
 93.113.10.244    #AS8751    93.113.10.0/24     RO   MEDIASAT - MEDIA SAT SRL, RO
+93.123.109.121   #AS48090   93.123.109.0/24    BG   DMZHOST - TECHOFF SRV LIMITED, GB
 93.171.178.215   #AS62314   93.171.178.0/24    CZ   ATMOSPHERICA-AS - Atmospherica Ltd., RU
 94.33.138.5      #AS210218  94.33.138.0/24     IT   OpenFiber-Italy - Open Fiber S.P.A., IT
 94.183.31.168    #AS31549   94.183.16.0/20     IR   RASANA - Aria Shatel PJSC, IR
@@ -189,7 +189,6 @@
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.120   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 101.35.46.45     #AS45090   101.35.0.0/18      CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 101.36.117.15    #AS135377  101.36.117.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 101.50.75.124    #AS23674   101.50.75.0/24     PK   NAYATEL-PK - Nayatel (Pvt) Ltd, PK
@@ -221,8 +220,10 @@
 112.95.164.54    #AS17623   112.95.128.0/17    CN   CNCGROUP-SZ - China Unicom Shenzen network, CN
 113.96.35.26     #AS4134    113.96.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 113.102.237.101  #AS4134    113.96.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+114.104.188.248  #AS4134    114.104.0.0/14     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 114.229.61.139   #AS4134    114.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.28.77.246    #AS37963   115.28.64.0/18     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
+115.42.74.138    #AS138423  115.42.74.0/24     PK   CMPAKLIMITED-AS-ENTCORP - CMPak Limited, PK
 115.49.102.34    #AS4837    115.48.0.0/12      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 115.53.100.47    #AS4837    115.48.0.0/12      CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 115.78.96.99     #AS7552    115.78.96.0/21     VN   VIETEL-AS-AP - Viettel Group, VN
@@ -234,7 +235,6 @@
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 115.231.206.90   #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 115.238.178.150  #AS4134    115.224.0.0/12     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-115.246.154.138  #AS55836   115.240.0.0/13     IN   RELIANCEJIO-IN - Reliance Jio Infocomm Limited, IN
 116.5.85.5       #AS4134    116.4.0.0/14       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 116.62.246.33    #AS37963   116.62.128.0/17    CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 116.90.227.175   #AS24550   116.90.227.0/24    NP   WEBSURFERNP-AS-NP - Websurfer Nepal Internet Service Provider, NP
@@ -242,6 +242,7 @@
 116.142.69.42    #AS4837    116.142.0.0/15     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 116.252.80.130   #AS4134    116.252.0.0/15     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 117.40.227.127   #AS4134    117.40.0.0/14      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+117.72.216.1     #AS141679  117.72.192.0/19    CN   CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN
 117.79.154.162   #AS23724   117.79.152.0/21    CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 117.176.219.185  #AS9808    117.176.216.0/21   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 117.220.89.44    #AS9829    117.220.80.0/20    IN   BSNL-NIB - National Internet Backbone, IN
@@ -249,14 +250,13 @@
 118.163.231.10   #AS3462    118.163.0.0/16     TW   HINET - Data Communication Business Group, TW
 118.193.124.94   #AS23724   118.193.96.0/19    CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 118.244.195.241  #AS4847    118.244.192.0/19   CN   CNIX-AP - China Networks Inter-Exchange, CN
+119.18.147.187   #AS45326   119.18.147.0/24    BD   BBTS-AS-AP - Broad Band Telecom Services Ltd, BD
 119.59.105.57    #AS56067   119.59.96.0/19     TH   METRABYTE-TH - 453 Ladplacout Jorakhaebua, TH
-119.92.81.147    #AS9299    119.92.64.0/19     PH   IPG-AS-AP - Philippine Long Distance Telephone Company, PH
 119.92.122.111   #AS9299    119.92.96.0/19     PH   IPG-AS-AP - Philippine Long Distance Telephone Company, PH
 120.28.144.106   #AS132199  120.28.144.0/21    PH   GLOBE-MOBILE-5TH-GEN-AS - Globe Telecom Inc., PH
 120.79.178.220   #AS37963   120.79.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.92.11.32     #AS59019   120.92.10.0/23     CN   BJKSCNET - Beijing Kingsoft Cloud Internet Technology Co., Ltd, CN
 120.194.6.72     #AS24445   120.194.0.0/19     CN   CMNET-V4henan-AS-AP - Henan Mobile Communications Co.,Ltd, CN
-120.230.232.116  #AS9808    120.230.232.0/23   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 121.40.175.200   #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.197.14.82    #AS37963   121.197.0.0/16     CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -267,6 +267,7 @@
 123.138.18.10    #AS4837    123.138.0.0/15     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 124.31.244.33    #AS4134    124.31.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 124.113.224.207  #AS4134    124.112.0.0/15     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+124.128.247.169  #AS4837    124.128.0.0/13     CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 125.34.87.214    #AS4808    125.34.64.0/18     CN   CHINA169-BJ - China Unicom Beijing Province Network, CN
 125.69.67.104    #AS4134    125.64.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 125.212.198.118  #AS38731   125.212.198.0/24   VN   VTDC-AS-VN - Vietel - CHT Compamy Ltd, VN
@@ -291,6 +292,7 @@
 154.61.72.205    #AS135175  154.61.72.0/24     US   FACTS-AS-IN - Facts Online Pvt Ltd, IN
 154.85.41.244    #AS55967   154.85.40.0/22     SC   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 154.120.138.30   #AS37037   154.120.138.0/24   MG   Orange Madagascar - Orange Madagascar, MG
+154.242.78.14    #AS36947   154.242.64.0/20    DZ   Telecom Algeria - Telecom Algeria, DZ
 156.225.1.98     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
 157.230.212.191  #AS14061   157.230.208.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 157.245.143.165  #AS14061   157.245.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -319,6 +321,7 @@
 176.119.185.210  #AS12389   176.119.160.0/19   RU   ROSTELECOM-AS - PJSC Rostelecom, RU
 177.36.187.95    #AS53062   177.36.187.0/24    BR   #AS53062 - ALT GRUPO BRASIL TECPAR, BR
 177.221.205.218  #AS52682   177.221.204.0/22   BR   AS52682 - AVATO TECNOLOGIA S.A, BR
+178.54.78.190    #AS29107   178.54.0.0/17      GB   SYNAPSE-AS - Synapse Network LTD, GB
 178.91.94.146    #AS9198    178.91.64.0/19     KZ   KAZTELECOM-AS - JSC Kazakhtelecom, KZ
 178.151.142.109  #AS13188   178.151.142.0/24   UA   TRIOLAN - CONTENT DELIVERY NETWORK LTD, UA
 178.153.127.85   #AS8781    178.152.0.0/15     QA   QA-ISP - Ooredoo Q.S.C., QA
@@ -329,6 +332,7 @@
 179.126.177.44   #AS53006   179.126.0.0/16     BR   AS53006 - ALGAR TELECOM S/A, BR
 180.101.62.54    #AS4134    180.96.0.0/11      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 180.112.194.118  #AS4134    180.96.0.0/11      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+180.165.24.134   #AS4812    180.160.0.0/13     CN   CHINANET-SH-AP - China Telecom (Group), CN
 180.183.23.108   #AS138524  180.183.16.0/21    TH   TTBP-AS-AP - Triple T Broadband Public Company Limited, TH
 180.210.128.83   #AS23893   180.210.128.0/24   BD   BPL-BD - Bangla Phone Ltd, BD
 181.190.12.206   #AS14259   181.190.0.0/16     CL   #AS14259 - Gtd Internet S.A., CL
@@ -338,7 +342,6 @@
 182.44.73.149    #AS58772   182.44.64.0/19     CN   ChinaNet-Fujian-Fuzhou-IDC - CHINANET Fujian province Fuzhou IDC network, CN
 182.79.111.78    #AS9498    182.79.96.0/19     IN   BBIL-AP - BHARTI Airtel Ltd., IN
 182.92.202.149   #AS37963   182.92.128.0/17    CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-182.150.31.156   #AS4134    182.144.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 182.151.52.134   #AS38283   182.151.0.0/18     CN   CHINANET-SCIDC-AS-AP - CHINANET SiChuan Telecom Internet Data Center, CN
 182.161.66.3     #AS205960  182.161.66.0/24    HK   HDT - HDTIDC LIMITED, HK
 183.62.9.254     #AS4134    183.0.0.0/10       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
@@ -390,6 +393,7 @@
 198.235.24.31    #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.100   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.109   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+198.235.24.194   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.219   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.176   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.179   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
@@ -400,7 +404,6 @@
 202.98.252.213   #AS4134    202.98.224.0/19    CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 202.106.54.126   #AS4808    202.106.48.0/20    CN   CHINA169-BJ - China Unicom Beijing Province Network, CN
 202.143.127.169  #AS38713   202.143.127.0/24   PK   CONNECT2B-AS-PK - Broadband ISP, FTTH and Cable Service Provider, PK
-202.189.5.99     #AS139180  202.189.4.0/22     CN   SDYXT - Shandong eshinton Network Technology Co., Ltd., CN
 202.189.11.90    #AS139180  202.189.8.0/22     CN   SDYXT - Shandong eshinton Network Technology Co., Ltd., CN
 203.25.212.194   #AS139220  203.25.212.0/22    CN   CHINANET-Sichuan-Chuanxi-IDC - Sichuan Chuanxn IDC, CN
 203.81.236.3     #AS18053   203.81.236.0/24    PK   SNET-AS-AP - Special Communication Organization, PK
@@ -415,7 +418,6 @@
 205.210.31.211   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.225   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.239   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.241   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 209.38.89.246    #AS14061   209.38.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 210.209.125.143  #AS10103   210.209.125.0/24   HK   HKBN-AS-AP - HK Broadband Network Ltd., HK
 210.225.99.123   #AS4713    210.225.0.0/16     JP   OCN - NTT DOCOMO BUSINESS,Inc., JP
