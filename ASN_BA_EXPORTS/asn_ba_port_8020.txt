@@ -2,6 +2,7 @@
 3.83.245.221     #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
+3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.252.83.180     #AS25369   5.252.83.0/24      AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.211.46.83      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.211.165.58     #AS45102   8.211.160.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -10,7 +11,6 @@
 8.216.6.189      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.184      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
-18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 31.14.254.48     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -25,10 +25,10 @@
 47.250.136.213   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.155.102   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.188.105   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.251.77.17     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.101.235   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.37.145    #AS45102   47.254.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.69.213    #AS45102   47.254.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.254.90.18     #AS45102   47.254.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.207.196.234   #AS14618   52.200.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 64.62.156.29     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -40,9 +40,9 @@
 64.62.156.157    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.166    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.195    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.220    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.111      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.114      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.115      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.149      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.157      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.192      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -88,6 +88,7 @@
 91.196.152.13    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 93.123.109.121   #AS48090   93.123.109.0/24    BG   DMZHOST - TECHOFF SRV LIMITED, GB
 94.154.43.36     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
+100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.7     #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.116   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.125   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -98,7 +99,6 @@
 118.194.236.137  #AS135377  118.194.236.0/24   HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 137.184.62.0     #AS14061   137.184.48.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-147.185.132.9    #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.10   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.19   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.73   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -106,7 +106,6 @@
 147.185.132.91   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.108  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.115  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-152.32.235.96    #AS135377  152.32.235.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 156.225.1.99     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
 167.94.145.22    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.29    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
