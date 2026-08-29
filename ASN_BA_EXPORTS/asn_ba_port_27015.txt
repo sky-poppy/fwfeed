@@ -2,9 +2,10 @@
 5.226.140.13     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 14.52.43.11      #AS4766    14.48.0.0/13       KR   KIXS-AS-KR-KR - Korea Telecom, KR
 16.5.0.132       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
+16.5.0.133       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
+16.5.0.254       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 31.14.254.73     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 37.10.113.222    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-39.152.106.126   #AS56044   39.152.104.0/21    CN   CMNET-AS-Liaoning - China Mobile communications corporation, CN
 45.5.118.167     #AS52468   45.5.118.0/24      GT   AS52468 - UFINET PANAMA S.A., PA
 45.133.173.3     #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 45.133.173.51    #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -15,7 +16,6 @@
 46.245.92.86     #AS43754   46.245.92.0/22     IR   ASIATECH - Asiatech Data Transmission company, IR
 47.164.76.54     #AS5650    47.160.0.0/12      US   FRONTIER-FRTR - Frontier Communications of America, Inc., US
 47.236.184.91    #AS45102   47.236.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-49.87.199.210    #AS4134    49.64.0.0/11       CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 58.210.34.74     #AS4134    58.208.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 58.216.241.42    #AS4134    58.208.0.0/12      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 59.125.88.41     #AS3462    59.125.0.0/16      TW   HINET - Data Communication Business Group, TW
@@ -47,8 +47,8 @@
 82.226.128.129   #AS12322   82.226.128.0/19    FR   PROXAD - Free SAS, FR
 83.136.88.226    #AS31027   83.136.88.0/21     DK   GlobalConnect-AS31027 - GlobalConnect A/S, DK
 85.217.149.53    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+88.190.132.168   #AS12322   88.190.128.0/19    FR   PROXAD - Free SAS, FR
 89.21.67.176     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-89.21.67.184     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.107.20.59     #AS15830   89.107.16.0/21     NL   Equinix - Equinix (EMEA) Acquisition Enterprises B.V., NL
 90.231.36.146    #AS3301    90.224.0.0/12      SE   TELIANET-SWEDEN - Telia Company AB, SE
 91.144.187.151   #AS42682   91.144.184.0/22    RU   ERTH-NNOV-AS - JSC _ER-Telecom Holding_, RU
@@ -75,7 +75,6 @@
 116.75.173.166   #AS17488   116.75.168.0/21    IN   HATHWAY-NET-AP - Hathway IP Over Cable Internet, IN
 116.233.133.228  #AS4812    116.233.0.0/16     CN   CHINANET-SH-AP - China Telecom (Group), CN
 117.36.152.44    #AS4134    117.32.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-117.132.0.53     #AS24444   117.132.0.0/24     CN   CMNET-V4shandong-AS-AP - Shandong Mobile Communication Company Limited, CN
 117.176.115.186  #AS9808    117.176.112.0/21   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 119.192.217.177  #AS4766    119.192.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 121.121.139.175  #AS9534    121.121.0.0/16     MY   MAXIS-AS1-AP - Binariang Berhad, MY
@@ -87,6 +86,8 @@
 146.88.241.92    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.95    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.173   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+148.59.174.87    #AS397354  148.59.174.0/24    US   TSWIFI-AS - Wi-Fiber, Inc., US
+151.243.11.11    #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 151.243.11.20    #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 154.16.44.78     #AS25369   154.16.44.0/24     ZA   BANDWIDTH-AS - Hydra Communications Ltd, GB
 160.119.236.81   #AS328137  160.119.236.0/24   ZA   Web Squad Connect (Pty) Ltd - Web Squad Connect (Pty) Ltd, ZA
@@ -94,12 +95,12 @@
 170.79.164.142   #AS52951   170.79.164.0/24    BR   AS52951 - NETFLEX TELECOMUNICACOES LTDA, BR
 172.104.59.199   #AS63949   172.104.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.104.141.137  #AS63949   172.104.128.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+172.105.205.184  #AS63949   172.105.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.208.169.5    #AS32097   173.208.128.0/17   US   WII - WholeSale Internet, Inc., US
 176.65.134.46    #AS51396   176.65.134.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 176.65.148.215   #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 181.225.190.253  #AS272139  181.225.190.0/24   CO   #AS272139 - @ DIGITAL GROUP S.A.S., CO
-183.66.135.22    #AS4134    183.64.0.0/13      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 183.97.188.4     #AS4766    183.96.0.0/13      KR   KIXS-AS-KR-KR - Korea Telecom, KR
 185.94.111.1     #AS51115   185.94.111.0/24    RU   HLL-AS - HLL LLC, RU
 185.203.239.121  #AS8193    185.203.236.0/22   UZ   BRM-AS - _Uzbektelekom_ Joint Stock Company, UZ
@@ -121,4 +122,5 @@
 216.25.89.110    #AS396982  216.25.89.0/24     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.73.107.16    #AS394972  216.73.104.0/22    US   VALLEY-COMMUNICATIONS - Valley Electric Association, US
 218.65.105.118   #AS4134    218.65.0.0/17      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+220.125.196.28   #AS4766    220.120.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 221.229.123.26   #AS4134    221.224.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
