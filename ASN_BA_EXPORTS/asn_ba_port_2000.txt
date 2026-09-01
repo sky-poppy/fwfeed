@@ -1,8 +1,6 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.135.223.15     #AS16509   3.132.0.0/14       US   AMAZON-02 - Amazon.com, Inc., US
 3.142.170.60     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
-3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
-5.61.209.44      #AS206264  5.61.209.0/24      SC   AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
 5.252.83.131     #AS25369   5.252.83.0/24      AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 8.216.7.28       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.238      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -21,6 +19,7 @@
 20.163.16.228    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.81.111    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 27.18.59.216     #AS137266  27.18.0.0/17       CN   CHINATELECOM-HUBEI-WUHAN-5G-NETWORK - CHINATELECOM Hubei province Wuhan 5G network, CN
+34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.203.211.99    #AS396982  35.203.211.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 37.10.113.220    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -38,12 +37,13 @@
 45.205.1.240     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.205.1.241     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.205.1.247     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
+46.247.61.152    #AS215778  46.247.61.0/24     DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 47.77.224.204    #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.84.112.58     #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.89.193.63     #AS45102   47.89.192.0/19     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.236.199.209   #AS45102   47.236.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.87.56     #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.160.72    #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.251.108.216   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.255.46    #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.249.98    #AS45102   47.254.224.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
@@ -62,6 +62,7 @@
 66.132.186.251   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.16    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.24    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
+66.132.224.27    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 69.5.169.17      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.42      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.127     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -159,7 +160,6 @@
 184.105.247.222  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.243  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.2.80.253     #AS49981   185.2.80.0/22      NL   WorldStream - WorldStream B.V., NL
-185.216.145.168  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.242.3.226    #AS60223   185.242.3.0/24     NL   NETIFACE-AS - Netiface Limited, GB
 185.242.226.97   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 185.242.226.103  #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
@@ -168,6 +168,7 @@
 193.46.255.40    #AS47890   193.46.255.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.46.255.250   #AS47890   193.46.255.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.124.20.226   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+193.124.20.251   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.163.125.84   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.142  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.207  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
@@ -185,6 +186,7 @@
 204.76.203.7     #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 204.76.203.43    #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 205.210.31.10    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+205.210.31.241   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.243   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.248   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 211.143.37.66    #AS56047   211.143.37.0/24    CN   CMNET-Hunan-AP - China Mobile communications corporation, CN
