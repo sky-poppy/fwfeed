@@ -3,6 +3,7 @@
 14.116.219.149   #AS135089  14.116.192.0/19    CN   CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
 20.40.233.56     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.73.223     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.146.142    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.192.66     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.83     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.104    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -34,7 +35,6 @@
 37.148.12.86     #AS34369   37.148.12.0/22     IR   AS-SHATELMOBILE - Aria Shatel PJSC, IR
 38.148.20.75     #AS397162  38.148.16.0/21     US   SUMOFIBER-IDAHO - Sumofiber, US
 39.105.202.192   #AS37963   39.104.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.107.104.228   #AS37963   39.106.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 40.119.43.210    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.178.3     #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.179.170   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -47,7 +47,6 @@
 43.226.38.118    #AS134762  43.226.32.0/20     CN   CHINANET-LIAONING-DALIAN-MAN - CHINANET Liaoning province Dalian MAN network, CN
 43.228.157.10    #AS205759  43.228.157.0/24    PK   GHOSTYNETWORKS - Ghosty Networks LLC, US
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
-45.33.105.76     #AS63949   45.33.104.0/21     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.58.147.154    #AS46844   45.58.147.0/24     US   SHARKTECH - Sharktech, US
 45.79.153.72     #AS63949   45.79.128.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.148.10.69     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
@@ -72,7 +71,6 @@
 60.191.137.103   #AS58461   60.191.137.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 61.147.209.31    #AS4134    61.147.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 64.62.156.41     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.154    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.168    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.190    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.201    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -82,6 +80,7 @@
 65.49.1.215      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.106     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.123     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.60.54.138     #AS32475   65.60.0.0/18       US   SINGLEHOP-LLC - Internap Holding LLC, US
 66.132.186.219   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.222   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.239   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -98,8 +97,6 @@
 91.230.168.73    #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.193    #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 93.123.109.121   #AS48090   93.123.109.0/24    BG   DMZHOST - TECHOFF SRV LIMITED, GB
-93.174.95.106    #AS202425  93.174.95.0/24     NL   INT-NETWORK - IP Volume inc, SC
-94.26.248.230    #AS49505   94.26.248.0/24     RU   SELECTEL - JSC Selectel, RU
 95.215.0.144     #AS44050   95.215.0.0/24      RU   PIN-AS - Petersburg Internet Network ltd., RU
 98.88.230.137    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -125,13 +122,13 @@
 117.72.149.106   #AS141679  117.72.144.0/20    CN   CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN
 121.41.76.54     #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 124.225.69.188   #AS4134    124.225.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-135.237.126.6    #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-135.237.127.171  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+139.227.100.119  #AS17621   139.227.0.0/16     CN   CNCGROUP-SH - China Unicom Shanghai network, CN
 140.238.153.39   #AS31898   140.238.128.0/19   US   ORACLE-BMC-31898 - Oracle Corporation, US
 143.42.0.20      #AS63949   143.42.0.0/21      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 143.42.1.34      #AS63949   143.42.0.0/21      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 143.42.164.34    #AS63949   143.42.160.0/20    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 147.139.136.75   #AS45102   147.139.128.0/18   US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+147.139.141.244  #AS45102   147.139.128.0/18   US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 148.216.108.65   #AS11172   148.216.0.0/16     MX   AS11172 - Alestra, S. de R.L. de C.V., MX
 154.92.23.249    #AS138152  154.92.23.0/24     SC   YISUCLOUDLTD-HK - YISU CLOUD LTD, HK
 157.245.220.50   #AS14061   157.245.208.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -176,12 +173,14 @@
 192.155.84.194   #AS63949   192.155.80.0/21    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 194.62.122.254   #AS209874  194.62.122.0/24    RO   TECHTIDE - Tech Tide Portugal Unipessoal LDA, PT
 195.26.249.98    #AS40021   195.26.248.0/21    DE   CONTABO-40021 - Contabo Inc., US
+199.45.154.183   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.185   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 203.25.223.151   #AS139220  203.25.220.0/22    CN   CHINANET-Sichuan-Chuanxi-IDC - Sichuan Chuanxn IDC, CN
 209.99.190.174   #AS402253  209.99.184.0/21    KN   SKN-NETWORK-1 - SKN Subnet & Telecom Ltd, KN
 209.99.191.17    #AS402253  209.99.184.0/21    KN   SKN-NETWORK-1 - SKN Subnet & Telecom Ltd, KN
 213.177.179.73   #AS208137  213.177.179.0/24   IR   FPS12 - Feo Prest SRL, RO
 216.218.206.77   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
+216.218.206.104  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 220.181.1.163    #AS23724   220.181.0.0/19     CN   CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
 220.248.173.137  #AS4837    220.248.160.0/19   CN   CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
 221.130.29.85    #AS56046   221.130.0.0/19     CN   CMNET-Jiangsu-AP - China Mobile communications corporation, CN
