@@ -12,7 +12,6 @@
 192.12.133.0/24 #AS45 LLL-TIS-AS Lawrence Livermore National Laboratory, US
 192.12.134.0/24 #AS45 LLL-TIS-AS Lawrence Livermore National Laboratory, US
 192.188.35.0/24 #AS45 LLL-TIS-AS Lawrence Livermore National Laboratory, US
-12.174.210.0/23 #AS22471 MOTEMARINELAB Mote Marine Laboratory, US
 130.202.0.0/16 #AS683 ARGONNE-AS Argonne National Laboratory, US
 140.221.0.0/18 #AS683 ARGONNE-AS Argonne National Laboratory, US
 140.221.68.0/22 #AS683 ARGONNE-AS Argonne National Laboratory, US
@@ -31,7 +30,7 @@
 192.5.200.0/24 #AS683 ARGONNE-AS Argonne National Laboratory, US
 192.148.94.0/23 #AS683 ARGONNE-AS Argonne National Laboratory, US
 198.252.143.0/24 #AS683 ARGONNE-AS Argonne National Laboratory, US
-188.94.160.0/23 #AS49426 LINTECSAS1-AS LInTeCS ltd (Laboratory of Information Technologies and Computer Systems), RU
+188.94.160.0/22 #AS49426 LINTECSAS1-AS LInTeCS ltd (Laboratory of Information Technologies and Computer Systems), RU
 188.94.166.0/23 #AS49426 LINTECSAS1-AS LInTeCS ltd (Laboratory of Information Technologies and Computer Systems), RU
 128.219.0.0/16 #AS50 ORNL-MSRNET Oak Ridge National Laboratory, US
 160.91.0.0/16 #AS50 ORNL-MSRNET Oak Ridge National Laboratory, US
@@ -81,6 +80,7 @@
 65.209.173.0/24 #AS22502 LABCORP-HOLDINGS Laboratory Corporation of America, US
 208.66.165.0/24 #AS22502 LABCORP-HOLDINGS Laboratory Corporation of America, US
 103.98.60.0/24 #AS136702 PRLCC-AS Physical Research Laboratory, IN
+199.188.184.0/22 #AS14940 LIGO-HANFORD-OBSERVATORY LIGO Livingston Observatory, US
 134.9.0.0/18 #AS44 S1-DOMAIN Lawrence Livermore National Laboratory, US
 134.9.64.0/20 #AS44 S1-DOMAIN Lawrence Livermore National Laboratory, US
 134.9.80.0/21 #AS44 S1-DOMAIN Lawrence Livermore National Laboratory, US
@@ -117,10 +117,10 @@
 62.89.214.0/24 #AS200123 KGILC-AS Kola Geological Information Laboratory Centre OJSC, RU
 93.170.9.0/24 #AS200123 KGILC-AS Kola Geological Information Laboratory Centre OJSC, RU
 196.3.151.0/24 #AS11157 ELAB Electronic laboratory Services Pty Ltd, ZA
-192.33.19.0/24 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Renewable Energy Laboratory, US
-192.48.125.0/24 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Renewable Energy Laboratory, US
-192.88.248.0/23 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Renewable Energy Laboratory, US
-192.174.32.0/19 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Renewable Energy Laboratory, US
+192.33.19.0/24 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Laboratory of the Rockies, US
+192.48.125.0/24 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Laboratory of the Rockies, US
+192.88.248.0/23 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Laboratory of the Rockies, US
+192.174.32.0/19 #AS16411 NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY National Laboratory of the Rockies, US
 128.165.0.0/16 #AS68 LANL-NM Los Alamos National Laboratory, US
 130.55.0.0/16 #AS68 LANL-NM Los Alamos National Laboratory, US
 138.98.0.0/16 #AS68 LANL-NM Los Alamos National Laboratory, US
@@ -178,33 +178,33 @@
 192.153.161.0/24 #AS43 BNL-AS Brookhaven National Laboratory, US
 192.203.218.0/24 #AS43 BNL-AS Brookhaven National Laboratory, US
 133.40.0.0/16 #AS63777 STARCLUSTER National Institutes of Natural Sciences National Astronomical Observatory of JAPAN, JP
-43.249.241.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-43.251.187.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-45.124.60.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-45.124.62.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-64.145.0.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-64.145.3.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-67.102.181.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.5.248.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.7.116.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.10.36.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.11.239.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.12.53.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.12.54.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.13.18.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.24.160.0/23 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.24.162.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.244.209.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.244.210.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.244.220.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-103.244.223.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-155.229.0.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-155.229.241.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-207.145.6.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-207.145.9.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-207.145.48.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-216.254.2.0/23 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
-216.254.92.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory, JP
+43.249.241.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+43.251.187.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+45.124.60.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+45.124.62.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+64.145.0.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+64.145.3.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+67.102.181.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.5.248.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.7.116.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.10.36.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.11.239.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.12.53.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.12.54.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.13.18.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.24.160.0/23 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.24.162.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.244.209.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.244.210.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.244.220.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+103.244.223.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+155.229.0.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+155.229.241.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+207.145.6.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+207.145.9.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+207.145.48.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+216.254.2.0/23 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
+216.254.92.0/24 #AS142622 DIL-AS-AP Dream Information Laboratory LLC, JP
 147.155.0.0/16 #AS2640 AMESLAB-AS Ames Laboratory, US
 62.76.38.0/23 #AS9157 SAO-RAS Federal State Budget Institution The Special Astrophysical Observatory of Russia's Academy of Sciences, RU
 194.85.27.0/24 #AS9157 SAO-RAS Federal State Budget Institution The Special Astrophysical Observatory of Russia's Academy of Sciences, RU
