@@ -7,6 +7,7 @@
 8.211.33.96      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.211.45.42      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.3.1        #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.216.13.106     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 13.89.126.16     #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 14.5.245.64      #AS17858   14.4.0.0/15        KR   POWERVIS-AS-KR-KR - LG POWERCOMM, KR
 14.39.249.195    #AS4766    14.32.0.0/13       KR   KIXS-AS-KR-KR - Korea Telecom, KR
@@ -22,7 +23,6 @@
 20.42.86.51      #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.51.212.207    #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.22.174     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.64.105.6      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.64.105.47     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.138.21     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.146.81     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -59,6 +59,7 @@
 47.237.71.72     #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.131.47    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.119.138   #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.250.120.24    #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.185.143   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.51.133    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.162.176   #AS45102   47.251.128.0/17    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -82,6 +83,7 @@
 69.5.169.240     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.229     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 74.82.47.26      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
+74.82.47.28      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.235.188.17    #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 77.239.124.102   #AS198364  77.239.124.0/24    US   BANATSYNC-SRL - BANATSYNC SRL, RO
 77.239.124.129   #AS198364  77.239.124.0/24    US   BANATSYNC-SRL - BANATSYNC SRL, RO
@@ -98,7 +100,6 @@
 85.217.140.29    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.34    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.40    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
-85.217.140.43    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.48    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.51    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.43    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -127,10 +128,10 @@
 118.193.65.209   #AS135377  118.193.65.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 119.207.54.112   #AS4766    119.200.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 121.128.111.71   #AS4766    121.128.0.0/13     KR   KIXS-AS-KR-KR - Korea Telecom, KR
+123.16.178.214   #AS45899   123.16.176.0/20    VN   VNPT-AS-VN - VNPT Corp, VN
 128.28.71.161    #AS2514    128.28.64.0/20     JP   InfoSphere - NTT PC Communications, Inc., JP
 134.33.66.243    #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.222.208.157  #AS8075    135.222.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-135.237.124.96   #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.237.125.206  #AS8075    135.236.0.0/15     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 137.184.128.230  #AS14061   137.184.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 137.184.237.97   #AS14061   137.184.224.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -198,4 +199,3 @@
 216.218.206.114  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 217.156.122.139  #AS48753   217.156.122.0/24   RO   AVAHOHST - AVA HOST SRL, MD
 222.219.139.11   #AS4134    222.219.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-223.123.73.238   #AS59257   223.123.73.0/24    PK   CMPAKLIMITED-AS-AP - CMPak Limited, PK
