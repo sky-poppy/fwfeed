@@ -3,6 +3,7 @@
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 20.40.220.103    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.217.120    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.80.74.24      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.88.167     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.106.19.155    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.208.65    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -13,7 +14,6 @@
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 45.79.152.14     #AS63949   45.79.128.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-45.82.76.129     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
 45.148.10.69     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
 45.156.128.57    #AS211680  45.156.128.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.156.128.131   #AS211680  45.156.128.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
@@ -23,6 +23,7 @@
 46.247.61.28     #AS215778  46.247.61.0/24     DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 64.62.156.18     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.27     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.92     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.96     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.106    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -34,12 +35,12 @@
 64.62.156.217    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.14     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.15     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.20     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.36     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.46     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.80     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.84     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.103    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.131    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.142    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.145    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.161    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -47,7 +48,6 @@
 64.62.197.170    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.172    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.231    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.239    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.59       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.71       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.72       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -57,7 +57,6 @@
 65.49.1.129      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.164      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.192      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.235      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.78      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.108     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.113     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -70,7 +69,7 @@
 79.124.49.70     #AS50360   79.124.49.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.90     #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.246    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+79.124.59.186    #AS50360   79.124.59.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 85.217.140.10    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.16    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.23    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -86,6 +85,7 @@
 85.217.149.47    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.49    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.59    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.72    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 89.248.165.203   #AS202425  89.248.165.0/24    NL   INT-NETWORK - IP Volume inc, SC
@@ -103,7 +103,7 @@
 146.88.240.56    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.57    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.58    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.240.138   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.240.59    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.144   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.147   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.148   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -112,7 +112,6 @@
 146.88.240.181   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.182   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.186   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.240.235   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 147.185.132.171  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 150.107.36.82    #AS135377  150.107.36.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 152.32.180.98    #AS135377  152.32.180.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
@@ -124,7 +123,6 @@
 172.110.223.179  #AS23470   172.110.223.0/24   HK   RELIABLESITE - ReliableSite.Net LLC, US
 172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 184.105.139.96   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
-184.105.247.220  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.247  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.251  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.93.89.79     #AS213790  185.93.89.0/24     IR   LimitedNetwork-AS - Limited Network LTD, GB
