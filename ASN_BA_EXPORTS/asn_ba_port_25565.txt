@@ -1,8 +1,10 @@
 13.86.105.235    #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 16.5.0.133       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
+16.5.0.239       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 16.5.0.242       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 16.5.0.244       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 16.5.0.245       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
+16.5.0.254       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 20.64.105.193    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.193.170    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.219.37     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -17,10 +19,8 @@
 40.124.170.164   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.170.184   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.179.133   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-41.216.189.157   #AS211138  41.216.189.0/24    ZA   PRIVATEHOSTING-NET - Private-Hosting di Cipriano oscar, IT
 45.79.218.200    #AS63949   45.79.192.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.82.76.133     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
-45.92.1.30       #AS210558  45.92.1.0/24       NL   services-1337-gmbh - 1337 Services GmbH, DE
 45.154.98.128    #AS210558  45.154.98.0/24     BE   services-1337-gmbh - 1337 Services GmbH, DE
 45.156.128.62    #AS211680  45.156.128.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.156.128.73    #AS211680  45.156.128.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
@@ -45,6 +45,7 @@
 69.5.169.114     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.124     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.146     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+71.6.165.200     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 77.90.185.207    #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 79.124.58.198    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 85.217.140.28    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -58,6 +59,7 @@
 106.75.176.32    #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 109.226.212.161  #AS31257   109.226.212.0/22   RU   ORIONNET-KRK - Orion Telecom LLC, RU
 115.231.78.10    #AS58461   115.231.78.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
+135.119.92.229   #AS8075    135.119.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 147.79.21.59     #AS216147  147.79.21.0/24     US   FreshPerf - Association FreshPerf, FR
 151.240.53.42    #AS137409  151.240.53.0/24    AE   GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU
 151.240.65.160   #AS137409  151.240.65.0/24    AE   GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU
@@ -88,13 +90,13 @@
 195.206.182.201  #AS25369   195.206.180.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 197.227.106.79   #AS23889   197.227.96.0/20    MU   Mauritius Telecom Ltd - Mauritius Telecom Ltd, MU
 198.235.24.203   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.224   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.245   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.181   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.183   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.187   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 204.76.203.4     #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 204.76.203.7     #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
+205.210.31.57    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.69    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.93    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.99    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
