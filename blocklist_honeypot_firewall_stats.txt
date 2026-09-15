@@ -2,165 +2,165 @@ STATISTICS OF INTERNET HONEYPOT - LAST 14 DAYS
 
 UNIQUE SOURCE IP ACTIVITY
 
-Total requests:          611460
-Unique source IPs:       37355
-Average requests per IP: 16.37
+Total requests:          611596
+Unique source IPs:       37427
+Average requests per IP: 16.34
 
 
 TOP 150 PORTS REQUESTED - TCP, UDP, ICMP 0
 
 PORT  REQUEST %   REQUESTS   UNIQUE IP#  IP + ASN REPORT LINK
 ----- --------- ---------- ------------  --------------------
-53       63.72%     389614        10131  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_53.txt
-22        2.27%      13880         3688  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_22.txt
-23        1.99%      12195         4028  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_23.txt
-3389      0.58%       3558          939  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3389.txt
-443       0.47%       2878          965  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_443.txt
-80        0.38%       2297          871  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_80.txt
-8080      0.27%       1671          615  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8080.txt
-68        0.26%       1578           36  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_68.txt
-5900      0.24%       1464          296  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5900.txt
-5060      0.22%       1365          373  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5060.txt
-25        0.22%       1333          244  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_25.txt
-8081      0.17%       1057          546  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8081.txt
-445       0.14%        870          459  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_445.txt
-8443      0.13%        780          441  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8443.txt
-5000      0.12%        719          446  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5000.txt
-2222      0.12%        717          301  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2222.txt
-161       0.12%        712          254  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_161.txt
-5122      0.11%        676           75  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5122.txt
-123       0.09%        576          316  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_123.txt
-8082      0.09%        576          360  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8082.txt
-5001      0.09%        564          358  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5001.txt
-9443      0.09%        561          253  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9443.txt
-3306      0.09%        539          282  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3306.txt
-8888      0.08%        510          302  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8888.txt
-1433      0.08%        506          422  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1433.txt
-6379      0.08%        502          265  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6379.txt
-8000      0.08%        502          309  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8000.txt
-9200      0.08%        465          293  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9200.txt
-3000      0.07%        447          253  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3000.txt
-21        0.07%        446          289  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_21.txt
-1900      0.07%        433          219  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1900.txt
-27017     0.07%        418          247  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_27017.txt
-88        0.06%        393          234  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_88.txt
-10001     0.06%        392          308  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10001.txt
-389       0.06%        387          223  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_389.txt
-5432      0.06%        386          219  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5432.txt
-0         0.06%        385          156  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_0.txt
-1080      0.06%        381          163  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1080.txt
-8085      0.06%        375          241  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8085.txt
-3390      0.06%        372          135  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3390.txt
-8083      0.06%        368          248  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8083.txt
-81        0.06%        361          224  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_81.txt
-3128      0.06%        360          167  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3128.txt
-9000      0.06%        349          259  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9000.txt
-500       0.06%        339          255  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_500.txt
-2375      0.05%        334          178  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2375.txt
-9999      0.05%        334          215  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9999.txt
-5985      0.05%        333          176  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5985.txt
-5555      0.05%        319          213  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5555.txt
-1723      0.05%        315          163  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1723.txt
-1194      0.05%        312          212  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1194.txt
-8088      0.05%        308          239  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8088.txt
-143       0.05%        294          211  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_143.txt
-8084      0.05%        292          212  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8084.txt
-111       0.05%        288          173  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_111.txt
-11211     0.05%        288          188  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_11211.txt
-3702      0.05%        283          104  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3702.txt
-10443     0.05%        276          193  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10443.txt
-5683      0.05%        276          124  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5683.txt
-110       0.04%        267          188  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_110.txt
-17000     0.04%        260           37  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_17000.txt
-137       0.04%        259          172  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_137.txt
-8090      0.04%        258          207  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8090.txt
-5353      0.04%        246          183  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5353.txt
-83        0.04%        245          146  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_83.txt
-4433      0.04%        243          169  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4433.txt
-1434      0.04%        240          151  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1434.txt
-82        0.04%        239          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_82.txt
-25565     0.04%        237           98  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_25565.txt
-2087      0.04%        232          184  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2087.txt
-7547      0.04%        231          175  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7547.txt
-2000      0.04%        229          194  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2000.txt
-8001      0.04%        222          188  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8001.txt
-9001      0.04%        222          149  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9001.txt
-10000     0.04%        221          178  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10000.txt
-139       0.04%        219          165  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_139.txt
-4443      0.04%        218          165  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4443.txt
-19        0.04%        217           92  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_19.txt
-4444      0.04%        217          165  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4444.txt
-5901      0.04%        215          130  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5901.txt
-27015     0.03%        213          117  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_27015.txt
-7777      0.03%        209          187  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7777.txt
-4145      0.03%        208           28  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4145.txt
-4000      0.03%        202          152  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4000.txt
-554       0.03%        201          140  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_554.txt
-85        0.03%        201          103  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_85.txt
-993       0.03%        201          176  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_993.txt
-3283      0.03%        200           90  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3283.txt
-587       0.03%        200          153  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_587.txt
-8880      0.03%        198          159  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8880.txt
-3478      0.03%        195          108  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3478.txt
-2083      0.03%        194          172  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2083.txt
-22222     0.03%        194           66  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_22222.txt
-3001      0.03%        194          109  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3001.txt
+53       63.69%     389537        10132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_53.txt
+22        2.29%      13998         3716  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_22.txt
+23        2.04%      12471         3998  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_23.txt
+3389      0.59%       3629          952  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3389.txt
+443       0.47%       2882          959  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_443.txt
+80        0.37%       2278          863  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_80.txt
+8080      0.27%       1660          615  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8080.txt
+68        0.26%       1579           36  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_68.txt
+5900      0.24%       1479          299  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5900.txt
+25        0.24%       1439          245  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_25.txt
+5060      0.22%       1367          366  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5060.txt
+8081      0.18%       1071          559  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8081.txt
+445       0.15%        899          461  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_445.txt
+8443      0.13%        782          442  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8443.txt
+5000      0.12%        727          453  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5000.txt
+161       0.11%        702          255  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_161.txt
+5122      0.11%        693           74  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5122.txt
+2222      0.11%        691          290  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2222.txt
+8082      0.09%        580          363  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8082.txt
+5001      0.09%        567          362  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5001.txt
+123       0.09%        566          315  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_123.txt
+9443      0.09%        562          256  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9443.txt
+3306      0.09%        541          284  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3306.txt
+8888      0.08%        507          303  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8888.txt
+1433      0.08%        506          426  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1433.txt
+6379      0.08%        505          270  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6379.txt
+8000      0.08%        496          306  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8000.txt
+9200      0.08%        467          296  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9200.txt
+3000      0.07%        453          257  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3000.txt
+21        0.07%        447          291  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_21.txt
+27017     0.07%        419          251  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_27017.txt
+5432      0.06%        393          223  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5432.txt
+88        0.06%        388          233  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_88.txt
+1900      0.06%        387          212  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1900.txt
+0         0.06%        385          155  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_0.txt
+389       0.06%        385          222  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_389.txt
+8085      0.06%        382          244  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8085.txt
+10001     0.06%        380          305  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10001.txt
+1080      0.06%        375          159  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1080.txt
+3390      0.06%        374          137  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3390.txt
+8083      0.06%        364          249  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8083.txt
+3128      0.06%        363          167  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3128.txt
+81        0.06%        360          224  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_81.txt
+9000      0.06%        345          257  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9000.txt
+500       0.06%        340          259  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_500.txt
+2375      0.06%        338          180  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2375.txt
+9999      0.05%        335          216  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9999.txt
+5985      0.05%        333          175  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5985.txt
+1723      0.05%        322          169  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1723.txt
+5555      0.05%        317          213  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5555.txt
+8088      0.05%        312          243  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8088.txt
+1194      0.05%        310          213  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1194.txt
+143       0.05%        299          216  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_143.txt
+8084      0.05%        293          214  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8084.txt
+11211     0.05%        288          190  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_11211.txt
+111       0.05%        286          172  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_111.txt
+10443     0.05%        285          197  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10443.txt
+3702      0.05%        276          103  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3702.txt
+17000     0.04%        272           37  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_17000.txt
+5683      0.04%        272          124  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5683.txt
+110       0.04%        268          190  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_110.txt
+8090      0.04%        258          211  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8090.txt
+137       0.04%        256          172  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_137.txt
+83        0.04%        246          147  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_83.txt
+5353      0.04%        244          182  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5353.txt
+1434      0.04%        241          152  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1434.txt
+4433      0.04%        238          165  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4433.txt
+82        0.04%        238          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_82.txt
+2087      0.04%        232          182  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2087.txt
+25565     0.04%        230           94  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_25565.txt
+7547      0.04%        229          175  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7547.txt
+2000      0.04%        228          196  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2000.txt
+9001      0.04%        221          153  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9001.txt
+10000     0.04%        219          175  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_10000.txt
+4444      0.04%        219          165  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4444.txt
+8001      0.04%        219          184  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8001.txt
+139       0.04%        218          168  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_139.txt
+4443      0.04%        217          161  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4443.txt
+27015     0.04%        216          120  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_27015.txt
+19        0.04%        215           92  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_19.txt
+5901      0.03%        212          129  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5901.txt
+4145      0.03%        207           29  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4145.txt
+7777      0.03%        207          185  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7777.txt
+4000      0.03%        203          154  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4000.txt
+554       0.03%        202          141  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_554.txt
+587       0.03%        200          155  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_587.txt
+993       0.03%        199          175  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_993.txt
+3283      0.03%        197           90  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3283.txt
+22222     0.03%        195           68  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_22222.txt
 465       0.03%        194          160  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_465.txt
-7001      0.03%        193          171  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7001.txt
-8008      0.03%        193          169  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8008.txt
-888       0.03%        192          123  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_888.txt
-995       0.03%        190          149  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_995.txt
-9080      0.03%        187          147  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9080.txt
-427       0.03%        186          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_427.txt
-8020      0.03%        185          153  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8020.txt
-7443      0.03%        183          147  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7443.txt
-135       0.03%        182          129  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_135.txt
-2082      0.03%        182          159  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2082.txt
-6881      0.03%        182          141  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6881.txt
-7000      0.03%        182          153  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7000.txt
-20000     0.03%        181          146  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_20000.txt
-5021      0.03%        181           31  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5021.txt
-6443      0.03%        181          156  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6443.txt
-6001      0.03%        180          145  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6001.txt
-6000      0.03%        178          145  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6000.txt
-990       0.03%        176          128  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_990.txt
-636       0.03%        175          130  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_636.txt
-9090      0.03%        173          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9090.txt
-2096      0.03%        172          155  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2096.txt
-102       0.03%        170          141  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_102.txt
-5986      0.03%        170          139  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5986.txt
-20256     0.03%        169          159  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_20256.txt
-2086      0.03%        168          148  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2086.txt
-8181      0.03%        165          128  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8181.txt
-1883      0.03%        164          113  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1883.txt
-44818     0.03%        162          138  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_44818.txt
-5061      0.03%        162          116  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5061.txt
-8089      0.03%        161          130  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8089.txt
-60001     0.03%        160           47  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_60001.txt
-6021      0.03%        159           58  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6021.txt
-84        0.03%        159           65  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_84.txt
-5984      0.03%        158          124  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5984.txt
-6502      0.03%        158           34  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6502.txt
-6080      0.03%        157           88  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6080.txt
-6002      0.03%        156          137  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6002.txt
-9002      0.03%        153          116  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9002.txt
-6036      0.02%        151           50  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6036.txt
+8880      0.03%        194          156  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8880.txt
+3001      0.03%        193          110  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3001.txt
+8008      0.03%        193          172  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8008.txt
+85        0.03%        193           99  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_85.txt
+2083      0.03%        192          171  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2083.txt
+888       0.03%        191          125  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_888.txt
+7001      0.03%        190          168  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7001.txt
+995       0.03%        190          150  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_995.txt
+3478      0.03%        189          107  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3478.txt
+427       0.03%        186          134  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_427.txt
+7443      0.03%        186          148  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7443.txt
+8020      0.03%        183          154  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8020.txt
+7000      0.03%        182          152  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_7000.txt
+6001      0.03%        181          145  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6001.txt
+6443      0.03%        181          155  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6443.txt
+6881      0.03%        181          141  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6881.txt
+2082      0.03%        180          158  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2082.txt
+5021      0.03%        180           31  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5021.txt
+6000      0.03%        179          147  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6000.txt
+990       0.03%        177          126  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_990.txt
+20000     0.03%        176          146  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_20000.txt
+636       0.03%        175          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_636.txt
+9080      0.03%        175          142  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9080.txt
+135       0.03%        174          125  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_135.txt
+2096      0.03%        174          155  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2096.txt
+20256     0.03%        172          162  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_20256.txt
+9090      0.03%        172          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9090.txt
+5986      0.03%        171          142  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5986.txt
+2086      0.03%        170          149  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2086.txt
+8181      0.03%        167          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8181.txt
+1883      0.03%        165          115  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1883.txt
+102       0.03%        163          135  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_102.txt
+60001     0.03%        162           47  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_60001.txt
+6502      0.03%        161           36  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6502.txt
+44818     0.03%        159          137  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_44818.txt
+6021      0.03%        159           57  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6021.txt
+8089      0.03%        159          129  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8089.txt
+6002      0.03%        157          136  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6002.txt
+6080      0.03%        156           87  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_6080.txt
+5984      0.03%        155          121  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5984.txt
+84        0.03%        155           63  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_84.txt
+5061      0.03%        154          114  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5061.txt
+9002      0.02%        152          117  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9002.txt
 8883      0.02%        151          105  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8883.txt
-50000     0.02%        150          130  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_50000.txt
-5351      0.02%        149          123  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5351.txt
-60000     0.02%        149          121  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_60000.txt
-5902      0.02%        146          108  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5902.txt
-1521      0.02%        145          128  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1521.txt
+50000     0.02%        149          130  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_50000.txt
+60000     0.02%        148          119  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_60000.txt
+1521      0.02%        147          129  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1521.txt
+444       0.02%        146          122  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_444.txt
 2323      0.02%        145          124  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2323.txt
-444       0.02%        145          122  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_444.txt
-502       0.02%        144          119  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_502.txt
-5678      0.02%        143           73  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5678.txt
-8010      0.02%        143          123  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8010.txt
+5678      0.02%        145           73  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5678.txt
+5902      0.02%        145          107  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5902.txt
+502       0.02%        144          120  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_502.txt
+5351      0.02%        143          120  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_5351.txt
+8010      0.02%        143          126  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8010.txt
 8899      0.02%        142          111  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_8899.txt
-90        0.02%        141           66  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_90.txt
-9100      0.02%        141          116  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_9100.txt
-2095      0.02%        140          129  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2095.txt
-1701      0.02%        139          113  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_1701.txt
+2095      0.02%        140          132  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_2095.txt
+4500      0.02%        138          103  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4500.txt
+4567      0.02%        138          111  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_4567.txt
+90        0.02%        138           65  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_90.txt
+3333      0.02%        137          109  https://github.com/sky-poppy/fwfeed/blob/main/ASN_BA_EXPORTS/asn_ba_port_3333.txt
 
 
 TIME OF DAY ACTIVITY - NZT +1200
@@ -170,27 +170,27 @@ HOUR    REQUEST %      REQUESTS    UNIQUE IPS
 00:00       6.33%         38723          9814
 01:00       6.37%         38961          9871
 02:00       6.34%         38751          9960
-03:00       6.24%         38127          9891
+03:00       6.23%         38127          9891
 04:00       6.23%         38089          9959
 05:00       6.48%         39623          9716
 06:00       6.31%         38610          9935
 07:00       6.26%         38300          9908
 08:00       6.24%         38156         10139
 09:00       6.15%         37618          9884
-10:00       6.25%         38186         10100
-11:00       6.46%         39521         10178
-12:00       2.39%         14614          5462
-13:00       1.69%         10304          4086
-14:00       1.79%         10939          4232
-15:00       1.63%          9977          4011
-16:00       1.67%         10223          4332
-17:00       1.70%         10368          4184
-18:00       1.70%         10378          4104
-19:00       1.73%         10560          4214
-20:00       1.67%         10227          4032
-21:00       1.52%          9318          3687
-22:00       1.55%          9467          3872
-23:00       5.30%         32420          9122
+10:00       6.24%         38186         10100
+11:00       6.46%         39492         10176
+12:00       2.39%         14601          5459
+13:00       1.68%         10254          4059
+14:00       1.77%         10854          4196
+15:00       1.65%         10064          4041
+16:00       1.69%         10331          4363
+17:00       1.70%         10384          4182
+18:00       1.71%         10472          4079
+19:00       1.75%         10701          4219
+20:00       1.63%          9955          4026
+21:00       1.52%          9290          3671
+22:00       1.56%          9567          3847
+23:00       5.31%         32487          9131
 
 
 HONEYPOT STATS KEYWORD DEFINITION
@@ -199,65 +199,65 @@ New = IP does not exist in honeypot dataset when event logged. Quantity of uniqu
 Predicted = IP does not exist in honeypot dataset when event logged, but the IP logged is related to an existing CIDR /24 that has a high IP count in the dataset.
 
 HONEYPOT STATS, UNIQUE IP COUNT
-Bad actor IP count all: 271510
-Bad actor IP count last 90 days: 114126 (use blocklist_honeypot_ip4_aged_less_than_90days.txt)
+Bad actor IP count all: 271965
+Bad actor IP count last 90 days: 114312 (use blocklist_honeypot_ip4_aged_less_than_90days.txt)
 
 HONEYPOT STATS, LAST 24 HOURS
-Repeating Honeypot IP: 4976
-New IP: 1419 (IP count related to a predictive blocklist /24 CIDR: 517)
+Repeating Honeypot IP: 3899
+New IP: 1017 (IP count related to a predictive blocklist /24 CIDR: 377)
 
 HONEYPOT STATS, LAST 14 DAYS
-Repeating Honeypot IP: 25775
-New IP: 22908 (IP count related to a predictive blocklist /24 CIDR: 14439)
+Repeating Honeypot IP: 25568
+New IP: 22358 (IP count related to a predictive blocklist /24 CIDR: 14242)
 
 HONEYPOT STATS, % NEW AND REPEATING IP OVER TIME
 This is a measurement of what activity level is found across the dataset over time as the honeypot dataset grows.
 We measure this by the last time a /24 CIDR within the honeypot dataset was updated with a new unique IP or repeat vistors matched the /24 CIDR.
 
 NEW IP % ADDED TO HONEYPOT:
-<= 24 hrs: 0.656%
-25-48 hrs: 0.581%
-Day 2-3: 0.475%
-Day 3-4: 0.537%
-Day 4-5: 0.657%
-Day 5-6: 0.549%
-Day 6-7: 0.549%
-Day 7-8: 0.418%
-8-14 days: 3.692%
-15-30 days: 8.493%
-31-60 days: 12.174%
-61-90 days: 9.493%
-91 days and older: 61.726%
+<= 24 hrs: 0.687%
+25-48 hrs: 0.592%
+Day 2-3: 0.500%
+Day 3-4: 0.481%
+Day 4-5: 0.588%
+Day 5-6: 0.621%
+Day 6-7: 0.546%
+Day 7-8: 0.406%
+8-14 days: 3.661%
+15-30 days: 8.455%
+31-60 days: 12.228%
+61-90 days: 9.465%
+91 days and older: 61.770%
 
 REPEATING IP % AGAINST HONEYPOT:
-<= 24 hrs: 5.319%
-25-48 hrs: 2.796%
-Day 2-3: 2.189%
-Day 3-4: 2.035%
-Day 4-5: 1.835%
-Day 5-6: 1.563%
-Day 6-7: 1.371%
-Day 7-8: 0.928%
-8-14 days: 7.480%
-15-30 days: 18.150%
-31-60 days: 18.862%
-61-90 days: 15.790%
-91 days and older: 21.682%
+<= 24 hrs: 5.467%
+25-48 hrs: 2.884%
+Day 2-3: 2.063%
+Day 3-4: 2.067%
+Day 4-5: 1.807%
+Day 5-6: 1.551%
+Day 6-7: 1.421%
+Day 7-8: 0.873%
+8-14 days: 7.485%
+15-30 days: 17.866%
+31-60 days: 18.772%
+61-90 days: 15.864%
+91 days and older: 21.879%
 
 
 NEW IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  44.530%   56.006%  isp
-  42.604%   27.152%  hosting
-  14.484%   17.439%  business
-   1.310%    0.592%  business_subcat_net_or_isp
-   0.847%    0.224%  education_research
-   0.539%    0.140%  education_research_subcat_institute
-   0.000%    0.118%  business_subcat_fin
-   0.231%    0.083%  government_admin
-   0.154%    0.053%  education_research_subcat_university
-   0.000%    0.018%  uncategorized
+  43.619%   55.754%  isp
+  44.470%   27.559%  hosting
+  13.046%   17.272%  business
+   1.305%    0.603%  business_subcat_net_or_isp
+   0.794%    0.232%  education_research
+   0.454%    0.142%  education_research_subcat_institute
+   0.000%    0.116%  business_subcat_fin
+   0.227%    0.086%  government_admin
+   0.113%    0.052%  education_research_subcat_university
+   0.000%    0.017%  uncategorized
    0.000%    0.009%  government_admin_subcat_infra
    0.000%    0.004%  government_admin_subcat_mil
    0.000%    0.000%  education_research_subcat_science
@@ -266,14 +266,14 @@ NEW IPs
 REPEATING IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-  74.426%   47.770%  hosting
-   9.473%   32.811%  isp
-  16.255%   19.353%  business
-   1.269%    1.066%  business_subcat_net_or_isp
-   0.831%    0.883%  education_research
-   0.613%    0.763%  education_research_subcat_institute
-   0.175%    0.066%  education_research_subcat_university
-   0.044%    0.058%  business_subcat_fin
+  75.209%   47.932%  hosting
+   9.497%   32.688%  isp
+  15.311%   19.291%  business
+   1.152%    1.064%  business_subcat_net_or_isp
+   0.978%    0.925%  education_research
+   0.716%    0.790%  education_research_subcat_institute
+   0.175%    0.069%  education_research_subcat_university
+   0.035%    0.058%  business_subcat_fin
    0.000%    0.019%  government_admin
    0.000%    0.004%  uncategorized
    0.000%    0.000%  education_research_subcat_science
@@ -283,19 +283,19 @@ REPEATING IPs
 
 ALL DATASET IPs  
 ------------------------------------------------
-   0.000%  business
-   0.000%  business_subcat_fin
-   0.000%  business_subcat_net_or_isp
-   0.000%  education_research
-   0.000%  education_research_subcat_institute
-   0.000%  education_research_subcat_science
-   0.000%  education_research_subcat_university
-   0.000%  government_admin
-   0.000%  government_admin_subcat_infra
-   0.000%  government_admin_subcat_mil
-   0.000%  hosting
-   0.000%  isp
-   0.000%  uncategorized
+  44.377%  hosting
+  44.256%  isp
+  10.961%  business
+   1.040%  business_subcat_net_or_isp
+   0.771%  government_admin
+   0.735%  education_research
+   0.585%  government_admin_subcat_mil
+   0.315%  education_research_subcat_institute
+   0.261%  education_research_subcat_university
+   0.047%  business_subcat_fin
+   0.031%  uncategorized
+   0.008%  education_research_subcat_science
+   0.007%  government_admin_subcat_infra
 
 See AS category files here https://github.com/sky-poppy/fwfeed/tree/main/ASN_CAT_EXPORTS
 
@@ -322,42 +322,42 @@ You might choose to use a more aggressive firewall policy using predictive block
 100 OR MORE IPs EXIST PER /24 CIDR: 85
 LIST RATED: CONSERVATIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 13
-Last 14 days 9900
+Last 24 hrs 6
+Last 14 days 9889
 
 50 OR MORE IPs EXIST PER /24 CIDR: 150
 LIST RATED: TOLERANT
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 22
-Last 14 days 173
+Last 24 hrs 17
+Last 14 days 171
 
-25 OR MORE IPs EXIST PER /24 CIDR: 313
+25 OR MORE IPs EXIST PER /24 CIDR: 314
 LIST RATED: AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 30
-Last 14 days 282
+Last 24 hrs 16
+Last 14 days 267
 
-5 OR MORE IPs EXIST PER /24 CIDR: 1331
+5 OR MORE IPs EXIST PER /24 CIDR: 2028
 LIST RATED: EXTREMELY AGGRESSIVE
 Preventitive qty of new bad actor IPs matching this predictive IP abuse list:
-Last 24 hrs 111
-Last 14 days 1187
+Last 24 hrs 74
+Last 14 days 1128
 
 
 HOSTED VPS IP COUNT, WHITELIST YOUR OWN VPS SERVICE IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using hosted compute services, Azure, AWS, others.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 330
-Last 14 days 2813
+Last 24 hrs 257
+Last 14 days 2715
 
 
 HOSTED VPN IP COUNT, WHITELIST YOUR OWN VPN SERVICE PROVIDER IF ONE USED
 LIST RATED: AGGRESSIVE
 Bad actors using a VPN service.
 Preventitive qty of new bad actor IPs matching this list:
-Last 24 hrs 11
-Last 14 days 95
+Last 24 hrs 7
+Last 14 days 82
 
 
 HONEYPOT DATASET LAST 90 DAYS ACTIVE IPs - OVERLAP COUNT FOR EXTERNAL BLOCKLISTS
@@ -376,34 +376,34 @@ Many of these lists are sandwiched with the IP ingredients from other lists to t
 The re-use of IP information across various blocklists is not providing good protection, the amount of energy spend on reporting and tracking for existing lists
 appears to exceeds the energy used to collect new bad actor IP information based on honeypot dataset results.
 
-HONEYPOT COUNT LAST 90 DAYS UNIQUE IPs: 114126
-Honeypot has 6531 IPs that overlap in Firehol 1 blocklist 39629875 IPs. - https://iplists.firehol.org/?ipset=firehol_level1
-Honeypot has 4871 IPs that overlap in Firehol 2 blocklist 33503 IPs. - https://iplists.firehol.org/?ipset=firehol_level2
-Honeypot has 11826 IPs that overlap in Firehol 3 blocklist 35993 IPs. - https://iplists.firehol.org/?ipset=firehol_level3
-Honeypot has 14725 IPs that overlap in Firehol 4 blocklist 9270027 IPs. - https://iplists.firehol.org/?ipset=firehol_level4
-Honeypot has 6643 IPs that overlap in CinesArmy Badguys blocklist 15000 IPs. - https://cinsarmy.com/collective-intelligence-network-security
-Honeypot has 1069 IPs that overlap in Blocklist.de all blocklist 23575 IPs. - https://www.blocklist.de/en/index.html
+HONEYPOT COUNT LAST 90 DAYS UNIQUE IPs: 114312
+Honeypot has 6530 IPs that overlap in Firehol 1 blocklist 39629875 IPs. - https://iplists.firehol.org/?ipset=firehol_level1
+Honeypot has 4890 IPs that overlap in Firehol 2 blocklist 33503 IPs. - https://iplists.firehol.org/?ipset=firehol_level2
+Honeypot has 11993 IPs that overlap in Firehol 3 blocklist 35993 IPs. - https://iplists.firehol.org/?ipset=firehol_level3
+Honeypot has 14835 IPs that overlap in Firehol 4 blocklist 9270027 IPs. - https://iplists.firehol.org/?ipset=firehol_level4
+Honeypot has 6833 IPs that overlap in CinesArmy Badguys blocklist 15000 IPs. - https://cinsarmy.com/collective-intelligence-network-security
+Honeypot has 1088 IPs that overlap in Blocklist.de all blocklist 23575 IPs. - https://www.blocklist.de/en/index.html
 Honeypot has 27 IPs that overlap in emergingthreats.net blocklist 431 IPs.
-Honeypot has 66611 IPs that overlap in Bitwire inbound blocklist with 23922855 IPs. - https://bitwire.it/blocklist-stats
-Honeypot has 15430 IPs that overlap in Bitwire outbound blocklist with 198902 IPs. - https://bitwire.it/blocklist-stats
-Honeypot has 0 IPs that overlap in Alienvault Reputation blocklist 609 IPs. - http://reputation.alienvault.com/reputation.data
+Honeypot has 66743 IPs that overlap in Bitwire inbound blocklist with 23922855 IPs. - https://bitwire.it/blocklist-stats
+Honeypot has 15557 IPs that overlap in Bitwire outbound blocklist with 198902 IPs. - https://bitwire.it/blocklist-stats
+Honeypot has 1 IPs that overlap in Alienvault Reputation blocklist 609 IPs. - http://reputation.alienvault.com/reputation.data
 Honeypot has 0 IPs that overlap in Botvrij blocklist 4 IPs. - http://www.botvrij.eu/data/ioclist.ip-dst.raw
-Honeypot has 290 IPs that overlap in Threatfox blocklist 18852 IPs. - https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/refs/heads/main/ips.txt
+Honeypot has 291 IPs that overlap in Threatfox blocklist 18852 IPs. - https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/refs/heads/main/ips.txt
 Honeypot has 2792 IPs that overlap in Dshield blocklist 5080 IPs. - https://www.dshield.org/block.txt
-Honeypot has 3878 IPs that overlap in Spamhaus Drop blocklist 14859226 IPs. - https://www.spamhaus.org/drop/drop.txt
+Honeypot has 3877 IPs that overlap in Spamhaus Drop blocklist 14859226 IPs. - https://www.spamhaus.org/drop/drop.txt
 Honeypot has 0 IPs that overlap in AbuseIPDB 7Day blocklist 79171 IPs.
 Honeypot has 0 IPs that overlap in AbuseIPDB 30Day blocklist 151755 IPs.
 Honeypot has 0 IPs that overlap in AbuseIPDB 90Day blocklist 251619 IPs.
-Honeypot has 91 IPs that overlap in IdleAdmin Tor Exit blocklist 1319 IPs.
-Honeypot has 8243 IPs that overlap in Opendbl ipsum blocklist 17967 IPs.
+Honeypot has 50 IPs that overlap in IdleAdmin Tor Exit blocklist 1319 IPs.
+Honeypot has 8300 IPs that overlap in Opendbl ipsum blocklist 17967 IPs.
 Honeypot has 3 IPs that overlap in Greynoise blocklist 14 IPs.
-Honeypot has 48790 IPs that overlap in Romainmarcoux 300k aa blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 8296 IPs that overlap in Romainmarcoux 300k ab blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 6940 IPs that overlap in Romainmarcoux 300k ac blocklist 288781 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 49078 IPs that overlap in Romainmarcoux 300k aa blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 8223 IPs that overlap in Romainmarcoux 300k ab blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 6927 IPs that overlap in Romainmarcoux 300k ac blocklist 288781 IPs. - https://github.com/romainmarcoux/malicious-ip
 Honeypot has 0 IPs that overlap in Romainmarcoux 300k ad blocklist 0 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 6604 IPs that overlap in Romainmarcoux 40k outbound blocklist 40000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 12803 IPs that overlap in Romainmarcoux aa outbound blocklist 131072 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 1848 IPs that overlap in Romainmarcoux ab outbound blocklist 52422 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 6654 IPs that overlap in Romainmarcoux 40k outbound blocklist 40000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 12898 IPs that overlap in Romainmarcoux aa outbound blocklist 131072 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 1879 IPs that overlap in Romainmarcoux ab outbound blocklist 52422 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20260915122056
+Created on: 20260916002115
