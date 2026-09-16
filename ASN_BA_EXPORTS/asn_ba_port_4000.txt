@@ -38,13 +38,13 @@
 48.216.219.168   #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 49.234.178.69    #AS45090   49.234.176.0/20    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 54.36.253.168    #AS16276   54.36.0.0/16       FR   OVH - OVH SAS, FR
-61.224.179.40    #AS3462    61.224.0.0/16      TW   HINET - Data Communication Business Group, TW
 62.210.89.150    #AS12876   62.210.0.0/16      FR   #AS12876 - Scaleway SAS, FR
+62.210.142.61    #AS12876   62.210.0.0/16      FR   AS12876 - Scaleway SAS, FR
 64.226.83.235    #AS14061   64.226.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+66.132.186.209   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.212   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.244   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.246   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-69.5.169.3       #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.75      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.133     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.209     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -58,6 +58,7 @@
 79.124.40.162    #AS50360   79.124.40.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.18     #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.198    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
+79.124.59.106    #AS50360   79.124.59.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.59.178    #AS50360   79.124.59.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.19.216.119    #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 82.147.85.62     #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
@@ -71,7 +72,6 @@
 91.230.168.182   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.56     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 94.156.237.31    #AS215439  94.156.237.0/24    BG   PLAY2GO-NET - PLAY2GO INTERNATIONAL LIMITED, GB
-97.92.38.85      #AS20115   97.92.32.0/19      US   CHARTER-20115 - Charter Communications LLC, US
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.72    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -79,7 +79,6 @@
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.51.6.16      #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 102.216.212.122  #AS329009  102.216.212.0/24   GH   Spectrum Internet Service Ltd - Spectrum Internet Service Ltd, GH
-103.176.182.170  #AS147132  103.176.182.0/24   ID   IDNIC-MAFIANET-AS-ID - PT Mafianet Akses Media, ID
 103.217.88.34    #AS135183  103.217.88.0/24    IN   INSTANET-AS-IN - Instalinks, IN
 103.253.27.218   #AS133210  103.253.27.0/24    SG   ENTECHNOLOGIES-AS-AP - EN Technologies Pte Ltd, SG
 104.236.229.227  #AS14061   104.236.192.0/18   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -119,6 +118,7 @@
 185.180.141.45   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 188.240.59.26    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 189.113.8.254    #AS28209   189.113.8.0/22     BR   #AS28209 - Under Servicos de Internet Ltda, BR
+193.3.53.6       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
 193.32.209.247   #AS25369   193.32.208.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.124.20.234   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.124.20.253   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -126,6 +126,7 @@
 193.176.31.223   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.88     #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.94     #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+194.88.98.103    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.123    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.180.48.45    #AS201814  194.180.48.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
 195.33.199.59    #AS34984   195.33.199.0/24    TR   TELLCOM-AS - Superonline Iletisim Hizmetleri A.S., TR
@@ -135,7 +136,6 @@
 199.45.154.178   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.187   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 204.76.203.7     #AS51396   204.76.203.0/24    NL   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
-209.14.88.121    #AS272786  209.14.88.0/24     US   AS272786 - X99 INTERNET, BR
 209.38.93.248    #AS14061   209.38.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 209.141.51.29    #AS53667   209.141.32.0/19    US   PONYNET - FranTech Solutions, US
 211.233.58.220   #AS3786    211.233.0.0/18     KR   LGDACOM-KR - LG DACOM Corporation, KR
