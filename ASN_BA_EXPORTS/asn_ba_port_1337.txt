@@ -19,6 +19,7 @@
 20.80.111.1      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.106.19.210    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.228.37    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.124.82.36     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.11.83     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 40.124.114.34    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -32,7 +33,7 @@
 47.245.134.86    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.15.153.107    #AS16509   52.15.128.0/17     US   AMAZON-02 - Amazon.com, Inc., US
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
-52.180.147.239   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+64.23.184.43     #AS14061   64.23.176.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.89     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.110    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.120    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -40,14 +41,14 @@
 64.62.156.154    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.173    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.177    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.196    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.16     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.21     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.27     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.57     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.69     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.71     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.104    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.114    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
+64.62.197.108    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.132    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.175    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.190    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -73,7 +74,6 @@
 80.82.77.33      #AS202425  80.82.77.0/24      NL   INT-NETWORK - IP Volume inc, SC
 82.147.85.62     #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
 85.217.140.9     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
-85.217.140.12    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.13    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.15    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.16    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -83,6 +83,7 @@
 85.217.140.46    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.47    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+94.154.43.15     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.10    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -102,10 +103,8 @@
 164.92.65.134    #AS14061   164.92.64.0/19     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.154.163.10   #AS135377  165.154.163.0/24   HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 165.232.134.153  #AS14061   165.232.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-172.174.129.128  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.232.115.35   #AS63949   172.232.96.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.237.167.164  #AS63949   172.237.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-172.238.162.44   #AS63949   172.238.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 176.65.149.193   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 184.105.139.94   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.139.117  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
