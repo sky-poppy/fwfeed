@@ -18,10 +18,12 @@
 20.15.203.159    #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.29.40.65      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.146.107    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.169.130    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.177.188    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.219.137    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.106.172.110   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.115.100.69    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.118.217.101   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.197.97    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.150.196.247   #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.150.197.11    #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -56,18 +58,16 @@
 47.109.134.2     #AS37963   47.109.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.237.207.205   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.252.44.191    #AS45102   47.252.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-48.214.145.236   #AS8075    48.208.0.0/13      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.21.227.35     #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 60.191.137.103   #AS58461   60.191.137.0/24    CN   CT-HangZhou-IDC - No.288,Fu-chun Road, CN
 61.146.235.54    #AS4134    61.146.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-64.62.156.16     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+61.147.209.31    #AS4134    61.147.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 64.62.156.32     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.54     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.114      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.226      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.71      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.186.239   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.132.186.250   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 74.82.47.14      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.82.47.51      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.235.187.59    #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -78,6 +78,7 @@
 79.124.56.202    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 80.241.219.205   #AS51167   80.241.218.0/23    DE   CONTABO - Contabo GmbH, DE
 82.66.138.203    #AS12322   82.64.0.0/14       FR   PROXAD - Free SAS, FR
+86.54.31.38      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
 87.106.27.160    #AS8560    87.106.26.0/23     DE   IONOS-AS - IONOS SE, DE
 89.126.211.166   #AS202660  89.126.208.0/22    UZ   BRM-DataCenter - _Uzbektelekom_ Joint Stock Company, UZ
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
@@ -87,7 +88,6 @@
 91.230.168.171   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.48     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.53     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
-91.231.89.193    #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 94.154.43.43     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.204.208.107   #AS15802   94.204.192.0/19    AE   DU-AS1 - Emirates Integrated Telecommunications Company PJSC, AE
 98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
@@ -121,6 +121,7 @@
 139.227.100.179  #AS17621   139.227.0.0/16     CN   CNCGROUP-SH - China Unicom Shanghai network, CN
 142.93.192.64    #AS14061   142.93.192.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 144.225.6.182    #AS7488    144.225.6.0/24     US   CNSERVER-AP-AS - CNServer LLC, US
+144.225.6.184    #AS7488    144.225.6.0/24     US   CNSERVER-AP-AS - CNServer LLC, US
 146.164.69.90    #AS2715    146.164.0.0/16     BR   AS2715 - Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR
 148.216.108.65   #AS11172   148.216.0.0/16     MX   AS11172 - Alestra, S. de R.L. de C.V., MX
 154.59.103.16    #AS174     154.59.103.0/24    US   COGENT-174 - Cogent Communications, LLC, US
@@ -155,11 +156,9 @@
 184.105.247.251  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.107.80.93    #AS43350   185.107.80.0/22    NL   NFORCE - NForce Entertainment B.V., NL
 185.180.141.9    #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
-185.226.197.69   #AS21859   185.226.197.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.242.226.19   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 187.49.144.147   #AS270531  187.49.144.0/22    BR   AS270531 - POLVO TELECOMUNICACOES EIRELLI, BR
 192.3.245.183    #AS36352   192.3.245.0/24     US   AS-COLOCROSSING - HostPapa, US
-193.233.199.37   #AS215540  193.233.199.0/24   RU   GCS-AS - GLOBAL CONNECTIVITY SOLUTIONS LLP, GB
 195.178.110.35   #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 199.45.154.178   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.45.154.182   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
