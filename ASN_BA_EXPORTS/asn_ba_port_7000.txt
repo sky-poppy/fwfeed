@@ -1,6 +1,7 @@
 2.27.153.106     #AS219543  2.27.153.0/24      US   PA1792-AS - German Kiselev, RU
 3.83.245.221     #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
+3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.216.16.120     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 16.5.0.237       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
@@ -17,11 +18,10 @@
 34.178.12.116    #AS396982  34.178.0.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-35.203.210.184   #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.203.210.215   #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-40.80.202.179    #AS8075    40.80.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.128.157.201   #AS211750  45.128.157.0/24    NL   MC-NODE-AS - Stef Herman Anton Wolters trading as MC-Node, NL
 45.128.157.202   #AS211750  45.128.157.0/24    NL   MC-NODE-AS - Stef Herman Anton Wolters trading as MC-Node, NL
+45.138.12.14     #AS218785  45.138.12.0/24     LT   TC-DATACENTER - TC DATACENTER LIMITED, HK
 45.142.193.164   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 45.148.10.95     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
 45.194.67.43     #AS215925  45.194.67.0/24     SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
@@ -29,11 +29,9 @@
 46.229.233.132   #AS29405   46.229.224.0/20    SK   VNET-AS - VNET a.s., SK
 47.77.233.1      #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.238.192.222   #AS45102   47.238.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-51.161.140.181   #AS16276   51.161.128.0/17    CA   OVH - OVH SAS, FR
 52.248.40.74     #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 64.62.197.18     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.22     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.24     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.37     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.64     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.78     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -59,7 +57,6 @@
 69.5.169.171     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.187     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.228     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.5.169.235     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.158.166     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.29      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.30      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -73,6 +70,7 @@
 82.147.85.62     #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
 85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.8     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.140.10    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.23    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.31    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.33    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -91,7 +89,6 @@
 91.92.47.58      #AS197170  91.92.47.0/24      BG   TECHTIES-AS - TechTies Inc., SC
 91.196.152.24    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.196.152.26    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
-91.196.152.112   #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.154.43.15     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.214    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -126,6 +123,7 @@
 193.124.20.244   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.163.125.206  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 194.50.235.156   #AS25369   194.50.234.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+194.88.98.108    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.126    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.180.16.131   #AS62214   194.180.16.0/24    HU   RACKFOREST-AS - Rackforest Zrt., HU
 194.180.48.45    #AS201814  194.180.48.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
