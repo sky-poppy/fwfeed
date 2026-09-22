@@ -8,7 +8,6 @@
 8.216.8.217      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.9.246      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.17.239     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-16.5.0.133       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 16.5.0.199       #AS401661  16.5.0.0/24        US   
 16.5.0.208       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 16.5.0.221       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
@@ -30,18 +29,20 @@
 20.127.168.30    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.150.211.185   #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.127.115   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.169.55.172    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.84.200    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 31.14.254.13     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.87.205.195    #AS396982  34.87.192.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.97.229.225    #AS396982  34.97.224.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.178.12.116    #AS396982  34.178.0.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
-36.50.176.139    #AS151858  36.50.176.0/23     VN   INTERDIGI-VN - INTERDIGI JOINT STOCK COMPANY, VN
+40.119.41.160    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.114.4     #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.33.54.96      #AS63949   45.33.32.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.135.194.113   #AS51396   45.135.194.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 47.77.224.226    #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.104.254    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.84.136.64     #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.91.67.138     #AS45102   47.91.64.0/20      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.238.192.222   #AS45102   47.238.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.128.96    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -49,7 +50,6 @@
 47.251.74.190    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.92.206    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.235.10    #AS45102   47.254.224.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-52.15.153.107    #AS16509   52.15.128.0/17     US   AMAZON-02 - Amazon.com, Inc., US
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.180.141.109   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 57.151.105.39    #AS8075    57.150.0.0/15      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -66,13 +66,12 @@
 71.6.134.237     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.60.218    #AS50360   79.124.60.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-79.133.126.157   #AS199524  79.133.126.0/24    LU   GCORE - G-Core Labs S.A., LU
 80.94.95.245     #AS204428  80.94.95.0/24      RO   SS-Net - SS-Net, BG
 81.19.216.100    #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 85.217.140.1     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.140.4     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.12    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.16    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
-85.217.140.24    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.28    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.37    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.43    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -89,6 +88,7 @@
 91.196.152.0     #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
 94.154.43.203    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.65    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.98    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 104.244.79.113   #AS53667   104.244.79.0/24    US   PONYNET - FranTech Solutions, US
@@ -125,7 +125,6 @@
 172.203.226.87   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.236.123.208  #AS63949   172.236.96.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.237.150.22   #AS63949   172.237.128.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-176.65.149.233   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 185.93.89.37     #AS213790  185.93.89.0/24     IR   LimitedNetwork-AS - Limited Network LTD, GB
 185.216.145.166  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.216.145.186  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -133,6 +132,7 @@
 185.226.196.12   #AS21859   185.226.196.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.242.226.36   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 188.240.59.61    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+193.124.20.232   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.163.125.55   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.69   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.108  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
