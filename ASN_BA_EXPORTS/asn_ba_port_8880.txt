@@ -1,9 +1,7 @@
-3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.209.114.206    #AS45102   8.209.96.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.209.119.143    #AS45102   8.209.96.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.209.238.100    #AS45102   8.209.224.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-16.5.0.242       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -35,7 +33,6 @@
 47.250.161.80    #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.26.30     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.44.36     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.251.90.59     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.122.225   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.171.212   #AS45102   47.254.160.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.254.239.26    #AS45102   47.254.224.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -47,7 +44,6 @@
 65.49.1.119      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.120      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.179      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.219      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.234      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.172.229   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.230   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -69,11 +65,13 @@
 85.217.140.10    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.40    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.43    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.140.49    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.50    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.52    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.72    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.73    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+89.21.67.177     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.37.172.133    #AS25369   89.37.172.0/22     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 89.248.165.203   #AS202425  89.248.165.0/24    NL   INT-NETWORK - IP Volume inc, SC
@@ -86,6 +84,8 @@
 94.154.43.203    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 100.29.192.6     #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.40    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
+109.105.210.54   #AS21859   109.105.210.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 130.12.180.48    #AS202412  130.12.180.0/24    US   OMEGATECH-AS - Omegatech LTD, SC
 136.110.71.120   #AS396982  136.110.64.0/18    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -114,9 +114,9 @@
 185.226.197.48   #AS21859   185.226.197.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.242.226.19   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 193.163.125.59   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
+193.163.125.61   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.111  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.205  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
-193.163.125.212  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.216  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.31.212   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.31.238   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB

@@ -2,7 +2,6 @@
 3.137.148.99     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.148.1.141      #AS8075    4.144.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 4.236.164.253    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-4.249.16.164     #AS8075    4.240.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 4.249.17.74      #AS8075    4.240.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 4.249.17.224     #AS8075    4.240.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 8.129.229.164    #AS37963   8.129.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -19,6 +18,7 @@
 20.15.160.91     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.15.203.159    #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.29.40.65      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.46.232.164    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.146.107    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.169.130    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.169.181    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -50,6 +50,7 @@
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.33.125.28     #AS63949   45.33.112.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
+45.156.128.178   #AS211680  45.156.128.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.156.129.73    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.225.135.21    #AS64107   45.225.135.0/24    PA   AS64107 - RACK SPHERE HOSTING S.A., PA
 46.225.220.177   #AS24940   46.224.0.0/15      DE   HETZNER-AS - Hetzner Online GmbH, DE
@@ -60,6 +61,7 @@
 47.236.173.77    #AS45102   47.236.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.237.207.205   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.252.44.191    #AS45102   47.252.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+48.217.66.25     #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 48.217.235.56    #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.21.227.35     #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.186.178.27    #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -69,6 +71,7 @@
 61.147.209.31    #AS4134    61.147.0.0/16      CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 64.62.156.32     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.54     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.26       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.114      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.71      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.186.239   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -78,6 +81,7 @@
 74.82.47.51      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.235.187.59    #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
+79.72.3.119      #AS31898   79.72.0.0/20       SE   ORACLE-BMC-31898 - Oracle Corporation, US
 79.124.56.102    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.56.202    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 80.241.219.205   #AS51167   80.241.218.0/23    DE   CONTABO - Contabo GmbH, DE
@@ -105,7 +109,6 @@
 103.46.186.148   #AS150462  103.46.186.0/24    ID   IDNIC-AIRLINK-AS-ID - PT Air Lintas Komunikasi, ID
 103.217.186.93   #AS146817  103.217.184.0/22   CN   FXNET - Hubei Feixun Network Co., Ltd, CN
 103.217.186.187  #AS146817  103.217.184.0/22   CN   FXNET - Hubei Feixun Network Co., Ltd, CN
-106.13.122.198   #AS38365   106.13.96.0/19     CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 106.51.22.217    #AS24309   106.51.20.0/22     IN   CABLELITE-AS-AP - Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
 106.75.168.53    #AS58466   106.75.160.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 107.172.178.149  #AS36352   107.172.178.0/24   US   AS-COLOCROSSING - HostPapa, US
@@ -119,7 +122,6 @@
 120.48.20.147    #AS38365   120.48.0.0/19      CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 121.40.151.88    #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.242.15.109   #AS4134    122.240.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
-123.207.35.85    #AS45090   123.207.34.0/23    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
 134.33.67.79     #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.119.18.167   #AS8075    135.119.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 135.129.145.89   #AS13614   135.129.128.0/18   US   ALLWEST - All West Communications, Inc., US
@@ -155,12 +157,10 @@
 172.174.233.58   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.174.245.176  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.203.228.114  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.212.226.215  #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.236.117.243  #AS63949   172.236.96.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.245.33.181   #AS36352   172.245.32.0/22    US   AS-COLOCROSSING - HostPapa, US
 175.119.225.92   #AS9318    175.112.0.0/13     KR   SKB-AS-KR - SK Broadband Co Ltd, KR
 176.32.193.16    #AS197834  176.32.193.0/24    AM   INTERACTIVE - Ucom CJSC, AM
-176.65.148.226   #AS51396   176.65.148.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 178.105.200.202  #AS24940   178.104.0.0/15     DE   HETZNER-AS - Hetzner Online GmbH, DE
 180.232.31.158   #AS9658    180.232.31.0/24    PH   ETPI-IDS-AS-AP - Eastern Telecoms Phils., Inc., PH
 184.105.139.115  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
