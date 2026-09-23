@@ -1,6 +1,7 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
+8.209.215.33     #AS45102   8.209.192.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.6.61       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.189      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.8.161      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -19,6 +20,7 @@
 20.55.22.174     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.201.226    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.85.51      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.81.44.37      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.91.28      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.165.59     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.98.166.207    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -58,6 +60,7 @@
 47.254.147.11    #AS45102   47.254.128.0/19    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 51.8.88.44       #AS8075    51.8.0.0/16        DE   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
+52.165.83.186    #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.248.43.121    #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.248.43.126    #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 64.62.156.35     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -118,19 +121,21 @@
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 118.193.69.177   #AS135377  118.193.69.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
+123.58.196.28    #AS135377  123.58.196.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 135.119.114.210  #AS8075    135.119.0.0/16     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 136.110.71.120   #AS396982  136.110.64.0/18    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 137.184.125.94   #AS14061   137.184.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 137.184.154.118  #AS14061   137.184.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 143.244.151.4    #AS14061   143.244.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+143.244.156.96   #AS14061   143.244.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 144.172.112.233  #AS14956   144.172.112.0/24   US   ROUTERHOSTING - RouterHosting LLC, US
 144.202.92.17    #AS20473   144.202.80.0/20    US   AS-VULTR - The Constant Company, LLC, US
-146.88.240.54    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.56    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.58    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.59    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.133   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.134   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.240.141   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.170   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.171   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.172   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -174,6 +179,7 @@
 193.163.125.247  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.29.5     #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.29.11    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+194.50.235.150   #AS25369   194.50.234.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.120    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 195.178.110.35   #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.178.110.204  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
