@@ -1,6 +1,7 @@
 3.17.72.122      #AS16509   3.16.0.0/14        US   AMAZON-02 - Amazon.com, Inc., US
 3.144.120.21     #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.226.140.63     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+8.34.210.32      #AS396982  8.34.210.0/24      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 8.211.33.23      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.211.43.157     #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 18.191.84.177    #AS16509   18.191.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
@@ -8,7 +9,6 @@
 20.64.99.180     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.219.49     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.220.25    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.172.67.199    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 31.141.247.137   #AS16135   31.141.240.0/20    TR   TURKCELL-AS - TURKCELL ILETISIM HIZMETLERI A.S., TR
 34.19.116.51     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.19.116.58     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -21,6 +21,7 @@
 37.10.113.218    #AS25369   37.10.113.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 40.119.26.147    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.116.44    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+43.153.88.198    #AS132203  43.153.64.0/18     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
 45.118.133.158   #AS63949   45.118.132.0/22    SG   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -43,7 +44,6 @@
 64.62.197.196    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.199    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.16       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.44       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.56       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.71      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.186.207   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
@@ -69,9 +69,7 @@
 69.5.169.183     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.187     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.197     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.5.169.222     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.244     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-71.6.134.204     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.22      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.23      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.27      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -86,6 +84,7 @@
 91.231.89.95     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 94.154.43.36     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
+98.90.43.197     #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.87    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.127   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -105,7 +104,6 @@
 146.88.241.140   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 147.185.132.108  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.147  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-152.32.141.2     #AS135377  152.32.141.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 154.241.97.200   #AS36947   154.241.96.0/20    DZ   Telecom Algeria - Telecom Algeria, DZ
 154.241.107.190  #AS36947   154.241.96.0/20    DZ   Telecom Algeria - Telecom Algeria, DZ
 156.225.1.87     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
@@ -121,7 +119,6 @@
 185.94.111.1     #AS51115   185.94.111.0/24    RU   HLL-AS - HLL LLC, RU
 185.180.141.12   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.180.141.14   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
-185.216.145.174  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.216.145.183  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.223.235.44   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.223.235.53   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -134,9 +131,7 @@
 193.124.20.232   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.29.5     #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.50.235.150   #AS25369   194.50.234.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-194.187.178.70   #AS215778  194.187.178.0/24   DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 195.140.214.24   #AS25369   195.140.212.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-195.140.214.28   #AS25369   195.140.212.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 195.140.214.30   #AS25369   195.140.212.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 195.178.110.35   #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.178.110.239  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
