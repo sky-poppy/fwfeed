@@ -2,13 +2,13 @@
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.209.105.49     #AS45102   8.209.96.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.216.5.249      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.66       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.7.115      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.10.200     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.11.0       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 16.5.0.199       #AS401661  16.5.0.0/24        US   
 16.5.0.218       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
-16.5.0.254       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -46,7 +46,6 @@
 62.74.180.253    #AS3329    62.74.180.0/22     GR   HOL-GR - Vodafone-panafon Hellenic Telecommunications Company SA, GR
 64.23.187.132    #AS14061   64.23.176.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.32     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.76     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.77     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.108    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.158    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -72,6 +71,7 @@
 64.62.197.237    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.104      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.132      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.148      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.169      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.173      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.193      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -100,6 +100,7 @@
 79.124.58.246    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.60.218    #AS50360   79.124.60.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.16.248.94     #AS34666   81.16.248.0/24     GE   GLB1-AS - JSC _Global Erty_, GE
+81.19.219.205    #AS25369   81.19.208.0/20     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 85.217.140.1     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.8     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.11    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -127,7 +128,6 @@
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 103.203.58.1     #AS136180  103.203.58.0/24    CN   IPIP-CN - Beijing Tiantexin Tech. Co., Ltd., CN
 118.193.68.150   #AS135377  118.193.68.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
-119.150.201.64   #AS10013   119.150.200.0/22   JP   FBDC - FreeBit Co.,Ltd., JP
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 128.134.190.13   #AS4766    128.134.0.0/16     KR   KIXS-AS-KR-KR - Korea Telecom, KR
 137.184.239.32   #AS14061   137.184.224.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -136,7 +136,6 @@
 152.32.151.116   #AS135377  152.32.151.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 156.225.1.99     #AS9465    156.225.1.0/24     SC   AGOTOZPTELTD-AS-AP - AGOTOZ PTE. LTD., SG
 157.245.254.3    #AS14061   157.245.240.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-158.220.102.236  #AS51167   158.220.96.0/20    DE   CONTABO - Contabo GmbH, DE
 159.65.191.190   #AS14061   159.65.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 161.35.226.100   #AS14061   161.35.224.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 164.92.110.191   #AS14061   164.92.96.0/19     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -155,7 +154,6 @@
 185.223.235.12   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.226.196.17   #AS21859   185.226.196.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 185.242.226.74   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
-193.124.20.238   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.29.13    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.31.254   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.104    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -175,7 +173,6 @@
 213.166.84.52    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 213.166.84.58    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 216.218.206.89   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
-216.218.206.105  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.218.206.121  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.218.206.123  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 216.226.77.10    #AS50219   216.226.77.0/24    US   VT-255-50219 - Valence Technology Co., US

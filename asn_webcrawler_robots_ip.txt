@@ -575,7 +575,6 @@
 64.112.57.185    #AS6079     64.112.56.0/22       US  RCN-AS - RCN, US                                        Unknown
 175.29.128.46    #AS6079     175.29.128.0/21      BD  RCN-AS - RCN, US                                        BrowserAgent
 50.71.41.135     #AS6327     50.71.40.0/22        CA  SHAW - Shaw Communications, CA                          BrowserAgent
-138.226.244.188  #AS6698     138.226.244.0/23     PL  virtualsystems - Virtual Systems LLC, UA                BrowserAgent
 84.124.126.156   #AS6739     84.124.0.0/16        ES  ONO-AS - VODAFONE ONO, S.A., ES                         BrowserAgent
 104.10.194.198   #AS7018     104.0.0.0/12         US  ATT-INTERNET4 - AT&T Enterprises, LLC, US               BrowserAgent
 130.43.189.232   #AS7029     130.43.189.0/24      GB  WINDSTREAM - Windstream Communications LLC, US          BrowserAgent
@@ -601,6 +600,7 @@
 40.77.167.203    #AS8075     40.76.0.0/14         US  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US bingbot
 40.77.167.219    #AS8075     40.76.0.0/14         US  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US bingbot
 48.192.74.178    #AS8075     48.192.0.0/12        GB  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US Unknown
+48.204.120.135   #AS8075     48.192.0.0/12        GB  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US BrowserAgent
 48.223.209.110   #AS8075     48.222.0.0/15        GB  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US DuckAssistBot
 51.8.31.28       #AS8075     51.8.0.0/16          DE  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US DuckAssistBot
 51.8.102.1       #AS8075     51.8.0.0/16          DE  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US OAI-SearchBot
@@ -913,6 +913,7 @@
 5.251.141.25     #AS9198     5.251.136.0/21       KZ  KAZTELECOM-AS - JSC Kazakhtelecom, KZ                   BrowserAgent
 178.89.30.135    #AS9198     178.89.24.0/21       KZ  KAZTELECOM-AS - JSC Kazakhtelecom, KZ                   Unknown
 112.201.201.129  #AS9299     112.201.192.0/20     PH  IPG-AS-AP - Philippine Long Distance Telephone Company, PH BrowserAgent
+27.252.188.157   #AS9500     27.252.128.0/17      NZ  ONENZ-TRANSIT-AS - One New Zealand Group Limited, NZ    BrowserAgent
 27.252.239.97    #AS9500     27.252.128.0/17      NZ  ONENZ-TRANSIT-AS - One New Zealand Group Limited, NZ    BrowserAgent
 47.72.33.83      #AS9500     47.72.0.0/16         NZ  ONENZ-TRANSIT-AS - One New Zealand Group Limited, NZ    BrowserAgent
 47.72.80.56      #AS9500     47.72.0.0/16         NZ  ONENZ-TRANSIT-AS - One New Zealand Group Limited, NZ    BrowserAgent
@@ -1274,7 +1275,7 @@
 168.144.106.212  #AS14061    168.144.96.0/20      US  DIGITALOCEAN-ASN - DigitalOcean, LLC, US                Unknown
 178.128.51.160   #AS14061    178.128.48.0/20      US  DIGITALOCEAN-ASN - DigitalOcean, LLC, US                BrowserAgent
 178.128.114.115  #AS14061    178.128.112.0/20     US  DIGITALOCEAN-ASN - DigitalOcean, LLC, US                Unknown
-149.19.169.24    #AS14593    149.19.169.0/24      CL  SPACEX-STARLINK - Space Exploration Technologies Corporation, US Unknown
+149.19.169.24    #AS14593    149.19.168.0/23      CL  SPACEX-STARLINK - Space Exploration Technologies Corporation, US Unknown
 3.80.205.171     #AS14618    3.80.0.0/12          US  AMAZON-AES - Amazon.com, Inc., US                       BrowserAgent
 3.85.207.139     #AS14618    3.80.0.0/12          US  AMAZON-AES - Amazon.com, Inc., US                       Unknown
 3.87.146.25      #AS14618    3.80.0.0/12          US  AMAZON-AES - Amazon.com, Inc., US                       Unknown
@@ -1735,6 +1736,8 @@
 66.249.74.133    #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Unknown
 66.249.75.129    #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Googlebot
 66.249.75.196    #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Googlebot
+66.249.77.192    #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Googlebot
+66.249.77.198    #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Googlebot
 66.249.79.2      #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Unknown
 66.249.79.3      #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Unknown
 66.249.79.33     #AS15169    66.249.64.0/20       US  GOOGLE - Google LLC, US                                 Unknown
@@ -1890,6 +1893,7 @@
 44.244.81.178    #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
 44.245.199.34    #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
 44.246.250.155   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
+44.248.48.73     #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
 44.248.167.171   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
 44.250.157.243   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 44.250.213.124   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
@@ -2089,8 +2093,10 @@
 47.128.58.80     #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.58.184    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.60.119    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
+47.128.60.227    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.61.91     #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.61.140    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
+47.128.63.44     #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.96.209    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Go-http-client
 47.128.97.195    #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
 47.128.98.3      #AS16509    47.128.0.0/14        US  AMAZON-02 - Amazon.com, Inc., US                        Bytespider
@@ -2606,7 +2612,7 @@
 173.252.69.5     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.7     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.8     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
-173.252.69.13    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
+173.252.69.13    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.16    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
 173.252.69.17    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.19    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
@@ -2618,6 +2624,7 @@
 173.252.69.30    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.31    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.36    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
+173.252.69.39    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.113   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
 173.252.69.114   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.69.116   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
@@ -2730,6 +2737,7 @@
 173.252.82.114   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
 173.252.83.1     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
 173.252.83.4     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
+173.252.83.5     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.7     #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
 173.252.83.11    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.12    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           Unknown
@@ -2738,6 +2746,7 @@
 173.252.83.20    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.23    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.25    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
+173.252.83.28    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.29    #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.112   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
 173.252.83.114   #AS32934    173.252.64.0/19      US  FACEBOOK - Facebook, Inc., US                           facebookexternalhit
@@ -3127,6 +3136,7 @@
 106.63.26.155    #AS141679   106.63.0.0/17        CN  CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN BrowserAgent
 106.63.26.157    #AS141679   106.63.0.0/17        CN  CHINATELECOM-IDC-BTHBD-AP - China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch, CN BrowserAgent
 210.79.182.251   #AS152137   210.79.182.0/24      BD  AXISHOSTED-AS-AP - AXIS HOSTED, BD                      BrowserAgent
+62.83.32.176     #AS197540   62.83.32.0/22        DE  netcup-AS - netcup GmbH, DE                             BrowserAgent
 62.83.32.243     #AS197540   62.83.32.0/22        DE  netcup-AS - netcup GmbH, DE                             BrowserAgent
 62.83.34.176     #AS197540   62.83.32.0/22        DE  netcup-AS - netcup GmbH, DE                             BrowserAgent
 159.195.202.210  #AS197540   159.195.200.0/22     DE  netcup-AS - netcup GmbH, DE                             BrowserAgent
@@ -3441,6 +3451,7 @@
 152.163.12.136   #AS393886   152.163.12.0/22      LT  LEASEWEB-USA-MIA - Leaseweb USA, Inc., US               BrowserAgent
 152.163.174.144  #AS394380   152.163.172.0/22     LT  LEASEWEB-USA-DAL - Leaseweb USA, Inc., US               BrowserAgent
 82.26.238.112    #AS395092   82.26.238.0/24       GB  SHOCK-1 - Shock Hosting LLC, US                         BrowserAgent
+152.163.65.134   #AS396190   152.163.64.0/22      LT  LEASEWEB-USA-SEA - Leaseweb USA, Inc., US               BrowserAgent
 152.163.66.65    #AS396190   152.163.64.0/22      LT  LEASEWEB-USA-SEA - Leaseweb USA, Inc., US               BrowserAgent
 152.163.66.68    #AS396190   152.163.64.0/22      LT  LEASEWEB-USA-SEA - Leaseweb USA, Inc., US               BrowserAgent
 152.163.66.69    #AS396190   152.163.64.0/22      LT  LEASEWEB-USA-SEA - Leaseweb USA, Inc., US               BrowserAgent
@@ -3454,7 +3465,6 @@
 46.203.228.23    #AS396356   46.203.228.0/24      UA  LATITUDE-SH - Latitude.sh, US                           Unknown
 46.203.228.24    #AS396356   46.203.228.0/24      UA  LATITUDE-SH - Latitude.sh, US                           Unknown
 72.63.211.148    #AS396356   72.63.208.0/22       LT  LATITUDE-SH - Latitude.sh, US                           BrowserAgent
-85.198.36.238    #AS396356   85.198.36.0/24       NL  LATITUDE-SH - Latitude.sh, US                           Unknown
 85.198.36.240    #AS396356   85.198.36.0/24       NL  LATITUDE-SH - Latitude.sh, US                           Unknown
 85.198.36.242    #AS396356   85.198.36.0/24       NL  LATITUDE-SH - Latitude.sh, US                           Unknown
 85.198.36.244    #AS396356   85.198.36.0/24       NL  LATITUDE-SH - Latitude.sh, US                           Unknown
@@ -3561,4 +3571,4 @@
 45.45.237.161    #AS400529   45.45.237.0/24       US  INFRALY-LLC - Infraly, LLC, US                          Unknown
 154.58.229.28    #AS400810   154.58.229.0/24      US  BREEZETECH - BreezeHost, US                             PerplexityBot
 
-# Created on: 20260924022613
+# Created on: 20260925022623
