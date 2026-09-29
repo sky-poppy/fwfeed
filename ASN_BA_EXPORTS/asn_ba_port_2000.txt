@@ -14,6 +14,7 @@
 20.42.90.131     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.22.174     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.201.226    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.202.139    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.75.245     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.81.44.37      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.165.59     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -35,11 +36,11 @@
 45.135.193.159   #AS51396   45.135.193.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 46.151.178.133   #AS211443  46.151.178.0/24    NL   SINOWORLDWIDE - SINO WORLDWIDE TRADING LIMITED, HK
 46.247.61.129    #AS215778  46.247.61.0/24     DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
+47.77.233.21     #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.77.237.104    #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.104.148    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.203.86     #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.91.75.137     #AS45102   47.91.64.0/20      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.237.100.187   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.238.192.222   #AS45102   47.238.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.38.192    #AS45102   47.250.0.0/18      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.119.197   #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -74,7 +75,6 @@
 74.82.47.50      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 78.128.114.46    #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.62.178    #AS207812  79.124.62.0/24     BG   DM_AUTO - DM AUTO EOOD, BG
-85.217.140.2     #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.13    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.16    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.19    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -119,7 +119,6 @@
 146.88.240.134   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.141   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.145   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.240.172   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.175   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.176   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.177   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -129,6 +128,7 @@
 146.88.240.182   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.183   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.184   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.240.187   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 147.185.132.209  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 148.153.188.254  #AS63199   148.153.188.0/23   US   CDSC-AS1 - CDS Global Cloud Co., Ltd, US
 154.16.44.143    #AS25369   154.16.44.0/24     ZA   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -150,7 +150,6 @@
 185.223.235.56   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.242.226.103  #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 192.248.150.180  #AS20473   192.248.144.0/20   US   AS-VULTR - The Constant Company, LLC, US
-193.3.53.8       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
 193.163.125.72   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.88   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.97   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
