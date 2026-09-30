@@ -23,9 +23,11 @@ abuse_ba_404_list.txt - 404 report showing some invalid file trends on webhosts.
 
 abuse_asn_log_cidr_5plus_ip.txt - ASN abuse report to show trends.
 
-asn_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on webhosts. Added bot or agent name, should be noted most "good intent" crawlers advertise a specific crawl agent name, the rest are web "browser agents" dressed up as mobile or computer web browsers. IP found here are not whitelisted automatically. This is to verify genuine "purposeful" web crawlers vs junk or pretend crawlers showing as "GoogleBot" or "BingBot" in log files.
+hosts_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on webhosts. Added bot or agent name, should be noted most "good intent" crawlers advertise a specific crawl agent name, the rest are web "browser agents" dressed up as mobile or computer web browsers. IP found here are not whitelisted automatically. This is to verify genuine "purposeful" web crawlers vs junk or pretend crawlers showing as "GoogleBot" or "BingBot" in log files.
 
-allow_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
+hosts_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
+
+hosts_vulnerability_scanners_list.txt - Vulnerability found in webhost logs, URL HEAD with 404 results, URL UNION string results and various vendors.
 
 ASN_BA_EXPORTS folder - Lists of hosts found by port number. See overlap report: https://github.com/sky-poppy/fwfeed/blob/main/asn_ba_port_recent_top150_port_overlap.txt
 
@@ -84,7 +86,9 @@ Have fun!
 
 
 ### GITHUB Locked Account Events START ###
+
 2026, June 01st - "Automated account lock", no notification, no specific reason or logged event provided in ticket reply, suspect corporate complaint/submission to GitHub.
+
 2026, August 10th - "Automated account lock", no notification, no specific reason or logged event provided in ticket reply, suspect corporate complaint/submission to GitHub.
 
 ### GITHUB Locked Account Events END ###
