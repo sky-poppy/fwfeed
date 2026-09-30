@@ -23,9 +23,9 @@ abuse_ba_404_list.txt - 404 report showing some invalid file trends on webhosts.
 
 abuse_asn_log_cidr_5plus_ip.txt - ASN abuse report to show trends.
 
-hosts_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt file on webhosts. Added bot or agent name, should be noted most "good intent" crawlers advertise a specific crawl agent name, the rest are web "browser agents" dressed up as mobile or computer web browsers. IP found here are not whitelisted automatically. This is to verify genuine "purposeful" web crawlers vs junk or pretend crawlers showing as "GoogleBot" or "BingBot" in log files.
+hosts_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt.
 
-hosts_letsencrypt_ip.txt - Lets Encrypt IPs found in webhost logs.
+hosts_letsencrypt_ip.txt - ASN found when Lets Encrypt found in webhost logs.
 
 hosts_vulnerability_scanners_list.txt - Vulnerability found in webhost logs, URL HEAD with 404 results, URL UNION string results and various vendors.
 
