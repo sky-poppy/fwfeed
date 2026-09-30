@@ -1,11 +1,11 @@
 3.23.104.96      #AS16509   3.20.0.0/14        US   AMAZON-02 - Amazon.com, Inc., US
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
-3.142.219.55     #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.145.210.38     #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.227.160.157    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.59.242.100    #AS16509   13.58.0.0/15       US   AMAZON-02 - Amazon.com, Inc., US
 16.5.0.165       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
+16.5.0.168       #AS401661  16.5.0.0/24        US   
 16.5.0.169       #AS401661  16.5.0.0/24        US   
 16.5.0.210       #AS401661  16.5.0.0/24        US   
 16.5.0.223       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
@@ -39,6 +39,7 @@
 20.169.49.246    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.85.80     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.91.44     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.172.68.73     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 27.18.79.71      #AS137266  27.18.0.0/17       CN   CHINATELECOM-HUBEI-WUHAN-5G-NETWORK - CHINATELECOM Hubei province Wuhan 5G network, CN
 34.7.216.101     #AS396982  34.7.128.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.16.249.245    #AS396982  34.16.128.0/17     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -74,7 +75,6 @@
 40.124.84.194    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.116.44    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.116.155   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-40.124.123.182   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.168.107   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.171.144   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.172.22    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -120,8 +120,6 @@
 66.132.186.221   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.240   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.16    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.132.224.30    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.240.223.208   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 66.240.223.214   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 69.5.169.76      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.85      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -130,6 +128,7 @@
 69.5.169.164     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.168     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.198     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+71.6.134.204     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.142.213     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.199.65      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.199.87      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -215,7 +214,6 @@
 193.163.125.190  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.228  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.31.205   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-194.88.98.123    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.187.178.212  #AS215778  194.187.178.0/24   DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 195.178.110.35   #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.184.76.101   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
