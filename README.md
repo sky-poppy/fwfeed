@@ -27,6 +27,8 @@ hosts_webcrawler_robots_ip.txt - ASN found when IP looking for robots.txt.
 
 hosts_letsencrypt_ip.txt - ASN found when Lets Encrypt found in webhost logs.
 
+hosts_vulnerability_robots_list.txt - Vulnerability found in webhost logs with non-genuine robots in HTTP request to find specific non-crawled files.
+
 hosts_vulnerability_scanners_list.txt - Vulnerability found in webhost logs, URL HEAD with 404 results, URL UNION string results and various vendors.
 
 ASN_BA_EXPORTS folder - Lists of hosts found by port number. See overlap report: https://github.com/sky-poppy/fwfeed/blob/main/asn_ba_port_recent_top150_port_overlap.txt
