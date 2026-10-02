@@ -3,7 +3,6 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.148.191.74     #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.148.17.62      #AS8075    4.144.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-4.227.153.151    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 4.227.178.182    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 4.249.17.128     #AS8075    4.240.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 5.226.140.19     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -32,7 +31,7 @@
 20.172.67.167    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.172.68.67     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 23.239.11.208    #AS63949   23.239.8.0/21      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-24.144.110.101   #AS14061   24.144.96.0/19     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+34.19.116.57     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.19.116.58     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.19.127.191    #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.19.127.203    #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -50,6 +49,7 @@
 34.78.109.22     #AS396982  34.78.96.0/20      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.78.114.155    #AS396982  34.78.112.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.78.165.245    #AS396982  34.78.160.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+34.79.154.186    #AS396982  34.79.144.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.79.247.70     #AS396982  34.79.240.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.140.176.252   #AS396982  34.140.176.0/20    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.156.46.106    #AS396982  34.156.0.0/17      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -72,9 +72,11 @@
 36.39.254.221    #AS17577   36.39.248.0/21     KR   GIGAPASS-AS-KR-KR - LG HelloVision Corp., KR
 40.76.138.219    #AS8075    40.76.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.76.139.142    #AS8075    40.76.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+40.76.250.59     #AS8075    40.76.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.119.45.252    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.117.60    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.123.67    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+40.124.187.32    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 42.82.138.58     #AS38669   42.82.136.0/22     KR   CNBTV-AS-KR-KR - LG HelloVision Corp., KR
 45.33.78.70      #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.115.26.205    #AS199457  45.115.26.0/24     HK   SolidCore - SolidCore Hosting LTD, VG
@@ -83,15 +85,17 @@
 45.205.1.231     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 48.217.49.188    #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 48.217.82.56     #AS8075    48.216.0.0/14      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+49.142.212.138   #AS9319    49.142.212.0/24    KR   HCNCHUNGJU-AS-KR-KR - HCN CHUNGBUK CABLE TV SYSTEMS, KR
 50.3.76.6        #AS49532   50.3.76.0/22       US   SERVERHUB-NL - Eonix Corporation, US
 50.3.85.90       #AS49532   50.3.84.0/22       US   SERVERHUB-NL - Eonix Corporation, US
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
 52.73.169.169    #AS14618   52.72.0.0/15       US   AMAZON-AES - Amazon.com, Inc., US
 52.248.42.44     #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 61.30.132.150    #AS9924    61.30.128.0/21     TW   TFN-TW - Taiwan Fixed Network, Telco and Network Service Provider., TW
-64.62.156.54     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.152    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.162    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.179    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.188    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.19     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.55       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.123      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -139,6 +143,7 @@
 85.217.149.4     #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.8     #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.29    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.149.53    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.66    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 87.236.176.247   #AS211298  87.236.176.0/24    GB   DRIFTNET - Driftnet Ltd, GB
 89.37.172.153    #AS25369   89.37.172.0/22     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -154,10 +159,12 @@
 94.154.43.95     #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 94.154.43.251    #AS219502  94.154.43.0/24     UA   STORMCLOUD-AS - Storm Industries LLC, US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
+100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 102.220.160.151  #AS197769  102.220.160.0/22   NG   VPSDEDICATED-AS - VPS Dedicated LLC, US
 104.140.224.242  #AS62904   104.140.224.0/23   US   AS62904 - Eonix Corporation, US
 104.155.1.188    #AS396982  104.155.0.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 106.75.130.20    #AS58466   106.75.128.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
+106.104.236.229  #AS131602  106.104.236.0/22   TW   HYA - Hsin Yeong An Cable TV Co., Ltd., TW
 106.105.32.94    #AS4780    106.105.32.0/24    TW   SEEDNET - Digital United Inc., TW
 106.105.43.129   #AS9919    106.105.43.0/24    TW   NCIC-TW - New Century InfoComm Tech Co., Ltd., TW
 106.105.221.183  #AS131602  106.105.192.0/19   TW   HYA - Hsin Yeong An Cable TV Co., Ltd., TW
@@ -174,6 +181,7 @@
 112.105.12.160   #AS18049   112.105.8.0/21     TW   TINP-TW - Taiwan Infrastructure Network Technologie, TW
 113.61.20.104    #AS45365   113.61.20.0/22     KR   JBTV-AS-KR-KR - LG HelloVision Corp., KR
 114.29.80.61     #AS38669   114.29.80.0/21     KR   CNBTV-AS-KR-KR - LG HelloVision Corp., KR
+114.30.159.50    #AS38121   114.30.159.0/24    KR   UPASSTV-AS-KR-KR - LG HelloVision Corp., KR
 114.30.163.110   #AS38121   114.30.163.0/24    KR   UPASSTV-AS-KR-KR - LG HelloVision Corp., KR
 114.30.198.11    #AS38121   114.30.198.0/24    KR   UPASSTV-AS-KR-KR - LG HelloVision Corp., KR
 115.40.110.30    #AS9845    115.40.108.0/22    KR   CJCKN-AS-KR-KR - LG HelloVision Corp., KR
@@ -207,7 +215,6 @@
 141.98.11.129    #AS209605  141.98.11.0/24     LT   hostbaltic - UAB Host Baltic, LT
 141.98.83.48     #AS209588  141.98.83.0/24     PA   FLYSERVERS-ASN - Flyservers S.A., PA
 142.93.49.93     #AS14061   142.93.48.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-143.198.165.179  #AS14061   143.198.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 146.88.241.50    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.60    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.170   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -257,6 +264,7 @@
 192.53.123.56    #AS63949   192.53.120.0/22    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 192.81.212.56    #AS14061   192.81.208.0/21    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 193.3.53.7       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
+193.47.62.187    #AS216014  193.47.62.0/24     BG   BestDC-Limited - BestDC Limited, GB
 193.124.20.252   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.124.20.254   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.163.125.49   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
