@@ -2,6 +2,7 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.226.140.97     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+8.209.211.155    #AS45102   8.209.192.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.211.171.136    #AS45102   8.211.160.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.5.249      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.11.0       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -21,7 +22,6 @@
 20.106.49.209    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.237.159   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 31.14.254.36     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-34.79.217.49     #AS396982  34.79.208.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.88.180.20     #AS396982  34.88.176.0/20     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 34.228.104.231   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
@@ -44,10 +44,10 @@
 45.198.224.230   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.198.224.235   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.198.224.237   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
+45.198.224.238   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 47.84.108.211    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.130.53     #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.190.188    #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.250.95.66     #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.150.255   #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.101.198   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.112.77    #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -57,7 +57,6 @@
 52.165.83.212    #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.188.82.113    #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 61.81.104.110    #AS4766    61.80.0.0/14       KR   KIXS-AS-KR-KR - Korea Telecom, KR
-64.23.187.132    #AS14061   64.23.176.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.13     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.32     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.51     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -102,6 +101,7 @@
 69.5.169.197     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 71.6.134.204     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.134.231     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
+71.6.134.233     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.134.237     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.233.2       #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 74.82.47.61      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
@@ -113,7 +113,6 @@
 78.153.140.237   #AS202306  78.153.140.0/24    RU   HOSTGLOBALPLUS-AS - HOSTGLOBAL.PLUS LTD, GB
 79.124.49.90     #AS50360   79.124.49.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.198    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-79.124.60.218    #AS50360   79.124.60.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.19.216.109    #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 81.19.219.205    #AS25369   81.19.208.0/20     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 82.23.146.105    #AS212238  82.23.146.0/24     GB   CDNEXT - Datacamp Limited, GB
@@ -161,7 +160,6 @@
 172.203.228.228  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.235.201.152  #AS63949   172.235.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-176.65.149.236   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 184.105.139.84   #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.139.125  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.200  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
@@ -172,7 +170,6 @@
 193.176.31.148   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.31.158   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 193.176.31.248   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-194.88.98.104    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.111    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.187.178.109  #AS215778  194.187.178.0/24   DE   ALPHASTRIKE-HK - Alpha Strike Labs GmbH, DE
 195.178.110.204  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
