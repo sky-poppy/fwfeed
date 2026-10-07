@@ -7,6 +7,7 @@
 20.65.203.14     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.148.186    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.106.39.215    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.163.3.68      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.55.196    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.85.19     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 31.14.254.8      #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -20,7 +21,6 @@
 40.67.172.96     #AS8075    40.67.0.0/16       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.76.122.49     #AS8075    40.76.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.119.45.252    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-40.124.115.39    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.122.200   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.82.76.106     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
 45.133.173.193   #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -34,11 +34,12 @@
 64.62.197.198    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.89.163.247    #AS401626  64.89.163.0/24     US   NETIFACE-TORONTO - Netiface America, Inc., US
 65.49.1.64       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.20.70      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.93       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.125     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 66.132.172.228   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.172.236   #AS398324  66.132.172.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.222   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
+66.132.224.17    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.19    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 69.5.169.8       #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.44      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -62,7 +63,7 @@
 109.105.210.68   #AS21859   109.105.210.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 134.199.154.99   #AS14061   134.199.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 146.88.240.40    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.241.30    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+146.88.241.40    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.50    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.80    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.160   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -83,8 +84,8 @@
 184.105.247.247  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.254  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.216.145.181  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-185.223.235.18   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.223.235.49   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+185.223.235.51   #AS25369   185.223.235.0/24   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.242.226.63   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 193.47.62.187    #AS216014  193.47.62.0/24     BG   BestDC-Limited - BestDC Limited, GB
 193.124.20.238   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -104,9 +105,9 @@
 205.210.31.101   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.184   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.201   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.205   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.252   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 209.38.26.75     #AS14061   209.38.16.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+213.166.84.46    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 216.218.206.72   #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US
 217.60.76.129    #AS401626  217.60.76.0/24     AE   NETIFACE-TORONTO - Netiface America, Inc., US
 217.60.76.179    #AS401626  217.60.76.0/24     AE   NETIFACE-TORONTO - Netiface America, Inc., US
