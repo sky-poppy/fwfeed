@@ -1,5 +1,4 @@
 3.82.209.93      #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
-9.234.8.223      #AS8075    9.234.0.0/15       GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.220.107.9     #AS14618   13.216.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 13.222.228.146   #AS14618   13.216.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 18.221.100.43    #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -9,6 +8,7 @@
 20.42.99.8       #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.44.181     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.144.98     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.65.176.217    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.219.59     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.219.188    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.80.72.228     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -28,7 +28,6 @@
 34.230.221.101   #AS14618   34.224.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 40.124.170.205   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.176.147   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-43.153.88.198    #AS132203  43.153.64.0/18     SG   TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN
 44.203.139.246   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.33.94.76      #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -78,6 +77,7 @@
 85.217.149.63    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.66    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.149.69    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
+87.120.104.79    #AS211443  87.120.104.0/24    BG   SINOWORLDWIDE - SINO WORLDWIDE TRADING LIMITED, HK
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 89.248.165.203   #AS202425  89.248.165.0/24    NL   INT-NETWORK - IP Volume inc, SC
 91.196.152.35    #AS213412  91.196.152.0/24    FR   ONYPHE - ONYPHE SAS, FR
@@ -90,7 +90,9 @@
 100.26.98.21     #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.18    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.35    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.51.6.16      #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.55.1.14      #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
+104.248.56.207   #AS14061   104.248.48.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 134.33.67.105    #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 134.199.239.169  #AS14061   134.199.224.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 138.226.239.10   #AS213474  138.226.239.0/24   GB   HOMELINE-AS - HomeLine Broadband LLC, US
@@ -117,7 +119,6 @@
 172.232.15.250   #AS63949   172.232.0.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.234.218.210  #AS63949   172.234.192.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-173.255.221.22   #AS63949   173.255.208.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 178.20.210.136   #AS210006  178.20.210.0/24    DE   ASKZ - Shereverov Marat Ahmedovich, KZ
 178.128.156.44   #AS14061   178.128.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 184.105.247.228  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
