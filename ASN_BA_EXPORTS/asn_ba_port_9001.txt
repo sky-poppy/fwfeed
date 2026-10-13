@@ -2,7 +2,6 @@
 3.131.24.55      #AS16509   3.131.0.0/16       US   AMAZON-02 - Amazon.com, Inc., US
 3.141.153.201    #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
-4.227.177.164    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.89.125.176    #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
@@ -24,7 +23,9 @@
 34.197.70.90     #AS14618   34.192.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 35.169.206.177   #AS14618   35.168.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 40.74.210.102    #AS8075    40.74.0.0/15       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+40.119.41.160    #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.113.145   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+40.124.117.11    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.186.144   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.82.76.139     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
 45.156.129.66    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
@@ -34,12 +35,10 @@
 64.23.147.235    #AS14061   64.23.144.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.23.245.80     #AS14061   64.23.240.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 64.62.156.22     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.28     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.90     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.94     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.116    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.120    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
-64.62.156.135    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.206    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.207    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.212    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -74,6 +73,7 @@
 74.82.47.34      #AS6939    74.82.0.0/18       US   HURRICANE - Hurricane Electric LLC, US
 74.249.132.26    #AS8075    74.248.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 74.249.179.141   #AS8075    74.248.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+77.90.185.121    #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 78.128.114.46    #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 82.23.146.105    #AS212238  82.23.146.0/24     GB   CDNEXT - Datacamp Limited, GB
 82.147.85.62     #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
@@ -98,6 +98,7 @@
 93.174.95.106    #AS202425  93.174.95.0/24     NL   INT-NETWORK - IP Volume inc, SC
 94.183.174.95    #AS51396   94.183.174.0/24    AE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 100.28.153.226   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.12    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.72    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.74    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.102   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -111,7 +112,6 @@
 141.98.11.8      #AS209605  141.98.11.0/24     LT   hostbaltic - UAB Host Baltic, LT
 146.88.240.130   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.131   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
-146.88.240.146   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.148   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.150   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.240.151   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -158,6 +158,7 @@
 205.210.31.208   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.215   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.249   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+205.210.31.255   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.25.89.86     #AS396982  216.25.89.0/24     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.25.89.116    #AS396982  216.25.89.0/24     US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 216.218.206.107  #AS6939    216.218.128.0/17   US   HURRICANE - Hurricane Electric LLC, US

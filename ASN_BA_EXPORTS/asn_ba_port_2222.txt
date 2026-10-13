@@ -1,17 +1,16 @@
 2.57.122.77      #AS47890   2.57.122.0/24      RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 3.137.146.232    #AS16509   3.136.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 5.226.140.110    #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-8.34.210.51      #AS396982  8.34.210.0/24      US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 8.130.162.112    #AS37963   8.130.0.0/16       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.137.55.67      #AS37963   8.137.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.137.159.210    #AS37963   8.137.128.0/17     SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.152.99.77      #AS37963   8.152.0.0/17       SG   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.218.24.187     #AS45102   8.218.0.0/17       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+13.86.117.25     #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.143.175.38    #AS219337  13.143.175.0/24    US   PLAY2GO - PLAY2GO - FZCO, AE
 16.5.0.192       #AS401661  16.5.0.0/24        US   
 20.29.29.129     #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.38.35.78      #AS8075    20.36.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.42.90.114     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.46.234.240    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.169.178    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.169.214    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -22,6 +21,7 @@
 20.163.13.0      #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.58.216    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.55.106    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.221.75.0      #AS8075    20.192.0.0/10      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.221.75.253    #AS8075    20.192.0.0/10      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 23.141.84.60     #AS401701  23.141.84.0/24     US   COGNETCLOUD-2 - cognetcloud INC, US
 31.57.62.245     #AS56971   31.57.62.0/24      AE   AS56971 - CGI GLOBAL LIMITED, HK
@@ -57,6 +57,7 @@
 45.79.192.205    #AS63949   45.79.192.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.91.64.7       #AS214664  45.91.64.0/24      RU   Buduschee - JSC Buduschee, RU
 45.115.26.205    #AS199457  45.115.26.0/24     HK   SolidCore - SolidCore Hosting LTD, VG
+45.133.173.220   #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 45.142.193.169   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 45.148.10.61     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
 45.148.10.230    #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
@@ -76,7 +77,6 @@
 47.95.234.23     #AS37963   47.94.0.0/15       CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.109.134.2     #AS37963   47.109.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.112.14.15     #AS37963   47.112.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.112.28.17     #AS37963   47.112.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.120.30.67     #AS37963   47.120.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.250.120.189   #AS45102   47.250.64.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.250.157.97    #AS45102   47.250.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -95,6 +95,7 @@
 67.205.129.51    #AS14061   67.205.128.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 69.5.169.80      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.172     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+71.6.135.131     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 77.90.185.16     #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 77.90.185.20     #AS213790  77.90.185.0/24     DE   LimitedNetwork-AS - Limited Network LTD, GB
 77.239.124.130   #AS198364  77.239.124.0/24    US   BANATSYNC-SRL - BANATSYNC SRL, RO
@@ -116,6 +117,7 @@
 85.217.140.35    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.40    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.46    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
+85.217.140.47    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.48    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.49    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
 85.217.140.52    #AS209334  85.217.140.0/24    NL   MODAT-01 - Modat B.V., NL
@@ -153,7 +155,6 @@
 103.120.116.162  #AS138039  103.120.116.0/24   PK   BBI-AS-AP - Broadband Business Ideas (PVT.) Limited, PK
 103.127.29.111   #AS134926  103.127.29.0/24    IN   MICROHOST-AS - Micro Hosting Private Limited, IN
 103.149.197.34   #AS140158  103.149.197.0/24   IN   NAII-AS-IN - Net Access Internet India Pvt Ltd, IN
-104.248.172.3    #AS14061   104.248.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 104.251.180.183  #AS402253  104.251.180.0/22   KN   SKN-NETWORK-1 - SKN Subnet & Telecom Ltd, KN
 106.12.221.161   #AS38365   106.12.208.0/20    CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 106.52.123.42    #AS45090   106.52.112.0/20    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
@@ -171,6 +172,7 @@
 118.193.36.63    #AS135377  118.193.36.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
 120.48.22.219    #AS38365   120.48.0.0/19      CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 120.48.152.13    #AS38365   120.48.128.0/19    CN   Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
+120.77.210.41    #AS37963   120.77.128.0/17    CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.211.74.131   #AS24547   120.211.72.0/22    CN   CMNET-V4HEBEI-AS-AP - Hebei Mobile Communication Company Limited, CN
 120.232.150.70   #AS9808    120.232.150.0/24   CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 121.41.76.54     #AS37963   121.40.0.0/15      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -178,9 +180,8 @@
 123.27.182.192   #AS45899   123.27.176.0/20    VN   VNPT-AS-VN - VNPT Corp, VN
 123.56.11.51     #AS37963   123.56.0.0/16      CN   ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
 134.209.125.89   #AS14061   134.209.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-134.209.184.221  #AS14061   134.209.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+134.209.147.61   #AS14061   134.209.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 135.233.115.176  #AS8075    135.232.0.0/14     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-138.68.184.252   #AS14061   138.68.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 138.197.123.206  #AS14061   138.197.112.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 138.226.239.21   #AS213474  138.226.239.0/24   GB   HOMELINE-AS - HomeLine Broadband LLC, US
 139.144.235.132  #AS63949   139.144.232.0/21   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -206,6 +207,7 @@
 148.59.129.80    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 148.59.129.88    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 148.59.129.98    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
+148.59.129.108   #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 148.59.129.132   #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 150.138.73.149   #AS137690  150.138.64.0/20    CN   CHINATELECOM-SHANDONG-ZAOZHUANG-IDC - Zaozhuang,Shandong Province, P.R.China., CN
 152.32.225.105   #AS135377  152.32.225.0/24    HK   UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK
@@ -254,6 +256,7 @@
 187.132.217.15   #AS8151    187.132.208.0/20   MX   AS8151 - UNINET, MX
 188.166.183.84   #AS14061   188.166.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 192.34.62.126    #AS14061   192.34.56.0/21     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+192.241.139.136  #AS14061   192.241.128.0/19   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 193.3.53.8       #AS211607  193.3.53.0/24      US   RECORDEDFUTURE - Securitytrails, LLC, US
 193.32.162.203   #AS47890   193.32.162.0/24    RO   UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD, GB
 193.176.31.216   #AS25369   193.176.31.0/24    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
