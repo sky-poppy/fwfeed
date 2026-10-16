@@ -4,6 +4,7 @@
 5.252.83.190     #AS25369   5.252.83.0/24      AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 9.234.40.223     #AS8075    9.234.0.0/15       GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 13.89.121.109    #AS8075    13.64.0.0/11       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+18.224.39.133    #AS16509   18.224.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.14.76.11      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.29.30.64      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.40.211.178    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -11,10 +12,8 @@
 20.42.56.139     #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.46.236.118    #AS8075    20.40.0.0/13       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.51.238.116    #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.64.98.221     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.170.250    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.178.19     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.65.178.234    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.200.197    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.202.150    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.202.190    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -23,6 +22,7 @@
 20.84.165.53     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.98.130.204    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.102.100.50    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.106.59.227    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.227.168   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.235.80    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.243.215   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -47,13 +47,13 @@
 40.124.186.191   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.33.65.181     #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-45.82.76.104     #AS212512  45.82.76.0/24      DE   DETAI - Detai Prosperous Technologies Limited, GB
 45.156.129.90    #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 47.77.227.171    #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.77.230.24     #AS45102   47.77.192.0/18     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.138.105    #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.90.59     #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.186.171.170   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+52.188.226.32    #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.188.226.173   #AS8075    52.160.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 52.248.41.39     #AS8075    52.224.0.0/11      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 64.62.156.18     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
@@ -83,6 +83,7 @@
 74.249.191.144   #AS8075    74.248.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.19.216.67     #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+85.217.149.62    #AS209334  85.217.149.0/24    NL   MODAT-01 - Modat B.V., NL
 89.21.67.169     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 91.230.168.174   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 100.28.191.174   #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -99,7 +100,6 @@
 172.169.233.64   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.169.249.127  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.172.232.195  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.174.113.188  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.202.107.53   #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.206.227.114  #AS8075    172.200.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.208.66.105   #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -133,7 +133,6 @@
 199.45.154.186   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 204.48.17.111    #AS14061   204.48.16.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 205.210.31.54    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-205.210.31.64    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.175   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.177   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.207   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US

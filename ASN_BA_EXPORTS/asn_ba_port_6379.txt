@@ -7,10 +7,10 @@
 8.219.222.66     #AS45102   8.219.128.0/17     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 14.18.118.84     #AS135089  14.18.112.0/21     CN   CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
 14.116.219.149   #AS135089  14.116.192.0/19    CN   CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
-16.5.0.202       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 18.117.109.14    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
+20.38.35.135     #AS8075    20.36.0.0/14       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.51.217.66     #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.55.3.53       #AS8075    20.48.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.144.90     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -53,6 +53,7 @@
 40.124.83.0      #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.178.24    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 43.139.215.177   #AS45090   43.139.192.0/18    CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
+43.228.157.169   #AS205759  43.228.157.0/24    PK   GHOSTYNETWORKS - Ghosty Networks LLC, US
 44.215.219.236   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 45.33.114.141    #AS63949   45.33.112.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.190.10     #AS63949   45.79.176.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -99,6 +100,7 @@
 71.6.232.24      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 74.235.81.92     #AS8075    74.234.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 77.67.26.169     #AS25369   77.67.26.0/24      US   BANDWIDTH-AS - Hydra Communications Ltd, GB
+79.124.56.138    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 80.82.65.153     #AS202425  80.82.65.0/24      NL   INT-NETWORK - IP Volume inc, SC
 81.19.216.92     #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 81.70.2.239      #AS45090   81.70.0.0/18       CN   TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
@@ -189,7 +191,6 @@
 172.172.193.200  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.180.64.141   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.208.64.173   #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.210.66.249   #AS8075    172.208.0.0/13     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.238.188.122  #AS63949   172.238.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 175.6.34.100     #AS63835   175.6.32.0/21      CN   CT-HuNan-Changsha-IDC - No.293,Wanbao Avenue, CN
 176.32.193.16    #AS197834  176.32.193.0/24    AM   INTERACTIVE - Ucom CJSC, AM
@@ -218,7 +219,6 @@
 193.47.62.187    #AS216014  193.47.62.0/24     BG   BestDC-Limited - BestDC Limited, GB
 193.163.125.2    #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.36   #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
-193.163.125.181  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.184  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.197  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.29.30    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -227,7 +227,6 @@
 198.23.209.169   #AS36352   198.23.209.0/24    US   AS-COLOCROSSING - HostPapa, US
 198.211.102.183  #AS14061   198.211.96.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 198.235.24.123   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
-198.235.24.168   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.240   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 199.45.154.180   #AS398722  199.45.154.0/24    US   CENSYS-ARIN-03 - Censys, Inc., US
 199.165.159.27   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
