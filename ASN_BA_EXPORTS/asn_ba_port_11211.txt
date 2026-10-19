@@ -15,7 +15,6 @@
 20.65.169.148    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.217.127    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.44.180     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.112.235.238   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.119.73.193    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.154.194   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.203.83    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -62,6 +61,7 @@
 62.210.89.150    #AS12876   62.210.0.0/16      FR   #AS12876 - Scaleway SAS, FR
 64.62.156.27     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.47     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+64.62.156.87     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.99     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.113    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.22     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -88,7 +88,6 @@
 66.132.186.254   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.17    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.23    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-66.228.41.127    #AS63949   66.228.32.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 67.207.94.60     #AS14061   67.207.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 69.5.169.19      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.161     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -103,6 +102,7 @@
 86.54.31.32      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
 89.21.67.134     #AS25369   89.21.67.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 89.37.172.143    #AS25369   89.37.172.0/22     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+89.109.253.239   #AS25515   89.109.192.0/18    RU   CTCNET-AS - PJSC Rostelecom, RU
 89.248.163.168   #AS202425  89.248.163.0/24    NL   INT-NETWORK - IP Volume inc, SC
 89.248.165.203   #AS202425  89.248.165.0/24    NL   INT-NETWORK - IP Volume inc, SC
 91.230.168.119   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
@@ -127,9 +127,11 @@
 106.75.181.41    #AS58466   106.75.176.0/20    CN   CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
 109.105.209.7    #AS21859   109.105.209.0/24   PT   ZEN-ECN - Zenlayer Inc, US
 109.105.210.69   #AS21859   109.105.210.0/24   PT   ZEN-ECN - Zenlayer Inc, US
+134.33.67.109    #AS8075    134.33.0.0/16      GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 139.202.232.10   #AS4134    139.202.0.0/16     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 141.98.83.48     #AS209588  141.98.83.0/24     PA   FLYSERVERS-ASN - Flyservers S.A., PA
 142.93.207.96    #AS14061   142.93.192.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+144.225.8.33     #AS7488    144.225.8.0/24     US   CNSERVER-AP-AS - CNServer LLC, US
 146.88.241.90    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.100   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.110   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
@@ -145,7 +147,6 @@
 167.94.145.30    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 172.94.9.112     #AS213790  172.94.9.0/24      US   LimitedNetwork-AS - Limited Network LTD, GB
 172.174.113.188  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-172.178.123.200  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.180.64.124   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.245.90.204   #AS36352   172.245.90.0/23    US   AS-COLOCROSSING - HostPapa, US
 176.32.193.16    #AS197834  176.32.193.0/24    AM   INTERACTIVE - Ucom CJSC, AM
