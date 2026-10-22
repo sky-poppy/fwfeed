@@ -1,6 +1,5 @@
 # fwfeed 
 Firewall ip blocklist 
-Backup download link, Google Drive - https://drive.google.com/drive/folders/1JAePXLHSvxW9UYVPxr9FPt9EjUej705F?usp=drive_link
 
 Our honeypot loggers are based in New Zealand, the blocklist is populated from real webhosts and firewall logging data of bad actor IP content using dynamic public IPs that are renewed weekly.
 
@@ -38,16 +37,15 @@ ASN_CAT_EXPORTS folder - Lists of ASN by entity type with prefix, BGP private, n
 ASN_GEO_EXPORTS folder - Lists of ASN by country code with prefix.
 
 
-WHITELIST A IP ADDRESS
+WHITELIST YOUR IP ADDRESS
 See link https://doesnotcompute.supportu.nz/ip-address-lookup-honeypot
 
 WHITELIST SERVICES
 None specific
 Use a robots.txt file to control web crawlers. Use nginx/apache rules to deny unwanted crawlers that ignore robots.txt rules. For abuse example, see file https://github.com/sky-poppy/fwfeed/blob/main/abuse_ba_webcrawler_name_abuse_log_example.txt
 
-
 PREDICTIVE BLOCKLISTS
-I do have service for predictive blocklists based on patterns detected to prevent zero day compromises.
+I do have service for predictive blocklists based on patterns detected to prevent zero day compromises and one trigger happy list that blocks an entire ASN if one IP is found probing our sensors on popular ports like 22, 23, 500, 3389.
 reach out to datatwolimited@gmail.com, MSPs and security focused individuals see report https://github.com/sky-poppy/fwfeed/blob/main/blocklist_honeypot_firewall_stats.txt - See predictive lines within the stats file.
 
 PUBLIC REQUEST
