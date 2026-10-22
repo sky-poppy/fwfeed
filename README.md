@@ -42,7 +42,7 @@ See link https://doesnotcompute.supportu.nz/ip-address-lookup-honeypot
 
 WHITELIST SERVICES
 None specific
-Use a robots.txt file to control web crawlers. Use nginx/apache rules to deny unwanted crawlers that ignore robots.txt rules. For abuse example, see file https://github.com/sky-poppy/fwfeed/blob/main/abuse_ba_webcrawler_name_abuse_log_example.txt
+Use a robots.txt file to control web crawlers. Use nginx/apache rules to deny unwanted crawlers that ignore robots.txt rules. For abuse example, see file https://github.com/sky-poppy/fwfeed/blob/main/hosts_vulnerability_robots_log_example.txt
 
 PREDICTIVE BLOCKLISTS
 I do have service for predictive blocklists based on patterns detected to prevent zero day compromises and one trigger happy list that blocks an entire ASN if one IP is found probing our sensors on popular ports like 22, 23, 500, 3389.
