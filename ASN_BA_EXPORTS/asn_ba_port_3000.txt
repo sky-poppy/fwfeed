@@ -1,5 +1,4 @@
 3.85.30.112      #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
-3.145.135.106    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.246.225.140    #AS8075    4.240.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -20,6 +19,7 @@
 20.80.108.167    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.83.36.88      #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.37.206    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.118.235.123   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.119.94.179    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.3.122     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.116.252   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -33,11 +33,13 @@
 35.203.210.92    #AS396982  35.203.210.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 44.203.125.226   #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
 44.203.188.7     #AS14618   44.192.0.0/11      US   AMAZON-AES - Amazon.com, Inc., US
+45.33.50.16      #AS63949   45.33.32.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.58.168.141    #AS46844   45.58.168.0/24     US   SHARKTECH - Sharktech, US
 45.63.4.69       #AS20473   45.63.0.0/20       US   AS-VULTR - The Constant Company, LLC, US
 45.77.61.56      #AS20473   45.77.60.0/22      US   AS-VULTR - The Constant Company, LLC, US
 45.79.192.205    #AS63949   45.79.192.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.115.26.25     #AS199457  45.115.26.0/24     HK   SolidCore - SolidCore Hosting LTD, VG
+45.133.173.99    #AS25369   45.133.173.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 45.135.194.31    #AS51396   45.135.194.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 45.142.193.169   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 45.148.10.61     #AS48090   45.148.10.0/24     RO   DMZHOST - TECHOFF SRV LIMITED, GB
@@ -63,7 +65,6 @@
 65.49.1.102      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.106      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.158      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.179      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.209      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.212      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.220      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -77,8 +78,8 @@
 68.69.177.102    #AS402226  68.69.177.0/24     US   ONLYSCANS - OnlyScans LLC, US
 68.209.56.42     #AS55286   68.209.56.0/24     CA   SERVER-MANIA - B2 Net Solutions Inc., CA
 69.5.169.7       #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.5.169.17      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.227     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+69.55.49.66      #AS14061   69.55.49.0/24      US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 71.6.232.28      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.232.29      #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
 71.6.233.233     #AS10439   71.6.128.0/17      US   CARINET - CariNet, Inc., US
@@ -93,7 +94,6 @@
 78.153.140.237   #AS202306  78.153.140.0/24    RU   HOSTGLOBALPLUS-AS - HOSTGLOBAL.PLUS LTD, GB
 79.124.49.70     #AS50360   79.124.49.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.56.214    #AS50360   79.124.56.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
-79.124.58.22     #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.142    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 79.124.58.162    #AS50360   79.124.58.0/24     BG   TAMATIYA-AS - Tamatiya EOOD, BG
 82.147.85.62     #AS211860  82.147.84.0/23     RU   VPSDEDIC-AS - Nerushenko Vyacheslav Nikolaevich, RU
@@ -194,6 +194,7 @@
 184.105.247.219  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.223  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 184.105.247.235  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
+184.105.247.238  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
 185.12.59.118    #AS50304   185.12.56.0/22     NO   BLIX - Blix Solutions AS, NO
 185.107.80.93    #AS43350   185.107.80.0/22    NL   NFORCE - NForce Entertainment B.V., NL
 185.136.15.12    #AS205997  185.136.15.0/24    KZ   Vlad_Cojuhari - Vlad Cojuhari, MD
@@ -213,7 +214,6 @@
 194.180.49.219   #AS201814  194.180.49.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
 195.178.110.50   #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
 195.178.110.204  #AS48090   195.178.110.0/24   BG   DMZHOST - TECHOFF SRV LIMITED, GB
-195.184.76.3     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.6     #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.184.76.231   #AS213412  195.184.76.0/24    FR   ONYPHE - ONYPHE SAS, FR
 195.230.103.242  #AS211607  195.230.103.0/24   US   RECORDEDFUTURE - Securitytrails, LLC, US

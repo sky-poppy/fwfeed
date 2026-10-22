@@ -1,4 +1,3 @@
-4.148.9.96       #AS8075    4.144.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 5.226.140.32     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 5.226.140.115    #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 9.234.18.247     #AS8075    9.234.0.0/15       GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -46,11 +45,12 @@
 38.99.239.208    #AS398991  38.99.239.0/24     US   X99-US - X99, US
 39.144.94.223    #AS9808    39.144.94.0/24     CN   CHINAMOBILE-CN - China Mobile Communications Group Co., Ltd., CN
 40.67.178.181    #AS8075    40.67.0.0/16       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+40.119.46.93     #AS8075    40.112.0.0/13      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.84.37     #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.113.127   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 40.124.117.11    #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-40.124.123.208   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.33.65.186     #AS63949   45.33.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+45.33.114.99     #AS63949   45.33.112.0/20     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.156.128.61    #AS211680  45.156.128.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.198.224.251   #AS215925  45.198.224.0/24    SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
 45.205.1.231     #AS215925  45.205.1.0/24      SC   VPSVAULTHOST - VPSVAULT.HOST LTD, GB
@@ -70,7 +70,6 @@
 64.89.163.247    #AS401626  64.89.163.0/24     US   NETIFACE-TORONTO - Netiface America, Inc., US
 64.205.72.142    #AS25369   64.205.72.0/24     US   BANDWIDTH-AS - Hydra Communications Ltd, GB
 64.226.83.235    #AS14061   64.226.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-65.49.1.28       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.32       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.55       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.81      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -78,7 +77,6 @@
 66.240.236.119   #AS10439   66.240.192.0/18    US   CARINET - CariNet, Inc., US
 67.207.94.60     #AS14061   67.207.80.0/20     US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 68.183.130.245   #AS14061   68.183.128.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
-69.5.169.50      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.223     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.231     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.164.193.205   #AS63949   69.164.192.0/20    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -86,6 +84,7 @@
 77.67.26.4       #AS25369   77.67.26.0/24      US   BANDWIDTH-AS - Hydra Communications Ltd, GB
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 81.19.216.78     #AS25369   81.19.216.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+85.239.232.238   #AS40021   85.239.232.0/21    DE   CONTABO-40021 - Contabo Inc., US
 86.38.187.232    #AS25369   86.38.187.0/24     LT   BANDWIDTH-AS - Hydra Communications Ltd, GB
 94.102.49.193    #AS202425  94.102.49.0/24     NL   INT-NETWORK - IP Volume inc, SC
 98.89.204.118    #AS14618   98.88.0.0/13       US   AMAZON-AES - Amazon.com, Inc., US
@@ -109,6 +108,7 @@
 146.88.241.50    #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.130   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
 146.88.241.150   #AS20052   146.88.240.0/23    US   ARBOR - Arbor Networks, Inc., US
+147.182.143.136  #AS14061   147.182.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 147.185.132.31   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.45   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.153  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -117,6 +117,7 @@
 151.80.60.145    #AS16276   151.80.0.0/16      FR   OVH - OVH SAS, FR
 151.243.11.230   #AS209630  151.243.11.0/24    AE   KREDIT-AS - LLC VASH KREDIT BANK, UA
 154.16.44.75     #AS25369   154.16.44.0/24     ZA   BANDWIDTH-AS - Hydra Communications Ltd, GB
+161.35.112.112   #AS14061   161.35.112.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 161.35.181.152   #AS14061   161.35.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 163.61.236.119   #AS153634  163.61.236.0/24    BD   CODENEXT-AS-AP - CodeNext IT Solution, BD
 165.22.180.41    #AS14061   165.22.176.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
@@ -132,7 +133,6 @@
 173.242.52.207   #AS200000  173.242.48.0/20    UA   Ukraine-AS - Hosting Ukraine LTD, UA
 174.138.202.172  #AS11814   174.138.192.0/19   CA   DISTRIBUTEL-AS11814 - Distributel Communications Limited, CA
 176.65.149.254   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
-178.79.137.171   #AS63949   178.79.128.0/18    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 185.3.95.77      #AS63949   185.3.92.0/22      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 185.148.3.114    #AS203003  185.148.0.0/22     FI   magna-capax - Magna Capax Finland Oy, FI
 185.180.141.32   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
@@ -159,5 +159,6 @@
 212.23.217.3     #AS210509  212.23.217.0/24    IQ   optline - Optimum Line for Internet Services Ltd., IQ
 217.60.76.58     #AS401626  217.60.76.0/24     AE   NETIFACE-TORONTO - Netiface America, Inc., US
 217.60.76.129    #AS401626  217.60.76.0/24     AE   NETIFACE-TORONTO - Netiface America, Inc., US
+217.60.76.179    #AS401626  217.60.76.0/24     AE   NETIFACE-TORONTO - Netiface America, Inc., US
 217.71.127.125   #AS198545  217.71.127.0/24    US   FLEXNETWORK-AS - FLEX NETWORK SARL, FR
 217.160.190.176  #AS8560    217.160.190.0/24   DE   IONOS-AS - IONOS SE, DE

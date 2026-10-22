@@ -2,8 +2,10 @@
 3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 4.227.177.119    #AS8075    4.224.0.0/12       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 5.226.140.42     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+5.226.140.101    #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 5.252.83.229     #AS25369   5.252.83.0/24      AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
+18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 20.14.94.44      #AS8075    20.0.0.0/11        US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -14,11 +16,9 @@
 20.150.194.139   #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.3.133     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.56.81     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.168.116.248   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.168.122.104   #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.171.10.170    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.171.13.40     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-23.238.46.196    #AS36352   23.238.46.0/24     US   AS-COLOCROSSING - HostPapa, US
 31.14.254.56     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 31.14.254.123    #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.19.116.48     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -36,6 +36,7 @@
 40.124.186.171   #AS8075    40.124.0.0/16      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 45.33.50.143     #AS63949   45.33.32.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.56.72.126     #AS63949   45.56.64.0/20      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+45.79.92.220     #AS63949   45.79.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.156.128.63    #AS211680  45.156.128.0/24    PT   #AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 45.160.231.44    #AS270724  45.160.231.0/24    BR   AS270724 - CLIENT.CO SERVICOS E TELECOMUNICACOES LTDA, BR
 47.236.118.186   #AS45102   47.236.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -96,7 +97,6 @@
 91.230.168.218   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.90     #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 91.231.89.251    #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
-91.231.89.254    #AS213412  91.231.89.0/24     FR   ONYPHE - ONYPHE SAS, FR
 100.29.192.47    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.76    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.29.192.92    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
@@ -143,7 +143,6 @@
 183.162.100.65   #AS4134    183.160.0.0/13     CN   CHINANET-BACKBONE - No.31,Jin-rong Street, CN
 185.136.15.86    #AS210328  185.136.15.0/24    KZ   ALMAZ - AO ALMAZ, RU
 185.180.141.33   #AS21859   185.180.141.0/24   PT   ZEN-ECN - Zenlayer Inc, US
-185.242.226.90   #AS202425  185.242.226.0/24   US   INT-NETWORK - IP Volume inc, SC
 188.240.59.19    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 188.240.59.39    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 189.113.8.254    #AS28209   189.113.8.0/22     BR   #AS28209 - Under Servicos de Internet Ltda, BR
@@ -155,7 +154,6 @@
 193.163.125.210  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.163.125.220  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 193.176.29.30    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-194.88.98.120    #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.180.49.71    #AS201814  194.180.49.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
 194.180.49.121   #AS201814  194.180.49.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
 195.24.207.184   #AS15964   195.24.207.0/24    CM   CAMTEL - CAMTEL, CM
