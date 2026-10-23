@@ -1,8 +1,8 @@
 2.27.155.18      #AS219543  2.27.155.0/24      US   PA1792-AS - German Kiselev, RU
 3.83.245.221     #AS14618   3.80.0.0/12        US   AMAZON-AES - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
-3.151.116.231    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.211.12.171     #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+18.116.202.164   #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.119.209.50    #AS16509   18.116.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -26,7 +26,6 @@
 45.33.50.143     #AS63949   45.33.32.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.56.72.126     #AS63949   45.56.64.0/20      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.92.220     #AS63949   45.79.64.0/19      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
-45.79.145.211    #AS63949   45.79.128.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.79.192.53     #AS63949   45.79.192.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 45.156.128.76    #AS211680  45.156.128.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 47.237.103.155   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -35,6 +34,7 @@
 64.62.156.43     #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.103    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.169    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
+65.49.1.40       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.60       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.113      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.147      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -78,7 +78,6 @@
 142.93.254.14    #AS14061   142.93.240.0/20    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 143.42.0.97      #AS63949   143.42.0.0/21      US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 144.24.159.248   #AS31898   144.24.128.0/19    SE   ORACLE-BMC-31898 - Oracle Corporation, US
-147.182.136.128  #AS14061   147.182.128.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 147.185.132.147  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.132.171  #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 147.185.133.57   #AS396982  147.185.132.0/22   US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -86,15 +85,16 @@
 148.59.129.40    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 148.59.129.53    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 148.59.129.85    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
+148.59.129.87    #AS212238  148.59.129.0/24    CA   CDNEXT - Datacamp Limited, GB
 149.28.176.205   #AS20473   149.28.160.0/19    US   AS-VULTR - The Constant Company, LLC, US
 154.6.145.14     #AS141718  154.6.145.0/24     US   HHXYTC-AS-AP - haoxiangyun, HK
 159.65.219.133   #AS14061   159.65.216.0/21    US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 160.191.244.5    #AS153416  160.191.244.0/23   VN   DTDMVNCLOUD-VN - Hoang Dieu Cloud Computing Company Limited, VN
 161.97.162.119   #AS51167   161.97.160.0/20    DE   CONTABO - Contabo GmbH, DE
-165.227.189.55   #AS14061   165.227.176.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 165.245.164.170  #AS14061   165.245.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 167.94.145.16    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 167.94.145.20    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
+167.94.145.28    #AS398705  167.94.145.0/24    US   CENSYS-ARIN-02 - Censys, Inc., US
 168.144.171.60   #AS14061   168.144.160.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 172.172.163.244  #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 172.190.106.37   #AS8075    172.160.0.0/11     GB   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
