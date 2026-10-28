@@ -4,6 +4,7 @@
 5.188.206.194    #AS200391  5.188.206.0/24     RU   KREZ999AS - KREZ 999 EOOD, BG
 8.209.234.120    #AS45102   8.209.224.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.209.236.193    #AS45102   8.209.224.0/19     SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+8.211.47.30      #AS45102   8.211.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.4.37       #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.6.219      #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 8.216.10.200     #AS45102   8.216.0.0/18       SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -27,11 +28,11 @@
 20.121.138.106   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.171.114   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.127.190.41    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.150.194.107   #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.150.212.118   #AS8075    20.150.0.0/15      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.11.221    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.34.118    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.163.58.46     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-20.169.50.213    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.57.79     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.85.11     #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.169.90.253    #AS8075    20.160.0.0/12      US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -55,6 +56,7 @@
 45.142.193.169   #AS214295  45.142.193.0/24    RO   SKYNET - SKYNET NETWORK LTD, GB
 45.156.129.108   #AS211680  45.156.129.0/24    PT   AS-BITSIGHT - NSEC - Sistemas Informaticos, S.A., PT
 47.74.13.101     #AS45102   47.74.0.0/19       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+47.84.101.124    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.109.187    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.110.216    #AS45102   47.84.0.0/17       US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.84.139.248    #AS45102   47.84.128.0/17     US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -62,7 +64,6 @@
 47.236.116.36    #AS45102   47.236.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.237.145.174   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.129.215   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-47.245.139.32    #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.139.141   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.245.140.111   #AS45102   47.245.128.0/18    US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 47.251.125.100   #AS45102   47.251.0.0/17      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
@@ -98,7 +99,6 @@
 66.132.186.239   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.244   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.186.246   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
-69.5.169.2       #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.6       #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.40      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.109     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -109,7 +109,6 @@
 75.127.6.2       #AS36352   75.127.6.0/23      US   AS-COLOCROSSING - HostPapa, US
 77.91.71.27      #AS211486  77.91.71.0/24      RU   AAA-AS - Alferov Aleksey Aleksandrovich, RU
 78.128.114.46    #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
-78.128.114.162   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 78.128.114.174   #AS50360   78.128.114.0/24    BG   TAMATIYA-AS - Tamatiya EOOD, BG
 78.153.140.235   #AS202306  78.153.140.0/24    RU   HOSTGLOBALPLUS-AS - HOSTGLOBAL.PLUS LTD, GB
 78.153.140.236   #AS202306  78.153.140.0/24    RU   HOSTGLOBALPLUS-AS - HOSTGLOBAL.PLUS LTD, GB
@@ -129,7 +128,6 @@
 86.54.31.34      #AS12989   86.54.31.0/24      CA   BlackHOST - Black HOST Ltd, CA
 88.90.164.235    #AS2119    88.88.0.0/13       NO   TELENOR-NORGE-AS - Telenor Norge AS, NO
 91.230.168.3     #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
-91.230.168.7     #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.230.168.8     #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.230.168.83    #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
 91.230.168.176   #AS213412  91.230.168.0/24    FR   ONYPHE - ONYPHE SAS, FR
@@ -139,6 +137,7 @@
 93.152.221.51    #AS197170  93.152.221.0/24    BG   TECHTIES-AS - TechTies Inc., SC
 94.183.174.95    #AS51396   94.183.174.0/24    AE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 100.29.192.93    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
+100.29.192.98    #AS14618   100.24.0.0/13      US   AMAZON-AES - Amazon.com, Inc., US
 100.49.117.77    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 100.50.17.159    #AS14618   100.48.0.0/12      US   AMAZON-AES - Amazon.com, Inc., US
 102.220.161.79   #AS197769  102.220.160.0/22   NG   VPSDEDICATED-AS - VPS Dedicated LLC, US
@@ -187,6 +186,7 @@
 172.238.160.104  #AS63949   172.238.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.255.223.32   #AS63949   173.255.208.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.255.223.124  #AS63949   173.255.208.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+176.65.149.97    #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 176.65.149.182   #AS51396   176.65.149.0/24    DE   PFCLOUD - Pfcloud UG (haftungsbeschrankt), DE
 178.128.157.127  #AS14061   178.128.144.0/20   US   DIGITALOCEAN-ASN - DigitalOcean, LLC, US
 184.105.247.208  #AS6939    184.104.0.0/15     US   HURRICANE - Hurricane Electric LLC, US
@@ -198,6 +198,7 @@
 185.224.128.16   #AS49870   185.224.128.0/24   NL   #AS49870-BV - Alsycon B.V., NL
 188.127.245.41   #AS56694   188.127.244.0/23   RU   SmartApe - LLC Smart Ape, RU
 188.240.59.45    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+193.47.62.28     #AS216014  193.47.62.0/24     BG   BestDC-Limited - BestDC Limited, GB
 193.47.62.187    #AS216014  193.47.62.0/24     BG   BestDC-Limited - BestDC Limited, GB
 193.163.125.230  #AS211298  193.163.125.0/24   GB   DRIFTNET - Driftnet Ltd, GB
 194.180.49.121   #AS201814  194.180.49.0/24    BG   Mevspace - MEVSPACE sp. z o.o., PL
@@ -211,6 +212,7 @@
 199.165.159.24   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.83   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.102  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
+199.165.159.146  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.220  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 200.138.46.122   #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 200.138.46.207   #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -221,3 +223,4 @@
 212.73.148.29    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.31    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.36    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
+212.73.148.40    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
