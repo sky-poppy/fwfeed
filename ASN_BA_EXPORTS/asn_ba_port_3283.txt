@@ -1,4 +1,6 @@
 5.226.140.85     #AS25369   5.226.136.0/21     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+31.14.254.22     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
+31.14.254.98     #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 31.14.254.126    #AS25369   31.14.254.0/24     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 34.19.116.48     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 34.19.116.55     #AS396982  34.19.0.0/17       US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -25,7 +27,6 @@
 65.49.1.59       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.76       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.104      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.106      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.108      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.116      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.20.114     #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -33,8 +34,6 @@
 66.132.186.250   #AS398324  66.132.186.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 66.132.224.28    #AS398324  66.132.224.0/24    US   CENSYS-ARIN-01 - Censys, Inc., US
 69.5.169.28      #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.5.169.100     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-69.5.169.160     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.203     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.225     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 69.5.169.233     #AS25369   69.5.169.0/24      GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -62,6 +61,7 @@
 172.105.9.17     #AS63949   172.105.0.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.105.26.188   #AS63949   172.105.0.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 172.105.177.106  #AS63949   172.105.160.0/19   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+172.236.35.120   #AS63949   172.236.32.0/19    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 173.255.248.114  #AS63949   173.255.240.0/20   US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 185.216.145.163  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 185.216.145.171  #AS25369   185.216.144.0/22   GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
@@ -70,7 +70,6 @@
 188.240.59.60    #AS25369   188.240.56.0/21    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 192.81.131.148   #AS63949   192.81.128.0/21    US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
 193.124.20.250   #AS25369   193.124.20.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
-193.176.29.11    #AS25369   193.176.28.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.50.235.142   #AS25369   194.50.234.0/23    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 194.88.98.93     #AS25369   194.88.98.0/23     GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
 198.58.124.82    #AS63949   198.58.96.0/19     US   AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
@@ -78,12 +77,14 @@
 198.235.24.133   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.228   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 198.235.24.245   #AS396982  198.235.24.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
+199.165.159.74   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.93   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.130  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 200.102.179.59   #AS210699  200.102.179.0/24   US   WEDEPLOY-SAS - WEDEPLOY SAS, FR
 200.138.46.16    #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 200.138.46.26    #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 200.138.46.58    #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
+200.138.46.68    #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS, GB
 200.138.46.103   #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 200.138.46.169   #AS25369   200.138.46.0/24    AE   BANDWIDTH-AS - Hydra Communications Ltd, GB
 213.166.84.40    #AS25369   213.166.84.0/22    GB   BANDWIDTH-AS - Hydra Communications Ltd, GB
