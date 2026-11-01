@@ -9,6 +9,7 @@
 102.67.148.0/22 #AS328493 SADV-AS Societe d'Amenagement et de Developpement Vert (SADV), MA
 84.75.24.0/24 #AS201129 LINCERIS Linceris International Cloud Solutions - SARL AU, MA
 102.208.100.0/22 #AS329461 MAROC-DATACENTER-MDC Maroc Datacenter MDC, MA
+185.129.87.0/24 #AS218415 CLOUDER-AS CLOUDER, MA
 41.140.0.0/17 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 41.140.128.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 41.140.192.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
@@ -52,8 +53,20 @@
 102.53.32.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.53.64.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.53.128.0/17 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
-102.55.176.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
-102.55.208.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.8.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.16.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.32.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.64.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.128.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.192.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.55.224.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.0.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.16.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.32.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.64.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.88.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.96.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.74.112.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.78.0.0/16 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 105.129.192.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 105.136.128.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
@@ -99,7 +112,10 @@
 196.81.64.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 196.81.96.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 196.81.128.0/17 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
-196.83.0.0/17 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.83.0.0/19 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.83.32.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.83.56.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.83.64.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 196.84.0.0/17 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 196.89.0.0/16 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 196.92.8.0/21 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
@@ -117,54 +133,54 @@
 197.128.192.0/18 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 197.129.144.0/20 #AS36903 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.64.4.0/23 #AS328541 DIRECTION-GENERALE-DES-IMPOTS Direction Générale des Impôts - Ministere de l'economie et des finances - MAROC, MA
-196.32.216.0/21 #AS327989 AS-GENIOUS Genious Communications, MA
-41.140.0.0/14 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-41.248.0.0/14 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-62.251.128.0/17 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-81.192.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-102.48.0.0/13 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-102.72.0.0/13 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-105.128.0.0/11 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-154.144.0.0/13 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-155.91.75.0/24 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-160.77.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-160.89.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-160.90.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-160.105.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-160.160.0.0/12 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-193.188.7.0/24 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-193.194.50.0/24 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-194.204.192.0/18 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.66.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.68.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.70.248.0/21 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.71.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.72.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.76.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.78.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.80.0.0/13 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.88.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.90.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.92.0.0/21 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.93.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.94.0.0/15 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.206.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-196.217.0.0/16 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-197.128.0.0/14 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
-212.217.0.0/17 #AS6713 IAM-AS Itissalat Al-MAGHRIB, MA
+196.32.216.0/21 #AS327989 GENIOUSMOROCCO Genious Communications, MA
+41.140.0.0/14 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+41.248.0.0/14 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+62.251.128.0/17 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+81.192.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.48.0.0/13 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+102.72.0.0/13 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+105.128.0.0/11 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+154.144.0.0/13 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+155.91.75.0/24 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+160.77.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+160.89.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+160.90.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+160.105.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+160.160.0.0/12 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+193.188.7.0/24 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+193.194.50.0/24 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+194.204.192.0/18 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.66.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.68.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.70.248.0/21 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.71.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.72.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.76.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.78.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.80.0.0/13 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.88.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.90.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.92.0.0/21 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.93.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.94.0.0/15 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.206.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+196.217.0.0/16 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+197.128.0.0/14 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
+212.217.0.0/17 #AS6713 IAM-AS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.205.4.0/22 #AS329605 ATTIJARIWAFABANK ATTIJARIWAFABANK, MA
-41.216.224.0/22 #AS36941 MTDS-AS Morocco Trade and Development Services (MTDS), MA
-196.2.80.0/20 #AS36941 MTDS-AS Morocco Trade and Development Services (MTDS), MA
-196.223.176.0/20 #AS36941 MTDS-AS Morocco Trade and Development Services (MTDS), MA
+41.216.224.0/22 #AS36941 MTDS-AS MTDS, MA
+196.2.80.0/20 #AS36941 MTDS-AS MTDS, MA
+196.223.176.0/20 #AS36941 MTDS-AS MTDS, MA
 102.203.136.0/24 #AS329691 AFRIQUIA-SMDC AFRIQUIA S.M.D.C., MA
 194.204.217.0/24 #AS36956 MT-MPLS Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM, MA
 102.210.92.0/22 #AS328055 N-PLUS-ONE-AS NPONE, MA
 169.255.176.0/22 #AS328055 N-PLUS-ONE-AS NPONE, MA
 102.218.131.0/24 #AS328960 MOFA2-AS Ministry of Foreign Affairs African Cooperation and Moroccan Expatriates, MA
 102.68.8.0/22 #AS328577 ENTERPRISE-SERVICES Enterprise Services CDG, MA
-105.73.96.0/22 #AS30983 MARWAN-AS Moroccan Academic Network - MARWAN, MA
-196.12.203.0/24 #AS30983 MARWAN-AS Moroccan Academic Network - MARWAN, MA
-196.200.128.0/18 #AS30983 MARWAN-AS Moroccan Academic Network - MARWAN, MA
+105.73.96.0/22 #AS30983 MARWAN-AS CNRST (Centre National pour la Recherche Scientifique et Technique), MA
+196.12.203.0/24 #AS30983 MARWAN-AS CNRST (Centre National pour la Recherche Scientifique et Technique), MA
+196.200.128.0/18 #AS30983 MARWAN-AS CNRST (Centre National pour la Recherche Scientifique et Technique), MA
 102.212.205.0/24 #AS329280 CENTRE-ROYAL-DE-TELEDETECTION-SPATIALE Centre Royal de Télédétection Spatiale, MA
 102.204.212.0/23 #AS329612 MTDS-AS MTDS, MA
 192.12.117.0/24 #AS328268 INPT-AS INSTITUT NATIONAL DES POSTES ET TELECOMMUNICATIONS - INPT, MA
@@ -175,13 +191,11 @@
 196.49.104.0/24 #AS329442 MOROCCO-IXP L'Agence Nationale de Réglementation des Télécommunications (ANRT), MA
 102.165.189.0/24 #AS328280 LNDR1-AS L'Agence Nationale de Réglementation des Télécommunications (ANRT), MA
 45.158.254.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
-63.172.226.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 82.115.1.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 82.115.12.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 85.92.112.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 102.220.124.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 103.176.90.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
-149.18.76.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 149.57.9.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 149.57.44.0/22 #AS328867 CBS-AS Corebach Backbone SARL, MA
 154.6.144.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
@@ -189,19 +203,17 @@
 185.243.7.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 185.245.0.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
 194.62.214.0/23 #AS328867 CBS-AS Corebach Backbone SARL, MA
-205.243.61.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
-206.159.100.0/24 #AS328867 CBS-AS Corebach Backbone SARL, MA
-41.87.128.0/19 #AS36925 ASMEDI Orange Maroc, MA
-41.92.0.0/17 #AS36925 ASMEDI Orange Maroc, MA
-41.205.192.0/19 #AS36925 ASMEDI Orange Maroc, MA
-41.214.128.0/17 #AS36925 ASMEDI Orange Maroc, MA
-45.216.0.0/14 #AS36925 ASMEDI Orange Maroc, MA
-102.96.0.0/13 #AS36925 ASMEDI Orange Maroc, MA
-102.216.12.0/22 #AS36925 ASMEDI Orange Maroc, MA
-105.188.0.0/14 #AS36925 ASMEDI Orange Maroc, MA
-196.112.0.0/12 #AS36925 ASMEDI Orange Maroc, MA
-197.153.0.0/16 #AS36925 ASMEDI Orange Maroc, MA
-197.230.0.0/16 #AS36925 ASMEDI Orange Maroc, MA
-197.247.0.0/16 #AS36925 ASMEDI Orange Maroc, MA
-197.253.128.0/17 #AS36925 ASMEDI Orange Maroc, MA
+41.87.128.0/19 #AS36925 ASMEDI MEDITELECOM, MA
+41.92.0.0/17 #AS36925 ASMEDI MEDITELECOM, MA
+41.205.192.0/19 #AS36925 ASMEDI MEDITELECOM, MA
+41.214.128.0/17 #AS36925 ASMEDI MEDITELECOM, MA
+45.216.0.0/14 #AS36925 ASMEDI MEDITELECOM, MA
+102.96.0.0/13 #AS36925 ASMEDI MEDITELECOM, MA
+102.216.12.0/22 #AS36925 ASMEDI MEDITELECOM, MA
+105.188.0.0/14 #AS36925 ASMEDI MEDITELECOM, MA
+196.112.0.0/12 #AS36925 ASMEDI MEDITELECOM, MA
+197.153.0.0/16 #AS36925 ASMEDI MEDITELECOM, MA
+197.230.0.0/16 #AS36925 ASMEDI MEDITELECOM, MA
+197.247.0.0/16 #AS36925 ASMEDI MEDITELECOM, MA
+197.253.128.0/17 #AS36925 ASMEDI MEDITELECOM, MA
 196.61.232.0/21 #AS328066 MEDASYS-AS MEDAFRICA SYSTEMS, MA

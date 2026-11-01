@@ -15,7 +15,7 @@
 194.152.152.0/24 #AS50261 ACENET ACE Telecom Kft, HU
 213.157.107.0/24 #AS50261 ACENET ACE Telecom Kft, HU
 79.121.72.0/24 #AS47710 PORION-AS Porion-Digital Kft., HU
-148.6.0.0/16 #AS3314 KFKI-AS MTA Wigner Fizikai Kutatokozpont, HU
+148.6.0.0/16 #AS3314 KFKI-AS HUN-REN Wigner Research Centre for Physics, HU
 45.14.92.0/22 #AS57389 ZT-HU ZNET Telekom Zrt, HU
 45.146.0.0/22 #AS57389 ZT-HU ZNET Telekom Zrt, HU
 81.16.192.0/20 #AS57389 ZT-HU ZNET Telekom Zrt, HU
@@ -154,6 +154,7 @@
 88.132.252.0/22 #AS44789 HIRSAT-AS KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft., HU
 92.63.240.0/20 #AS44789 HIRSAT-AS KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft., HU
 185.143.200.0/22 #AS44789 HIRSAT-AS KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft., HU
+194.41.44.0/23 #AS44789 HIRSAT-AS KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft., HU
 5.159.236.0/22 #AS50144 UNIMATRIX-AS Unimatrix IT Solutions Kft., HU
 5.159.232.0/22 #AS47381 SERVERGARDEN-AS Servergarden Kft., HU
 80.77.112.0/23 #AS47381 SERVERGARDEN-AS Servergarden Kft., HU
@@ -220,6 +221,7 @@
 185.191.188.0/22 #AS60673 ACTIVCOM Activcom Kft., HU
 84.2.79.0/24 #AS30942 HW-STUDIO-AS HW STUDIO Szamitastechnikai Kereskedelmi es Szolgaltato Korlatolt Felelossegu Tarsasag, HU
 194.246.102.0/24 #AS30942 HW-STUDIO-AS HW STUDIO Szamitastechnikai Kereskedelmi es Szolgaltato Korlatolt Felelossegu Tarsasag, HU
+193.28.86.0/24 #AS218755 EASYWEB-AS Easyweb Bt., HU
 185.221.21.0/24 #AS216431 HOSTPOST-HUNGARY Kovacs Norbert ev., HU
 77.221.32.0/22 #AS197889 MICROSYSTEM Microsystem-Kecskemet Kft, HU
 77.221.43.0/24 #AS197889 MICROSYSTEM Microsystem-Kecskemet Kft, HU
@@ -234,8 +236,9 @@
 193.110.83.0/24 #AS197889 MICROSYSTEM Microsystem-Kecskemet Kft, HU
 193.111.224.0/24 #AS197889 MICROSYSTEM Microsystem-Kecskemet Kft, HU
 195.184.4.0/24 #AS197889 MICROSYSTEM Microsystem-Kecskemet Kft, HU
-80.244.96.0/20 #AS8696 AS8696-ONE-HU Invitech ICT Services Kft., HU
+80.244.96.0/20 #AS8696 AS8696-ONE-HU One Hungary Ltd., HU
 93.180.128.0/24 #AS209602 DUNABYTE-AS Okos Volgy Kft, HU
+93.180.130.0/24 #AS209602 DUNABYTE-AS Okos Volgy Kft, HU
 195.191.229.0/24 #AS196970 LNGTN-AS Langaton Hungary Kft, HU
 45.87.112.0/22 #AS208708 EUC Eurocable Magyarorszag Kft, HU
 88.209.236.0/22 #AS208708 EUC Eurocable Magyarorszag Kft, HU
@@ -388,10 +391,7 @@
 86.104.9.0/24 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 87.101.112.0/20 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 89.46.237.0/24 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
-91.120.16.0/22 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
-91.120.57.0/24 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
-91.120.64.0/18 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
-91.120.128.0/18 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
+91.120.0.0/16 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 91.147.214.0/23 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 91.147.232.0/22 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 93.89.160.0/20 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
@@ -417,7 +417,7 @@
 194.38.96.0/19 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 194.71.130.0/24 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 194.88.32.0/19 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
-194.149.32.0/19 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
+194.149.0.0/18 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 194.176.224.0/19 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 195.56.0.0/16 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
 195.70.32.0/19 #AS5483 MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc., HU
@@ -432,7 +432,7 @@
 171.31.0.0/16 #AS6784 MOL-NYRT MOL Nyrt., HU
 185.134.80.0/22 #AS211326 INCOMTECH Incom Technologies Kft., HU
 91.120.29.0/24 #AS44768 SNT-HU-AS Promise Enterprise Hungary Kft., HU
-77.111.124.0/23 #AS206814 SCI-NETWORK-AS SCI-Network pInc., HU
+77.111.124.0/24 #AS206814 SCI-NETWORK-AS SCI-Network pInc., HU
 77.247.197.0/24 #AS206814 SCI-NETWORK-AS SCI-Network pInc., HU
 89.135.60.0/24 #AS206814 SCI-NETWORK-AS SCI-Network pInc., HU
 194.140.248.0/24 #AS41183 AS41183 National Bank of Hungary, HU
@@ -493,6 +493,8 @@
 185.43.172.0/22 #AS44945 OLAH Olah es Tarsa Kereskedelmi es Szolgaltato Kft, HU
 195.114.16.0/23 #AS48893 TELEMEDIA-AS ESO TV Kft., HU
 37.220.142.0/24 #AS61294 STIHLHU-AS Andreas Stihl Kereskedelmi Kft., HU
+45.136.120.0/22 #AS207142 HMX HMX Hungarian Media Exchange Kft, HU
+185.188.59.0/24 #AS207142 HMX HMX Hungarian Media Exchange Kft, HU
 88.209.193.0/24 #AS206361 AS-TAMANET Tamas Drinkal, HU
 164.139.232.0/22 #AS33959 METRO-HU-AS METRO Kereskedelmi Kft., HU
 195.228.73.0/24 #AS200940 RWE-AS T-Systems Magyarorszag zrt, HU
@@ -656,159 +658,162 @@
 91.223.222.0/24 #AS207349 OPENNETWORKS Opennetworks Kft., HU
 185.48.40.0/22 #AS200933 TERANET-HU-AS Teranet.hu Szolgaltato Kft, HU
 82.141.160.0/23 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
+91.82.48.0/23 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 91.82.62.0/23 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 91.82.225.0/24 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 91.83.160.0/22 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
+185.60.221.0/24 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 194.143.239.0/24 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 213.16.110.0/24 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
 217.112.138.0/24 #AS213455 ASN-ALFOLDNET Alfold.NET Ltd., HU
-5.56.34.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-46.31.182.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.144.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.192.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.200.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.208.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.224.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.242.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-62.77.244.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-77.221.32.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-77.221.63.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-77.243.208.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.128.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.168.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.176.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.192.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.224.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.240.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.120.250.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.172.226.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-79.172.230.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-80.85.56.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-80.252.48.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.64.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.80.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.88.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.96.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.100.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.104.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.110.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.112.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.120.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.0.124.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-81.94.176.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.160.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.176.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.180.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.192.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.199.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.131.208.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.141.128.0/18 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.160.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.168.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.178.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.180.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.184.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-82.144.190.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-87.97.64.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-89.107.253.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-89.186.98.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-89.186.100.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-89.186.104.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-89.186.116.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.8.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.16.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.40.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.48.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.58.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.72.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.80.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.84.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.88.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.96.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.128.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.148.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.152.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.174.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.184.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.192.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.208.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.216.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.224.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.236.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.244.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.248.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.82.252.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.40.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.48.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.56.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.64.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.80.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.88.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.92.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.96.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.100.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.104.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.108.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.122.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.124.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.128.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.146.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.148.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.152.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.156.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.160.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.176.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.208.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.224.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.240.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.248.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.83.254.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-91.196.112.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-94.125.248.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-95.131.48.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.8.72.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.40.20.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.50.28.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.69.96.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.91.140.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-185.180.72.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-188.93.200.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.68.32.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.91.64.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.142.209.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.194.159.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.224.239.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.194.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.196.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.200.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.208.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.216.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.224.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.228.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.234.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.236.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.242.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.250.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-193.226.252.0/22 #AS12301 INVITECH Invitech ICT Services Kft., HU
-194.41.44.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-194.50.101.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-194.143.224.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-194.169.253.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-195.144.20.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-195.184.0.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-212.24.160.0/19 #AS12301 INVITECH Invitech ICT Services Kft., HU
-212.108.192.0/18 #AS12301 INVITECH Invitech ICT Services Kft., HU
-213.16.64.0/18 #AS12301 INVITECH Invitech ICT Services Kft., HU
-213.163.0.0/18 #AS12301 INVITECH Invitech ICT Services Kft., HU
-213.197.64.0/21 #AS12301 INVITECH Invitech ICT Services Kft., HU
-213.253.192.0/18 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.13.101.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.13.102.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.13.106.0/23 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.13.108.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.21.16.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.113.60.0/24 #AS12301 INVITECH Invitech ICT Services Kft., HU
-217.150.128.0/20 #AS12301 INVITECH Invitech ICT Services Kft., HU
+5.56.34.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+46.31.182.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.144.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.192.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.200.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.208.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.224.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.242.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+62.77.244.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+77.221.32.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+77.221.63.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+77.243.208.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.128.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.168.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.176.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.192.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.224.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.240.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+79.120.250.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+79.172.226.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+79.172.230.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+80.85.56.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+80.252.48.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.64.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.80.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.88.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.96.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.100.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.104.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.110.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.112.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.120.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.0.124.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+81.94.176.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.160.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.176.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.180.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.192.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.199.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+82.131.208.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+82.141.128.0/18 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.160.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.168.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.178.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.180.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.184.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+82.144.190.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+87.97.64.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+89.107.253.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+89.186.98.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+89.186.100.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+89.186.104.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+89.186.116.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.8.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.16.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.40.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.48.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.58.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.72.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.80.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.84.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.88.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.96.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.128.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.148.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.152.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.174.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.184.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.192.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.208.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.216.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.224.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.236.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.244.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.248.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.82.252.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.40.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.48.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.56.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.64.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.80.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.88.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.92.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.96.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.100.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.104.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.108.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.122.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.124.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.128.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.146.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.148.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.152.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.156.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.160.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.176.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.208.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.224.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.240.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.248.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+91.83.254.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+91.196.112.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+94.125.248.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+95.131.48.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+185.8.72.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+185.40.20.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+185.50.28.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+185.69.96.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+185.91.140.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+185.180.72.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+188.93.200.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+193.68.32.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+193.91.64.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+193.142.209.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+193.194.159.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+193.224.239.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.194.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.196.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.200.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.208.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.216.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.224.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.228.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.234.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.236.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.242.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.250.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+193.226.252.0/22 #AS12301 INVITECH One Hungary Ltd., HU
+194.41.44.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+194.50.101.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+194.143.224.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+194.169.253.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+195.144.20.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+195.184.0.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+212.24.160.0/19 #AS12301 INVITECH One Hungary Ltd., HU
+212.52.190.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+212.108.192.0/18 #AS12301 INVITECH One Hungary Ltd., HU
+213.16.64.0/18 #AS12301 INVITECH One Hungary Ltd., HU
+213.163.0.0/18 #AS12301 INVITECH One Hungary Ltd., HU
+213.197.64.0/21 #AS12301 INVITECH One Hungary Ltd., HU
+213.253.192.0/18 #AS12301 INVITECH One Hungary Ltd., HU
+217.13.101.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+217.13.102.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+217.13.106.0/23 #AS12301 INVITECH One Hungary Ltd., HU
+217.13.108.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+217.21.16.0/20 #AS12301 INVITECH One Hungary Ltd., HU
+217.113.60.0/24 #AS12301 INVITECH One Hungary Ltd., HU
+217.150.128.0/20 #AS12301 INVITECH One Hungary Ltd., HU
 213.181.199.0/24 #AS42371 AS-MAGEX MAGEX Solutions Kft., HU
 45.95.44.0/22 #AS206892 RENDSZERINF Rendszerinformatika Zrt., HU
 91.206.112.0/24 #AS206892 RENDSZERINF Rendszerinformatika Zrt., HU
@@ -824,7 +829,7 @@
 91.216.60.0/24 #AS51232 FOXCONNHU PCE Paragon Solutions Korlatolt Felelossegu Tarsasag, HU
 193.200.136.0/24 #AS42854 GENERALI-AS Generali-Providencia Insurance Ltd, HU
 185.130.179.0/24 #AS203137 NORMBENZ Orlen Hungary Kft, HU
-31.24.16.0/24 #AS212229 EASYWEBBT HD.hu Kft., HU
+31.24.16.0/24 #AS212229 EASYWEBBT WRK Kft. f. a., HU
 185.219.48.0/22 #AS41206 UNITED-TELECOM-HU-AS United Telecom Zartkoruen Mukodo Reszvenytarsasag, HU
 91.120.33.0/24 #AS47324 KDB-HU-AS KDB Bank Hungary Ltd., HU
 195.56.124.0/23 #AS47324 KDB-HU-AS KDB Bank Hungary Ltd., HU
@@ -853,10 +858,10 @@
 194.152.140.0/24 #AS197248 DRAVANET-AS Dravanet Co Ltd., HU
 195.216.251.0/24 #AS197248 DRAVANET-AS Dravanet Co Ltd., HU
 89.22.195.0/24 #AS213669 DARKSYSTEMS-AS Varadi Daniel, HU
-84.21.180.0/22 #AS209061 INVI16 DIGI Tavkozlesi es Szolgaltato Kft., HU
-185.223.215.0/24 #AS209061 INVI16 DIGI Tavkozlesi es Szolgaltato Kft., HU
-212.40.64.0/22 #AS209061 INVI16 DIGI Tavkozlesi es Szolgaltato Kft., HU
-212.40.68.0/23 #AS209061 INVI16 DIGI Tavkozlesi es Szolgaltato Kft., HU
+84.21.180.0/22 #AS209061 INVI16 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+185.223.215.0/24 #AS209061 INVI16 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+212.40.64.0/22 #AS209061 INVI16 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+212.40.68.0/23 #AS209061 INVI16 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
 87.229.41.0/24 #AS213980 NETMEDIA Net Media Zrt., HU
 185.66.52.0/22 #AS59949 TEL2TEL-AS KOMPaaS.tech Kft, HU
 79.172.249.0/24 #AS62449 AS-SYBELL Sybell Informatika Kft, HU
@@ -996,6 +1001,7 @@
 88.209.212.0/22 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
 88.209.219.0/24 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
 91.198.131.0/24 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
+92.52.202.0/24 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
 92.52.208.0/21 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
 178.248.200.0/21 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
 185.198.168.0/22 #AS42864 GIGANET-HU Giganet Internet Szolgaltato Kft, HU
@@ -1064,121 +1070,121 @@
 93.92.56.0/21 #AS44651 COMUNIQUE Kalasznet Kabel TV Kft, HU
 178.21.54.0/23 #AS44651 COMUNIQUE Kalasznet Kabel TV Kft, HU
 195.228.83.0/24 #AS219151 VAROSLIGET-ZRT-AS Varosliget Ldc., HU
-62.77.196.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-62.77.240.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-62.77.248.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-62.165.192.0/18 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-77.234.64.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-78.131.0.0/17 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-79.120.160.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-79.120.170.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-79.120.172.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-79.120.248.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-79.120.252.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-80.95.64.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.82.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.84.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.90.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.92.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.98.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.108.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.122.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.0.126.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-81.17.176.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.128.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.182.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.184.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.196.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.198.0/24 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.200.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.216.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.131.224.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.144.164.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.144.172.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.144.176.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-82.144.188.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-84.236.0.0/17 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-85.66.0.0/15 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-85.238.64.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-87.97.0.0/18 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-87.97.80.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-87.97.96.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.107.248.0/24 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.147.64.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.147.96.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.147.112.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.148.64.0/18 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.96.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.102.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.106.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.108.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.112.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.118.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-89.186.120.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.0.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.24.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.32.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.56.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.60.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.64.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.82.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.130.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.132.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.136.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.144.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.160.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.168.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.172.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.176.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.188.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.210.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.212.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.228.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.232.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.240.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.82.250.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.0.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.32.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.52.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.94.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.102.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.110.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.120.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.136.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.144.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.154.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.180.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.184.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.192.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.83.252.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-91.135.112.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-92.52.224.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-92.245.64.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-92.249.128.0/17 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-94.21.0.0/16 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-94.247.88.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-176.226.0.0/18 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-176.241.0.0/18 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-178.164.128.0/17 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-185.29.80.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-185.62.128.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-188.142.128.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-188.143.0.0/17 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.110.56.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.192.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.212.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.226.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.232.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.238.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.240.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.244.0/22 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-193.226.248.0/23 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-195.38.96.0/19 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-212.40.72.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-212.40.80.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-213.197.72.0/21 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-213.197.80.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
-217.197.176.0/20 #AS20845 DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft., HU
+62.77.196.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+62.77.240.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+62.77.248.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+62.165.192.0/18 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+77.234.64.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+78.131.0.0/17 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+79.120.160.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+79.120.170.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+79.120.172.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+79.120.248.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+79.120.252.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+80.95.64.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.82.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.84.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.90.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.92.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.98.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.108.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.122.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.0.126.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+81.17.176.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.128.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.182.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.184.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.196.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.198.0/24 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.200.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.216.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.131.224.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.144.164.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.144.172.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.144.176.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+82.144.188.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+84.236.0.0/17 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+85.66.0.0/15 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+85.238.64.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+87.97.0.0/18 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+87.97.80.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+87.97.96.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.107.248.0/24 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.147.64.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.147.96.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.147.112.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.148.64.0/18 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.96.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.102.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.106.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.108.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.112.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.118.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+89.186.120.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.0.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.24.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.32.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.56.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.60.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.64.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.82.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.130.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.132.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.136.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.144.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.160.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.168.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.172.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.176.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.188.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.210.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.212.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.228.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.232.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.240.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.82.250.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.0.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.32.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.52.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.94.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.102.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.110.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.120.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.136.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.144.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.154.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.180.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.184.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.192.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.83.252.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+91.135.112.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+92.52.224.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+92.245.64.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+92.249.128.0/17 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+94.21.0.0/16 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+94.247.88.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+176.226.0.0/18 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+176.241.0.0/18 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+178.164.128.0/17 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+185.29.80.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+185.62.128.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+188.142.128.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+188.143.0.0/17 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.110.56.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.192.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.212.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.226.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.232.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.238.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.240.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.244.0/22 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+193.226.248.0/23 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+195.38.96.0/19 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+212.40.72.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+212.40.80.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+213.197.72.0/21 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+213.197.80.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
+217.197.176.0/20 #AS20845 DIGICABLE 2Connect Telecommunications Infrastructure & Network Services Ltd., HU
 193.188.140.0/23 #AS30836 NET23-AS 23VNet Kft., HU
 195.56.101.0/24 #AS30836 NET23-AS 23VNet Kft., HU
 217.113.62.0/24 #AS30836 NET23-AS 23VNet Kft., HU
