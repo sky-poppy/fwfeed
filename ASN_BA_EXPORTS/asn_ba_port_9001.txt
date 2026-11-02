@@ -2,7 +2,6 @@
 3.145.131.248    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 3.147.122.184    #AS16509   3.144.0.0/13       US   AMAZON-02 - Amazon.com, Inc., US
 8.209.114.67     #AS45102   8.209.96.0/19      SG   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
-16.5.0.144       #AS401661  16.5.0.0/24        US   EMBNEX-AS - EMBNEX, LLC, US
 18.190.15.50     #AS16509   18.190.0.0/16      US   AMAZON-02 - Amazon.com, Inc., US
 18.217.208.51    #AS16509   18.216.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
 18.221.179.104   #AS16509   18.220.0.0/14      US   AMAZON-02 - Amazon.com, Inc., US
@@ -10,6 +9,7 @@
 20.64.98.159     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.65.202.138    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.84.74.141     #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+20.98.154.233    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.106.200.208   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.118.250.192   #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 20.121.64.198    #AS8075    20.64.0.0/10       US   MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
@@ -31,11 +31,9 @@
 46.151.178.15    #AS211443  46.151.178.0/24    NL   SINOWORLDWIDE - SINO WORLDWIDE TRADING LIMITED, HK
 47.237.145.174   #AS45102   47.237.0.0/16      US   ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
 52.20.198.190    #AS14618   52.20.0.0/14       US   AMAZON-AES - Amazon.com, Inc., US
-64.62.156.166    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.156.228    #AS6939    64.62.128.0/18     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.15     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.41     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
-64.62.197.64     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.90     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.93     #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.110    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
@@ -49,7 +47,6 @@
 64.62.197.221    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 64.62.197.229    #AS6939    64.62.128.0/17     US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.36       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
-65.49.1.62       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.81       #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.114      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
 65.49.1.123      #AS6939    65.49.0.0/17       US   HURRICANE - Hurricane Electric LLC, US
@@ -141,8 +138,11 @@
 199.165.159.99   #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.108  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.121  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
+199.165.159.150  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
+199.165.159.156  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.168  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
 199.165.159.211  #AS22168   199.165.159.0/24   US   SHADOWSERVER-FOUNDATION - The Shadowserver Foundation, Inc., US
+205.210.31.14    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.31    #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.107   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
 205.210.31.174   #AS396982  205.210.31.0/24    US   GOOGLE-CLOUD-PLATFORM - Google LLC, US
@@ -157,6 +157,7 @@
 212.73.148.26    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.27    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.31    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
+212.73.148.32    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.35    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.40    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
 212.73.148.41    #AS209334  212.73.148.0/24    NL   MODAT-01 - Modat B.V., NL
