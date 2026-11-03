@@ -624,6 +624,7 @@
 50.50.121.144    #AS5650     50.50.0.0/16         US  FRONTIER-FRTR - Frontier Communications of America, Inc., US BrowserAgent
 173.177.178.176  #AS5769     173.177.128.0/18     CA  VIDEOTRON - Videotron Ltee, CA                          BrowserAgent
 64.112.57.185    #AS6079     64.112.56.0/22       US  RCN-AS - RCN, US                                        Unknown
+130.43.189.232   #AS6079     130.43.189.0/24      GB  RCN-AS - RCN, US                                        BrowserAgent
 175.29.128.46    #AS6079     175.29.128.0/21      BD  RCN-AS - RCN, US                                        BrowserAgent
 50.71.41.135     #AS6327     50.71.40.0/22        CA  SHAW - Shaw Communications, CA                          BrowserAgent
 138.226.244.154  #AS6698     138.226.244.0/23     PL  virtualsystems - Virtual Systems LLC, UA                BrowserAgent
@@ -632,7 +633,6 @@
 104.10.194.198   #AS7018     104.0.0.0/12         US  ATT-INTERNET4 - AT&T Enterprises, LLC, US               BrowserAgent
 107.135.131.193  #AS7018     107.128.0.0/12       US  ATT-INTERNET4 - AT&T Enterprises, LLC, US               BrowserAgent
 108.89.20.162    #AS7018     108.64.0.0/11        US  ATT-INTERNET4 - AT&T Enterprises, LLC, US               BrowserAgent
-130.43.189.232   #AS7029     130.43.189.0/24      GB  WINDSTREAM - Windstream Communications LLC, US          BrowserAgent
 152.163.54.180   #AS7203     152.163.52.0/22      LT  LEASEWEB-USA-SFO - Leaseweb USA, Inc., US               BrowserAgent
 116.98.180.30    #AS7552     116.98.176.0/21      VN  VIETEL-AS-AP - Viettel Group, VN                        BrowserAgent
 171.231.38.148   #AS7552     171.231.32.0/21      VN  VIETEL-AS-AP - Viettel Group, VN                        BrowserAgent
@@ -1789,7 +1789,6 @@
 185.117.225.178  #AS14618    185.117.225.0/24     PT  AMAZON-AES - Amazon.com, Inc., US                       python-requests
 185.117.225.207  #AS14618    185.117.225.0/24     PT  AMAZON-AES - Amazon.com, Inc., US                       python-requests
 185.117.225.217  #AS14618    185.117.225.0/24     PT  AMAZON-AES - Amazon.com, Inc., US                       Unknown
-34.0.0.7         #AS15169    34.0.0.0/15          US  GOOGLE - Google LLC, US                                 BuiltWith
 34.0.41.251      #AS15169    34.0.32.0/20         US  GOOGLE - Google LLC, US                                 BuiltWith
 34.0.133.250     #AS15169    34.0.128.0/19        US  GOOGLE - Google LLC, US                                 Unknown
 34.1.176.160     #AS15169    34.1.176.0/20        US  GOOGLE - Google LLC, US                                 BuiltWith
@@ -2134,6 +2133,7 @@
 34.244.167.54    #AS16509    34.240.0.0/13        US  AMAZON-02 - Amazon.com, Inc., US                        Pandalytics
 34.245.58.190    #AS16509    34.240.0.0/13        US  AMAZON-02 - Amazon.com, Inc., US                        Pandalytics
 34.245.106.164   #AS16509    34.240.0.0/13        US  AMAZON-02 - Amazon.com, Inc., US                        Pandalytics
+34.249.1.234     #AS16509    34.248.0.0/13        US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 35.80.7.130      #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 35.81.81.18      #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 35.83.254.42     #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
@@ -2727,7 +2727,7 @@
 104.37.185.2     #AS19318    104.37.184.0/21      US  IS-AS-1 - Interserver, Inc, US                          Unknown
 104.37.185.43    #AS19318    104.37.184.0/21      US  IS-AS-1 - Interserver, Inc, US                          Unknown
 104.37.191.155   #AS19318    104.37.184.0/21      US  IS-AS-1 - Interserver, Inc, US                          heritrix
-34.0.0.7         #AS19527    34.0.0.0/15          US  GOOGLE-2 - Google LLC, US                               BuiltWith
+34.0.0.7         #AS19527    34.0.0.0/20          US  GOOGLE-2 - Google LLC, US                               BuiltWith
 34.0.41.251      #AS19527    34.0.32.0/20         US  GOOGLE-2 - Google LLC, US                               BuiltWith
 34.1.176.160     #AS19527    34.1.176.0/20        US  GOOGLE-2 - Google LLC, US                               BuiltWith
 50.47.115.20     #AS20055    50.46.0.0/15         US  AS-WHOLESAIL - Wholesail networks LLC, US               Unknown
@@ -3309,7 +3309,6 @@
 77.75.79.17      #AS43037    77.75.78.0/23        CZ  SEZNAM-CZ - SEZNAM-CZ, CZ                               Unknown
 77.75.79.36      #AS43037    77.75.78.0/23        CZ  SEZNAM-CZ - SEZNAM-CZ, CZ                               SeznamBot
 77.75.79.72      #AS43037    77.75.78.0/23        CZ  SEZNAM-CZ - SEZNAM-CZ, CZ                               SeznamBot
-34.0.0.7         #AS43515    34.0.0.0/15          US  YOUTUBE - Google Ireland Limited, IE                    BuiltWith
 34.0.133.250     #AS43515    34.0.128.0/19        US  YOUTUBE - Google Ireland Limited, IE                    Unknown
 34.1.233.159     #AS43515    34.1.224.0/19        US  YOUTUBE - Google Ireland Limited, IE                    BrowserAgent
 35.206.120.6     #AS43515    35.206.64.0/18       US  YOUTUBE - Google Ireland Limited, IE                    hypefactors
@@ -4215,4 +4214,4 @@
 45.45.237.161    #AS400529   45.45.237.0/24       US  INFRALY-LLC - Infraly, LLC, US                          Unknown
 154.58.229.28    #AS400810   154.58.229.0/24      US  BREEZETECH - BreezeHost, US                             PerplexityBot
 
-# Created on: 20261103023815
+# Created on: 20261104023857
