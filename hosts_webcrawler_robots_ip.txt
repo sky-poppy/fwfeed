@@ -1419,6 +1419,7 @@
 172.68.175.65    #AS13335    172.68.175.0/24      US  CLOUDFLARENET - Cloudflare, Inc., US                    wpbot
 172.68.175.115   #AS13335    172.68.175.0/24      US  CLOUDFLARENET - Cloudflare, Inc., US                    Unknown
 172.69.135.113   #AS13335    172.69.135.0/24      US  CLOUDFLARENET - Cloudflare, Inc., US                    BrowserAgent
+172.70.85.143    #AS13335    172.70.85.0/24       US  CLOUDFLARENET - Cloudflare, Inc., US                    BrowserAgent
 172.70.94.121    #AS13335    172.70.94.0/24       US  CLOUDFLARENET - Cloudflare, Inc., US                    facebookexternalhit
 172.70.130.232   #AS13335    172.70.130.0/24      US  CLOUDFLARENET - Cloudflare, Inc., US                    Unknown
 172.70.208.102   #AS13335    172.70.208.0/24      US  CLOUDFLARENET - Cloudflare, Inc., US                    Unknown
@@ -2161,6 +2162,7 @@
 35.94.94.229     #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 35.94.153.92     #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 35.94.191.241    #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
+35.94.215.114    #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 35.94.217.177    #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 35.95.83.5       #AS16509    35.80.0.0/12         US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 35.167.154.122   #AS16509    35.160.0.0/13        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
@@ -2744,7 +2746,7 @@
 95.135.204.63    #AS22773    95.135.204.0/22      UA  ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc., US BrowserAgent
 216.244.66.194   #AS23033    216.244.64.0/19      US  WOW - Wowrack.com, US                                   Unknown
 216.244.66.246   #AS23033    216.244.64.0/19      US  WOW - Wowrack.com, US                                   DotBot
-181.124.196.30   #AS23201    181.124.192.0/20     PY  AS23201 - Telecel S.A., PY                              BrowserAgent
+181.124.196.30   #AS23201    181.124.0.0/14       PY  AS23201 - Telecel S.A., PY                              BrowserAgent
 172.93.100.137   #AS23470    172.93.100.0/24      US  RELIABLESITE - ReliableSite.Net LLC, US                 BrowserAgent
 125.209.235.168  #AS23576    125.209.232.0/22     KR  nhn-AS-KR-KR - NAVER Cloud Corp., KR                    BrowserAgent
 125.209.235.171  #AS23576    125.209.232.0/22     KR  nhn-AS-KR-KR - NAVER Cloud Corp., KR                    Unknown
@@ -3297,20 +3299,20 @@
 188.52.157.118   #AS39891    188.52.157.0/24      SA  ALJAWWALSTC-AS - Saudi Telecom Company JSC, SA          BrowserAgent
 23.27.209.140    #AS40676    23.27.209.0/24       US  AS40676 - Psychz Networks, US                           BrowserAgent
 91.212.194.8     #AS42057    91.212.194.0/24      UA  GIPTEL - GIPTEL LLC, UA                                 BrowserAgent
-141.138.211.251  #AS42708    141.138.211.0/24     SE  GLESYS - Glesys AB, SE                                  MiuiBrowser
-141.138.212.9    #AS42708    141.138.212.0/24     SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-141.138.214.90   #AS42708    141.138.214.0/24     SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-178.73.225.20    #AS42708    178.73.192.0/18      SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-178.73.226.22    #AS42708    178.73.192.0/18      SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-192.36.119.194   #AS42708    192.36.119.0/24      SE  GLESYS - Glesys AB, SE                                  Unknown
-192.71.10.227    #AS42708    192.71.10.0/24       SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-192.71.36.158    #AS42708    192.71.36.0/24       SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-192.121.135.97   #AS42708    192.121.135.0/24     SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-192.121.152.224  #AS42708    192.121.152.0/24     SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-193.181.17.30    #AS42708    193.181.16.0/22      SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-193.183.120.253  #AS42708    193.183.120.0/22     SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-194.14.223.72    #AS42708    194.14.222.0/23      SE  GLESYS - Glesys AB, SE                                  BrowserAgent
-194.68.113.248   #AS42708    194.68.112.0/23      SE  GLESYS - Glesys AB, SE                                  BrowserAgent
+141.138.211.251  #AS42708    141.138.211.0/24     SE  GLESYS - Glesys Sweden AB, SE                           MiuiBrowser
+141.138.212.9    #AS42708    141.138.212.0/24     SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+141.138.214.90   #AS42708    141.138.214.0/24     SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+178.73.225.20    #AS42708    178.73.192.0/18      SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+178.73.226.22    #AS42708    178.73.192.0/18      SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+192.36.119.194   #AS42708    192.36.119.0/24      SE  GLESYS - Glesys Sweden AB, SE                           Unknown
+192.71.10.227    #AS42708    192.71.10.0/24       SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+192.71.36.158    #AS42708    192.71.36.0/24       SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+192.121.135.97   #AS42708    192.121.135.0/24     SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+192.121.152.224  #AS42708    192.121.152.0/24     SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+193.181.17.30    #AS42708    193.181.16.0/22      SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+193.183.120.253  #AS42708    193.183.120.0/22     SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+194.14.223.72    #AS42708    194.14.222.0/23      SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
+194.68.113.248   #AS42708    194.68.112.0/23      SE  GLESYS - Glesys Sweden AB, SE                           BrowserAgent
 46.53.252.43     #AS42772    46.53.248.0/21       BY  A1-BY-AS - Unitary enterprise A1, BY                    BrowserAgent
 91.238.99.113    #AS42916    91.238.98.0/23       RU  IT-AS - IT Ltd., RU                                     Unknown
 77.75.76.161     #AS43037    77.75.76.0/23        CZ  SEZNAM-CZ - SEZNAM-CZ, CZ                               Unknown
@@ -4222,4 +4224,4 @@
 45.45.237.161    #AS400529   45.45.237.0/24       US  INFRALY-LLC - Infraly, LLC, US                          Unknown
 154.58.229.28    #AS400810   154.58.229.0/24      US  BREEZETECH - BreezeHost, US                             PerplexityBot
 
-# Created on: 20261110024903
+# Created on: 20261111024521
