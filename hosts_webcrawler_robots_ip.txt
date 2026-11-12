@@ -2171,6 +2171,7 @@
 44.230.211.226   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        Unknown
 44.233.155.144   #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 44.234.24.2      #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
+44.234.63.182    #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 44.242.138.69    #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
 44.242.193.0     #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        BrowserAgent
 44.242.248.99    #AS16509    44.224.0.0/11        US  AMAZON-02 - Amazon.com, Inc., US                        wpbot
@@ -3409,7 +3410,7 @@
 27.3.66.197      #AS45543    27.3.64.0/20         VN  SCTV-AS-VN - SaiGon Tourist cable Televition Company, VN Unknown
 106.197.107.1    #AS45609    106.197.96.0/20      IN  BHARTI-MOBILITY-AS-AP - Bharti Airtel Ltd. AS for GPRS Service, IN Unknown
 110.224.242.243  #AS45609    110.224.240.0/20     IN  BHARTI-MOBILITY-AS-AP - Bharti Airtel Ltd. AS for GPRS Service, IN BrowserAgent
-154.80.31.195    #AS45669    154.80.0.0/18        SC  Mobilink-AS-PK - PMCL /LDI IP TRANSIT, PK               BrowserAgent
+154.80.31.195    #AS45669    154.80.31.0/24       SC  Mobilink-AS-PK - PMCL /LDI IP TRANSIT, PK               BrowserAgent
 14.188.199.211   #AS45899    14.188.192.0/20      VN  VNPT-AS-VN - VNPT Corp, VN                              Unknown
 14.191.140.231   #AS45899    14.191.136.0/21      VN  VNPT-AS-VN - VNPT Corp, VN                              BrowserAgent
 14.191.185.30    #AS45899    14.191.184.0/21      VN  VNPT-AS-VN - VNPT Corp, VN                              BrowserAgent
@@ -3661,7 +3662,6 @@
 58.254.178.118   #AS136958   58.254.178.0/24      CN  UNICOM-GuangZhou-IDC - China Unicom Guangdong IP network, CN BrowserAgent
 180.184.70.43    #AS137718   180.184.64.0/21      CN  VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN BrowserAgent
 103.115.255.72   #AS137868   103.115.255.0/24     BD  SIS-AS-AP - Star Internet Service, BD                   BrowserAgent
-103.161.54.24    #AS138754   103.161.54.0/24      IN  KVBPL-AS-IN - Kerala Vision Broad Band Private Limited, IN BrowserAgent
 103.66.143.236   #AS139238   103.66.143.0/24      PH  INFINITY1-AS-AP - Infinity Broadband INC., PH           BrowserAgent
 192.42.85.90     #AS139742   192.42.85.0/24       ID  IDNIC-RYNDONET-ID - PT Ryndo Jaringan Nusantara, ID     BrowserAgent
 103.152.238.77   #AS140448   103.152.238.0/24     ID  APRIN-AS-ID - PT Acces Prima Nusantara, ID              BrowserAgent
@@ -4020,7 +4020,7 @@
 217.113.196.233  #AS218653   217.113.196.0/24     FR  IBOU-SEARCH-ENGINE - BABBAR SAS, FR                     IbouBot
 190.113.252.94   #AS262241   190.113.252.0/24     CR  AS262241 - COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L., CR BrowserAgent
 138.122.31.169   #AS262468   138.122.31.0/24      BR  AS262468 - Natel Telecom Ltda. - ME, BR                 BrowserAgent
-177.86.102.65    #AS262506   177.86.102.0/23      BR  AS262506 - ASERNET TELECOM, BR                          BrowserAgent
+177.86.102.65    #AS262506   177.86.102.0/24      BR  AS262506 - ASERNET TELECOM, BR                          BrowserAgent
 177.74.118.134   #AS263380   177.74.118.0/24      BR  AS263380 - REDE FIBRA PROVEDOR DE INTERNET LTDA, BR     BrowserAgent
 138.185.9.77     #AS263838   138.185.8.0/23       BR  AS263838 - E&F TECNOLOGIA LTDA, BR                      BrowserAgent
 38.51.30.127     #AS264685   38.51.30.0/24        US  AS264685 - REDES DEL OESTE S.A, AR                      BrowserAgent
@@ -4226,4 +4226,4 @@
 45.45.237.161    #AS400529   45.45.237.0/24       US  INFRALY-LLC - Infraly, LLC, US                          Unknown
 154.58.229.28    #AS400810   154.58.229.0/24      US  BREEZETECH - BreezeHost, US                             PerplexityBot
 
-# Created on: 20261112024519
+# Created on: 20261113024529
