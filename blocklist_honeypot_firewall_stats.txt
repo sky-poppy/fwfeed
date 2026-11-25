@@ -59,7 +59,7 @@ New = IP does not exist in honeypot dataset when event logged. Quantity of uniqu
 Predicted = IP does not exist in honeypot dataset when event logged, but the IP logged is related to an existing CIDR /24 that has a high IP count in the dataset.
 
 HONEYPOT STATS, UNIQUE IP COUNT
-Bad actor IP count all: 308122
+Bad actor IP count all: 308149
 Bad actor IP count last 90 days: 104050 (use blocklist_honeypot_ip4_aged_less_than_90days.txt)
 
 HONEYPOT STATS, LAST 24 HOURS
@@ -108,13 +108,13 @@ Day 7-8: 0.124%
 NEW IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-   0.000%   47.307%  isp
-   0.000%   43.400%  hosting
-   0.000%   23.865%  business
-   0.000%    0.739%  business_subcat_net_or_isp
-   0.000%    0.528%  education_research
-   0.000%    0.317%  government_admin
-   0.000%    0.211%  education_research_subcat_university
+   0.000%   47.874%  isp
+   0.000%   42.798%  hosting
+   0.000%   24.143%  business
+   0.000%    0.960%  business_subcat_net_or_isp
+   0.000%    0.274%  education_research
+   0.000%    0.274%  government_admin
+   0.000%    0.137%  education_research_subcat_university
    0.000%    0.000%  business_subcat_fin
    0.000%    0.000%  education_research_subcat_institute
    0.000%    0.000%  education_research_subcat_science
@@ -126,15 +126,15 @@ NEW IPs
 REPEATING IPs
    24 HRS   14 DAYS  CATEGORY
 ------------------------------------------------
-   0.000%   63.643%  hosting
-   0.000%   32.469%  business
-   0.000%   10.164%  isp
-   0.000%    3.138%  business_subcat_fin
-   0.000%    0.750%  education_research
-   0.000%    0.477%  business_subcat_net_or_isp
-   0.000%    0.477%  education_research_subcat_institute
-   0.000%    0.136%  education_research_subcat_university
-   0.000%    0.068%  government_admin
+   0.000%   62.198%  hosting
+   0.000%   32.806%  business
+   0.000%   10.325%  isp
+   0.000%    3.580%  business_subcat_fin
+   0.000%    0.833%  education_research
+   0.000%    0.583%  business_subcat_net_or_isp
+   0.000%    0.500%  education_research_subcat_institute
+   0.000%    0.167%  education_research_subcat_university
+   0.000%    0.083%  government_admin
    0.000%    0.000%  education_research_subcat_science
    0.000%    0.000%  government_admin_subcat_infra
    0.000%    0.000%  government_admin_subcat_mil
@@ -143,9 +143,9 @@ REPEATING IPs
 
 ALL DATASET IPs  
 ------------------------------------------------
-  45.166%  isp
-  44.170%  hosting
-  10.812%  business
+  45.165%  isp
+  44.172%  hosting
+  10.811%  business
    1.088%  business_subcat_net_or_isp
    0.687%  education_research
    0.682%  government_admin
@@ -237,33 +237,33 @@ The re-use of IP information across various blocklists is not providing good pro
 appears to exceeds the energy used to collect new bad actor IP information based on honeypot dataset results.
 
 HONEYPOT COUNT LAST 90 DAYS UNIQUE IPs: 104050
-Honeypot has 6249 IPs that overlap in Firehol 1 blocklist 39651357 IPs. - https://iplists.firehol.org/?ipset=firehol_level1
-Honeypot has 5395 IPs that overlap in Firehol 2 blocklist 32240 IPs. - https://iplists.firehol.org/?ipset=firehol_level2
-Honeypot has 11981 IPs that overlap in Firehol 3 blocklist 34390 IPs. - https://iplists.firehol.org/?ipset=firehol_level3
-Honeypot has 19296 IPs that overlap in Firehol 4 blocklist 9321559 IPs. - https://iplists.firehol.org/?ipset=firehol_level4
-Honeypot has 6399 IPs that overlap in CinesArmy Badguys blocklist 15000 IPs. - https://cinsarmy.com/collective-intelligence-network-security
-Honeypot has 1118 IPs that overlap in Blocklist.de all blocklist 23054 IPs. - https://www.blocklist.de/en/index.html
+Honeypot has 6645 IPs that overlap in Firehol 1 blocklist 39642943 IPs. - https://iplists.firehol.org/?ipset=firehol_level1
+Honeypot has 5882 IPs that overlap in Firehol 2 blocklist 33498 IPs. - https://iplists.firehol.org/?ipset=firehol_level2
+Honeypot has 12270 IPs that overlap in Firehol 3 blocklist 34003 IPs. - https://iplists.firehol.org/?ipset=firehol_level3
+Honeypot has 19373 IPs that overlap in Firehol 4 blocklist 9321811 IPs. - https://iplists.firehol.org/?ipset=firehol_level4
+Honeypot has 7080 IPs that overlap in CinesArmy Badguys blocklist 15000 IPs. - https://cinsarmy.com/collective-intelligence-network-security
+Honeypot has 1148 IPs that overlap in Blocklist.de all blocklist 24087 IPs. - https://www.blocklist.de/en/index.html
 Honeypot has 21 IPs that overlap in emergingthreats.net blocklist 431 IPs.
-Honeypot has 57058 IPs that overlap in Bitwire inbound blocklist with 23248492 IPs. - https://bitwire.it/blocklist-stats
-Honeypot has 10762 IPs that overlap in Bitwire outbound blocklist with 121713 IPs. - https://bitwire.it/blocklist-stats
+Honeypot has 56842 IPs that overlap in Bitwire inbound blocklist with 23256039 IPs. - https://bitwire.it/blocklist-stats
+Honeypot has 10575 IPs that overlap in Bitwire outbound blocklist with 122217 IPs. - https://bitwire.it/blocklist-stats
 Honeypot has 2 IPs that overlap in Alienvault Reputation blocklist 609 IPs. - http://reputation.alienvault.com/reputation.data
 Honeypot has 0 IPs that overlap in Botvrij blocklist 4 IPs. - http://www.botvrij.eu/data/ioclist.ip-dst.raw
-Honeypot has 370 IPs that overlap in Threatfox blocklist 26590 IPs. - https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/refs/heads/main/ips.txt
-Honeypot has 2910 IPs that overlap in Dshield blocklist 5080 IPs. - https://www.dshield.org/block.txt
-Honeypot has 3671 IPs that overlap in Spamhaus Drop blocklist 15024108 IPs. - https://www.spamhaus.org/drop/drop.txt
-Honeypot has 0 IPs that overlap in AbuseIPDB 7Day blocklist 113340 IPs.
-Honeypot has 0 IPs that overlap in AbuseIPDB 30Day blocklist 159854 IPs.
-Honeypot has 0 IPs that overlap in AbuseIPDB 90Day blocklist 291748 IPs.
-Honeypot has 139 IPs that overlap in IdleAdmin Tor Exit blocklist 1252 IPs.
-Honeypot has 8443 IPs that overlap in Opendbl ipsum blocklist 16564 IPs.
-Honeypot has 2 IPs that overlap in Greynoise blocklist 9 IPs.
-Honeypot has 41753 IPs that overlap in Romainmarcoux 300k aa blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 9152 IPs that overlap in Romainmarcoux 300k ab blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 6406 IPs that overlap in Romainmarcoux 300k ac blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 6526 IPs that overlap in Romainmarcoux 300k ad blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 5992 IPs that overlap in Romainmarcoux 40k outbound blocklist 40000 IPs. - https://github.com/romainmarcoux/malicious-ip
-Honeypot has 10019 IPs that overlap in Romainmarcoux aa outbound blocklist 103694 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 374 IPs that overlap in Threatfox blocklist 27127 IPs. - https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/refs/heads/main/ips.txt
+Honeypot has 3195 IPs that overlap in Dshield blocklist 5080 IPs. - https://www.dshield.org/block.txt
+Honeypot has 3669 IPs that overlap in Spamhaus Drop blocklist 15018506 IPs. - https://www.spamhaus.org/drop/drop.txt
+Honeypot has 0 IPs that overlap in AbuseIPDB 7Day blocklist 114315 IPs.
+Honeypot has 0 IPs that overlap in AbuseIPDB 30Day blocklist 160147 IPs.
+Honeypot has 0 IPs that overlap in AbuseIPDB 90Day blocklist 292120 IPs.
+Honeypot has 139 IPs that overlap in IdleAdmin Tor Exit blocklist 1250 IPs.
+Honeypot has 7942 IPs that overlap in Opendbl ipsum blocklist 17536 IPs.
+Honeypot has 2 IPs that overlap in Greynoise blocklist 13 IPs.
+Honeypot has 41621 IPs that overlap in Romainmarcoux 300k aa blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 9143 IPs that overlap in Romainmarcoux 300k ab blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 6360 IPs that overlap in Romainmarcoux 300k ac blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 6533 IPs that overlap in Romainmarcoux 300k ad blocklist 300000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 5264 IPs that overlap in Romainmarcoux 40k outbound blocklist 40000 IPs. - https://github.com/romainmarcoux/malicious-ip
+Honeypot has 9393 IPs that overlap in Romainmarcoux aa outbound blocklist 104642 IPs. - https://github.com/romainmarcoux/malicious-ip
 Honeypot has 0 IPs that overlap in Romainmarcoux ab outbound blocklist 2 IPs. - https://github.com/romainmarcoux/malicious-ip
 
 
-Created on: 20261126002033
+Created on: 20261126122033
